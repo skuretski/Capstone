@@ -1,0 +1,58 @@
+//@import '../scss/styles.scss';
+
+.main {
+  height: 100vh;
+  .content-container {
+    flex-wrap: nowrap;
+    border-radius: 1em;
+    .col-0 {
+      flex-shrink: 1;
+      transition: all 750ms ease;
+    }
+    .col-4 {
+      flex-grow: 1;
+      transition: all 750ms cubic-bezier(0.075, 0.82, 0.165, 1);
+    }
+  }
+}
+
+ngb-pagination ::ng-deep .page-item.active .page-link {
+  background-color: #6c757d !important;
+  border-color: #6c757d !important;
+  color: white !important;
+}
+
+ngb-pagination ::ng-deep .page-link {
+  color: #6c757d !important;
+}
+
+.headline {
+  box-shadow: 4px 4px 4px 4px gray
+}
+
+.card-header {
+  font-size: 2.0rem !important;
+  font-weight: 1.5rem !important;
+}
+
+.star {
+  position: relative;
+  display: inline-block;
+  font-size: 2rem;
+  color: #d3d3d3;
+}
+.full {
+  color: #e1ad01;
+}
+.half {
+  position: absolute;
+  display: inline-block;
+  overflow: hidden;
+  color: #e1ad01;
+}
+
+.rating-stuff {
+  color: #5498b6 !important;
+  cursor: default;
+}
+

@@ -1,0 +1,5517 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1875972,36.1443115 ]
+   },
+   "properties": {
+   "name":"Montesano's Italian Deli",
+   "state":"NV",
+   "rating":"5.0",
+   "count":6
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9885861,33.5092093 ]
+   },
+   "properties": {
+   "name":"Daniel's Italian Cuisine",
+   "state":"AZ",
+   "rating":"5.0",
+   "count":6
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.064508,33.5313101 ]
+   },
+   "properties": {
+   "name":"LaBella Pizzeria and Restaurant",
+   "state":"AZ",
+   "rating":"5.0",
+   "count":5
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2089199,36.2472804 ]
+   },
+   "properties": {
+   "name":"Don Michael's",
+   "state":"NV",
+   "rating":"5.0",
+   "count":3
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.929773,33.3197988 ]
+   },
+   "properties": {
+   "name":"Enzo's Gelato & Coffee Bar",
+   "state":"AZ",
+   "rating":"4.9",
+   "count":5
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.242873,36.089649 ]
+   },
+   "properties": {
+   "name":"Made In Italy Pizzeria Romana",
+   "state":"NV",
+   "rating":"4.887142857142857",
+   "count":7
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9080473,33.4806663 ]
+   },
+   "properties": {
+   "name":"La Fontana Trattoria-Pizzeria",
+   "state":"AZ",
+   "rating":"4.8809523809523805",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9273603,33.5831743 ]
+   },
+   "properties": {
+   "name":"Il Bosco Pizza",
+   "state":"AZ",
+   "rating":"4.826100506452634",
+   "count":24
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9468378,33.3038469 ]
+   },
+   "properties": {
+   "name":"Full House Pizza",
+   "state":"AZ",
+   "rating":"4.824074074074074",
+   "count":9
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.301818,36.1449499 ]
+   },
+   "properties": {
+   "name":"Bertolini's Authentic Trattoria",
+   "state":"NV",
+   "rating":"4.8",
+   "count":5
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1000527,36.0331607 ]
+   },
+   "properties": {
+   "name":"Fanny's Bistro & Deli",
+   "state":"NV",
+   "rating":"4.795454545454546",
+   "count":11
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.2213233,33.6103275 ]
+   },
+   "properties": {
+   "name":"Crispy Crust Pizza",
+   "state":"AZ",
+   "rating":"4.781818181818181",
+   "count":8
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.880444,33.594737 ]
+   },
+   "properties": {
+   "name":"Basil & Garlic Bistro",
+   "state":"AZ",
+   "rating":"4.7684099055066795",
+   "count":31
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8621882,33.5737729 ]
+   },
+   "properties": {
+   "name":"Terra Mia Italian Restaurant",
+   "state":"AZ",
+   "rating":"4.75",
+   "count":8
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.0936899,36.1153722 ]
+   },
+   "properties": {
+   "name":"Best Billiards",
+   "state":"NV",
+   "rating":"4.75",
+   "count":8
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.866561889648,33.6566467285156 ]
+   },
+   "properties": {
+   "name":"Ciao Grazie",
+   "state":"AZ",
+   "rating":"4.740901615901617",
+   "count":18
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.3939141,43.0419642 ]
+   },
+   "properties": {
+   "name":"JB's Eat-A-Bite BBQ",
+   "state":"WI",
+   "rating":"4.739583333333334",
+   "count":8
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9055104,33.5737667 ]
+   },
+   "properties": {
+   "name":"Olive's Pizzeria & Restaurant",
+   "state":"AZ",
+   "rating":"4.733333333333333",
+   "count":5
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.923871,33.613425 ]
+   },
+   "properties": {
+   "name":"New York's Best Italian Bistro",
+   "state":"AZ",
+   "rating":"4.732828323637147",
+   "count":34
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.924064,33.580276 ]
+   },
+   "properties": {
+   "name":"The Firm",
+   "state":"AZ",
+   "rating":"4.722222222222222",
+   "count":9
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.054685,36.018054 ]
+   },
+   "properties": {
+   "name":"Sunset Pizzeria",
+   "state":"NV",
+   "rating":"4.717045454545454",
+   "count":8
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.101392380893,36.0860009752715 ]
+   },
+   "properties": {
+   "name":"Luciano Garden",
+   "state":"NV",
+   "rating":"4.714285714285714",
+   "count":7
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.5722283,33.4160688 ]
+   },
+   "properties": {
+   "name":"Fatman's Pizza & Grill",
+   "state":"AZ",
+   "rating":"4.7023809523809526",
+   "count":6
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9001502,33.5227721 ]
+   },
+   "properties": {
+   "name":"Casella's Italian Delicatessen",
+   "state":"AZ",
+   "rating":"4.695108513490868",
+   "count":18
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.261080041528,36.1136470735073 ]
+   },
+   "properties": {
+   "name":"Cafe Chloe",
+   "state":"NV",
+   "rating":"4.694444444444445",
+   "count":9
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.279599,36.0843559 ]
+   },
+   "properties": {
+   "name":"Jr's Place",
+   "state":"NV",
+   "rating":"4.634615384615385",
+   "count":13
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.030464172363,36.0302581787109 ]
+   },
+   "properties": {
+   "name":"Bistro Pizza",
+   "state":"NV",
+   "rating":"4.622432243411776",
+   "count":18
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.925776,33.499275 ]
+   },
+   "properties": {
+   "name":"Franco's Italian Caffé",
+   "state":"AZ",
+   "rating":"4.618996415770609",
+   "count":31
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2654135,36.2636911 ]
+   },
+   "properties": {
+   "name":"North Beach Italian Bistro",
+   "state":"NV",
+   "rating":"4.6",
+   "count":5
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8612171,33.5746442 ]
+   },
+   "properties": {
+   "name":"Basilico Italian Restaurant",
+   "state":"AZ",
+   "rating":"4.592592592592593",
+   "count":9
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.297920227051,36.1122894287109 ]
+   },
+   "properties": {
+   "name":"Biaggio's Pizzeria",
+   "state":"NV",
+   "rating":"4.577962593653476",
+   "count":31
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.067981958389,33.4588800976063 ]
+   },
+   "properties": {
+   "name":"Pizza People Food Truck",
+   "state":"AZ",
+   "rating":"4.5761705101327745",
+   "count":12
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.172286068401,36.1151458784834 ]
+   },
+   "properties": {
+   "name":"Giada",
+   "state":"NV",
+   "rating":"4.567759206521142",
+   "count":57
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.7153845,33.601491 ]
+   },
+   "properties": {
+   "name":"Arrivederci Cucina Italiana",
+   "state":"AZ",
+   "rating":"4.555555555555555",
+   "count":9
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.888462,33.700033 ]
+   },
+   "properties": {
+   "name":"Pane e Vino",
+   "state":"AZ",
+   "rating":"4.500000000000001",
+   "count":13
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.136389,36.175 ]
+   },
+   "properties": {
+   "name":"Antonio's Italian Ristorante",
+   "state":"NV",
+   "rating":"4.5",
+   "count":8
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0677697,33.640437 ]
+   },
+   "properties": {
+   "name":"Famous Ray's Pizza",
+   "state":"AZ",
+   "rating":"4.5",
+   "count":13
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9985862,33.3050646 ]
+   },
+   "properties": {
+   "name":"That Italian Place",
+   "state":"AZ",
+   "rating":"4.5",
+   "count":4
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.717762,33.2630712 ]
+   },
+   "properties": {
+   "name":"Vito & Nick's Ii",
+   "state":"AZ",
+   "rating":"4.5",
+   "count":4
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1149077,36.02818 ]
+   },
+   "properties": {
+   "name":"Gabriella's Italian Grill & Pizzeria",
+   "state":"NV",
+   "rating":"4.496727030733242",
+   "count":14
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9222691,33.5840139 ]
+   },
+   "properties": {
+   "name":"il Capo Pizzeria",
+   "state":"AZ",
+   "rating":"4.492105263157894",
+   "count":19
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.7561394,33.3674505 ]
+   },
+   "properties": {
+   "name":"Casanova Brothers Pizza",
+   "state":"AZ",
+   "rating":"4.489956777266146",
+   "count":27
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.7713379,33.3369592 ]
+   },
+   "properties": {
+   "name":"Brooklyn V's Pizza",
+   "state":"AZ",
+   "rating":"4.473494547178758",
+   "count":19
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.929344,33.4961 ]
+   },
+   "properties": {
+   "name":"Crudo",
+   "state":"AZ",
+   "rating":"4.473148966735472",
+   "count":58
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.220311,43.18294 ]
+   },
+   "properties": {
+   "name":"Salvatore's Tomato Pies",
+   "state":"WI",
+   "rating":"4.470269363110273",
+   "count":20
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0650347,33.5076398 ]
+   },
+   "properties": {
+   "name":"King Solomon's Pizza",
+   "state":"AZ",
+   "rating":"4.4663003663003655",
+   "count":7
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.015465,33.6556294 ]
+   },
+   "properties": {
+   "name":"Pezzano's Pizza",
+   "state":"AZ",
+   "rating":"4.462678062678062",
+   "count":13
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.978728033712,33.6000149463325 ]
+   },
+   "properties": {
+   "name":"My Pie",
+   "state":"AZ",
+   "rating":"4.452969155844156",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.13230535388,33.5384783148766 ]
+   },
+   "properties": {
+   "name":"Rkidds Pizza & Wings",
+   "state":"AZ",
+   "rating":"4.451515151515152",
+   "count":6
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.162891042784,36.07082622848 ]
+   },
+   "properties": {
+   "name":"Panevino Restaurant",
+   "state":"NV",
+   "rating":"4.44663962200908",
+   "count":42
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.924221,33.5819965 ]
+   },
+   "properties": {
+   "name":"Tiramisu Ristorante",
+   "state":"AZ",
+   "rating":"4.444444444444445",
+   "count":9
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.996292,33.502191 ]
+   },
+   "properties": {
+   "name":"Postino Arcadia",
+   "state":"AZ",
+   "rating":"4.4254780828768565",
+   "count":38
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.124353,33.666693 ]
+   },
+   "properties": {
+   "name":"Fired Pie",
+   "state":"AZ",
+   "rating":"4.424401993583375",
+   "count":21
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.1593414,33.5311735 ]
+   },
+   "properties": {
+   "name":"Venice Pizza",
+   "state":"AZ",
+   "rating":"4.420833333333333",
+   "count":8
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0257951,33.5093009 ]
+   },
+   "properties": {
+   "name":"SOLO Trattoria",
+   "state":"AZ",
+   "rating":"4.42039626707689",
+   "count":44
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8261082,33.4349623 ]
+   },
+   "properties": {
+   "name":"Mardenelys Ristorante",
+   "state":"AZ",
+   "rating":"4.416666666666667",
+   "count":12
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1370841,36.1066864 ]
+   },
+   "properties": {
+   "name":"Cugino's Italian Deli",
+   "state":"NV",
+   "rating":"4.413337400212231",
+   "count":43
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0756556,33.4802511 ]
+   },
+   "properties": {
+   "name":"Pino's Pizza Al Centro",
+   "state":"AZ",
+   "rating":"4.411896084267375",
+   "count":35
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0037026,33.4951581 ]
+   },
+   "properties": {
+   "name":"Nook",
+   "state":"AZ",
+   "rating":"4.4029524568998255",
+   "count":38
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0152854,33.5100242 ]
+   },
+   "properties": {
+   "name":"noca",
+   "state":"AZ",
+   "rating":"4.394121174896754",
+   "count":60
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9969776,33.6117369 ]
+   },
+   "properties": {
+   "name":"Roma Garden Ristorante",
+   "state":"AZ",
+   "rating":"4.390867465867466",
+   "count":33
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0114578,33.5820709 ]
+   },
+   "properties": {
+   "name":"Michelina's Ristorante Costa Campagnia",
+   "state":"AZ",
+   "rating":"4.386507936507937",
+   "count":21
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.387364,43.074337 ]
+   },
+   "properties": {
+   "name":"Cento",
+   "state":"WI",
+   "rating":"4.384615384615385",
+   "count":13
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2589028,36.1808173 ]
+   },
+   "properties": {
+   "name":"Parma By Chef Marc",
+   "state":"NV",
+   "rating":"4.382271096643466",
+   "count":67
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.01424,33.530322 ]
+   },
+   "properties": {
+   "name":"Caffe Daniel",
+   "state":"AZ",
+   "rating":"4.380512820512821",
+   "count":25
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.4462967,33.3526968 ]
+   },
+   "properties": {
+   "name":"Taste of Italy 2",
+   "state":"AZ",
+   "rating":"4.376190476190476",
+   "count":10
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.072167,33.455863 ]
+   },
+   "properties": {
+   "name":"Pomo Pizzeria Napoletana",
+   "state":"AZ",
+   "rating":"4.374865555892017",
+   "count":74
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1542695,36.1186973 ]
+   },
+   "properties": {
+   "name":"Toscano Italian Steakhouse",
+   "state":"NV",
+   "rating":"4.369791666666666",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9795246,33.6384005 ]
+   },
+   "properties": {
+   "name":"Crust Pizzeria & Ristorante",
+   "state":"AZ",
+   "rating":"4.367960023515579",
+   "count":27
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.1262987,33.4950335 ]
+   },
+   "properties": {
+   "name":"Angie & Jimmie's Italian Pizza",
+   "state":"AZ",
+   "rating":"4.3500000000000005",
+   "count":12
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.209951896787,36.1266205315248 ]
+   },
+   "properties": {
+   "name":"Trattoria Nakamura-Ya",
+   "state":"NV",
+   "rating":"4.337457764768553",
+   "count":33
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.7899116,33.3551173 ]
+   },
+   "properties": {
+   "name":"Postino East",
+   "state":"AZ",
+   "rating":"4.33742915886388",
+   "count":28
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.053525918855,33.5528379672612 ]
+   },
+   "properties": {
+   "name":"Stumpys Pizza",
+   "state":"AZ",
+   "rating":"4.336911017508741",
+   "count":17
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8602743,33.2617999 ]
+   },
+   "properties": {
+   "name":"Bol Italia",
+   "state":"AZ",
+   "rating":"4.333333333333333",
+   "count":3
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.31953,36.05798 ]
+   },
+   "properties": {
+   "name":"Rhodes Ranch Club House Restaurant",
+   "state":"NV",
+   "rating":"4.333333333333333",
+   "count":6
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.120023,36.055832 ]
+   },
+   "properties": {
+   "name":"The Pizza Caffe",
+   "state":"NV",
+   "rating":"4.333333333333333",
+   "count":3
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.924099,33.8273269 ]
+   },
+   "properties": {
+   "name":"Alberto Italian Restaurant",
+   "state":"AZ",
+   "rating":"4.328981937602628",
+   "count":29
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0740912,33.5126276 ]
+   },
+   "properties": {
+   "name":"Postino Central",
+   "state":"AZ",
+   "rating":"4.318455498231683",
+   "count":36
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1033199,36.0019714 ]
+   },
+   "properties": {
+   "name":"Buon Gusto Ristorante",
+   "state":"NV",
+   "rating":"4.3175030778628525",
+   "count":40
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.206350563794,35.9951546505647 ]
+   },
+   "properties": {
+   "name":"Spaghetty Western",
+   "state":"NV",
+   "rating":"4.317175532800533",
+   "count":32
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.161534,36.11292 ]
+   },
+   "properties": {
+   "name":"Tuscany Gardens",
+   "state":"NV",
+   "rating":"4.31547619047619",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.174355506897,36.1098050266809 ]
+   },
+   "properties": {
+   "name":"Scarpetta",
+   "state":"NV",
+   "rating":"4.313398504128986",
+   "count":63
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.1102942,33.4807562 ]
+   },
+   "properties": {
+   "name":"Pizza a Metro",
+   "state":"AZ",
+   "rating":"4.309188837523529",
+   "count":41
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0743113,33.5006213 ]
+   },
+   "properties": {
+   "name":"Pane Bianco",
+   "state":"AZ",
+   "rating":"4.302777109721555",
+   "count":45
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0151722,33.5307049 ]
+   },
+   "properties": {
+   "name":"L'amore",
+   "state":"AZ",
+   "rating":"4.295066045066046",
+   "count":30
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.384011,43.072631 ]
+   },
+   "properties": {
+   "name":"Nostrano",
+   "state":"WI",
+   "rating":"4.29384154040404",
+   "count":40
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.096899,36.005417 ]
+   },
+   "properties": {
+   "name":"Vito's Italian Eatery",
+   "state":"NV",
+   "rating":"4.291666666666667",
+   "count":4
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0537905,33.3067372 ]
+   },
+   "properties": {
+   "name":"Le Ragazze",
+   "state":"AZ",
+   "rating":"4.286507936507936",
+   "count":21
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.158149,36.057578 ]
+   },
+   "properties": {
+   "name":"La Bocce",
+   "state":"NV",
+   "rating":"4.281159420289855",
+   "count":10
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.892395,33.5824859 ]
+   },
+   "properties": {
+   "name":"Il Poggio D'Italia",
+   "state":"AZ",
+   "rating":"4.2727272727272725",
+   "count":11
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.075335894252,33.4837563869115 ]
+   },
+   "properties": {
+   "name":"FIRED PIE",
+   "state":"AZ",
+   "rating":"4.25861781026774",
+   "count":18
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.1161771,33.6839876 ]
+   },
+   "properties": {
+   "name":"Times Square Pizzeria",
+   "state":"AZ",
+   "rating":"4.258182516013399",
+   "count":34
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9258438,33.5310106 ]
+   },
+   "properties": {
+   "name":"Davanti Enoteca",
+   "state":"AZ",
+   "rating":"4.258035058077177",
+   "count":43
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.943525,33.624662 ]
+   },
+   "properties": {
+   "name":"Tutti Santi By Nina",
+   "state":"AZ",
+   "rating":"4.25636313004734",
+   "count":36
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1373615,36.1084263 ]
+   },
+   "properties": {
+   "name":"High Roller Deli",
+   "state":"NV",
+   "rating":"4.25",
+   "count":4
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.999092102051,33.4348794896361 ]
+   },
+   "properties": {
+   "name":"Sauce - Pizza & Wine",
+   "state":"AZ",
+   "rating":"4.238585099111415",
+   "count":19
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8598336,33.3607307 ]
+   },
+   "properties": {
+   "name":"Nello's Pizza Mesa",
+   "state":"AZ",
+   "rating":"4.237814943747731",
+   "count":15
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9236859,33.8238772 ]
+   },
+   "properties": {
+   "name":"Giordano Trattoria Romana",
+   "state":"AZ",
+   "rating":"4.2375",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.211622,36.171184 ]
+   },
+   "properties": {
+   "name":"Tinoco's Bistro",
+   "state":"NV",
+   "rating":"4.236111111111111",
+   "count":12
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.373782,33.654849 ]
+   },
+   "properties": {
+   "name":"Little Sicily",
+   "state":"AZ",
+   "rating":"4.234041619755905",
+   "count":15
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.889629,33.569529 ]
+   },
+   "properties": {
+   "name":"Andreoli Italian Grocer",
+   "state":"AZ",
+   "rating":"4.233190981213545",
+   "count":49
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8342047,33.584274 ]
+   },
+   "properties": {
+   "name":"Marco's Italian Bistro",
+   "state":"AZ",
+   "rating":"4.2307539682539685",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.5298466,43.0749188 ]
+   },
+   "properties": {
+   "name":"Novanta",
+   "state":"WI",
+   "rating":"4.2292744996549345",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9154217,33.5645629 ]
+   },
+   "properties": {
+   "name":"Un Bacio Ristoranti",
+   "state":"AZ",
+   "rating":"4.227450980392156",
+   "count":17
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.85960385582,33.3113830747242 ]
+   },
+   "properties": {
+   "name":"Floridino's Pizza & Pasta",
+   "state":"AZ",
+   "rating":"4.223526479845392",
+   "count":28
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.151258,36.109129 ]
+   },
+   "properties": {
+   "name":"Ferraro's  Restaurant & Wine Bar",
+   "state":"NV",
+   "rating":"4.21311294688774",
+   "count":61
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1177785,36.0095858 ]
+   },
+   "properties": {
+   "name":"Montesano's Eateria",
+   "state":"NV",
+   "rating":"4.212830115387615",
+   "count":38
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.906143188477,33.6712646484375 ]
+   },
+   "properties": {
+   "name":"Local Bistro",
+   "state":"AZ",
+   "rating":"4.203765678893636",
+   "count":47
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8261082,33.4349623 ]
+   },
+   "properties": {
+   "name":"RigaTony's",
+   "state":"AZ",
+   "rating":"4.2",
+   "count":5
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.687462,33.3255475 ]
+   },
+   "properties": {
+   "name":"Red Brick Pizza",
+   "state":"AZ",
+   "rating":"4.195238095238095",
+   "count":5
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8905084,33.6722462 ]
+   },
+   "properties": {
+   "name":"Autostrada",
+   "state":"AZ",
+   "rating":"4.194444444444445",
+   "count":18
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2792238,36.1253118 ]
+   },
+   "properties": {
+   "name":"CJ's Italian Ice & Custard",
+   "state":"NV",
+   "rating":"4.191919191919192",
+   "count":6
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.889917180151,33.5690799263191 ]
+   },
+   "properties": {
+   "name":"Yo Pauly's NY Pizza Co.",
+   "state":"AZ",
+   "rating":"4.186014414507063",
+   "count":22
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0403946,33.5094461 ]
+   },
+   "properties": {
+   "name":"The Parlor",
+   "state":"AZ",
+   "rating":"4.185216721828906",
+   "count":66
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.250331,36.219859 ]
+   },
+   "properties": {
+   "name":"Gallo's Pizza Kitchen",
+   "state":"NV",
+   "rating":"4.185185185185185",
+   "count":12
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0739321,33.4561612 ]
+   },
+   "properties": {
+   "name":"Miami Cafe",
+   "state":"AZ",
+   "rating":"4.184573002754821",
+   "count":11
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.713364,33.594963 ]
+   },
+   "properties": {
+   "name":"Sapori D'Italia",
+   "state":"AZ",
+   "rating":"4.180100848591152",
+   "count":38
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9299885,33.4966639 ]
+   },
+   "properties": {
+   "name":"EVO",
+   "state":"AZ",
+   "rating":"4.180054837092652",
+   "count":37
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9542269,33.4217189 ]
+   },
+   "properties": {
+   "name":"Mama's Italian Deli",
+   "state":"AZ",
+   "rating":"4.178835978835979",
+   "count":9
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.6701409,33.4156823 ]
+   },
+   "properties": {
+   "name":"Sourdough Pizza Restaurant",
+   "state":"AZ",
+   "rating":"4.176501035196687",
+   "count":7
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1265829,36.100414 ]
+   },
+   "properties": {
+   "name":"Sergio's Italian Gardens",
+   "state":"NV",
+   "rating":"4.1677936799719895",
+   "count":32
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.4567505,43.0354126 ]
+   },
+   "properties": {
+   "name":"Gino's Italian Deli",
+   "state":"WI",
+   "rating":"4.166666666666668",
+   "count":18
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.3290609,36.2216289 ]
+   },
+   "properties": {
+   "name":"Vit's Pizza",
+   "state":"NV",
+   "rating":"4.166666666666666",
+   "count":4
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9270326,33.4740683 ]
+   },
+   "properties": {
+   "name":"Defalco's Italian Grocery",
+   "state":"AZ",
+   "rating":"4.161708252240591",
+   "count":51
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.241693,36.064115 ]
+   },
+   "properties": {
+   "name":"Eddie D's",
+   "state":"NV",
+   "rating":"4.157868606281919",
+   "count":28
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9252851,33.7012665 ]
+   },
+   "properties": {
+   "name":"Parmigiano Italian Bistro",
+   "state":"AZ",
+   "rating":"4.1535087719298245",
+   "count":19
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.3250841,36.1248839 ]
+   },
+   "properties": {
+   "name":"Due Forni",
+   "state":"NV",
+   "rating":"4.151301020207942",
+   "count":46
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.155773162842,36.1481329464598 ]
+   },
+   "properties": {
+   "name":"Fellini's Ristorante",
+   "state":"NV",
+   "rating":"4.137155277672519",
+   "count":29
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8738341,33.3640931 ]
+   },
+   "properties": {
+   "name":"Tutti Santi Ristorante Italiano",
+   "state":"AZ",
+   "rating":"4.136209483793517",
+   "count":28
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.928574,33.498914 ]
+   },
+   "properties": {
+   "name":"Marcellino Ristorante",
+   "state":"AZ",
+   "rating":"4.135517133113977",
+   "count":41
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.642785,33.279079 ]
+   },
+   "properties": {
+   "name":"Baci Italian Bistro",
+   "state":"AZ",
+   "rating":"4.134818228366616",
+   "count":31
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.925386714633,33.5670149312865 ]
+   },
+   "properties": {
+   "name":"Pomo Pizzeria Napoletana - Scottsdale",
+   "state":"AZ",
+   "rating":"4.131044738737046",
+   "count":26
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0551086,33.5378307 ]
+   },
+   "properties": {
+   "name":"Villa Italia Ristoranti",
+   "state":"AZ",
+   "rating":"4.125",
+   "count":13
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.716897,33.436137 ]
+   },
+   "properties": {
+   "name":"Alessia's Ristorante Italiano",
+   "state":"AZ",
+   "rating":"4.124650289324203",
+   "count":30
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.682413,33.4670739 ]
+   },
+   "properties": {
+   "name":"Pacino's Italian",
+   "state":"AZ",
+   "rating":"4.118312757201647",
+   "count":27
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.154714,36.238898 ]
+   },
+   "properties": {
+   "name":"3 Tomatoes & A Mozzarella",
+   "state":"NV",
+   "rating":"4.115740740740741",
+   "count":9
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.065353393555,33.5124076744064 ]
+   },
+   "properties": {
+   "name":"Pizza Heaven Bistro",
+   "state":"AZ",
+   "rating":"4.115639638139639",
+   "count":28
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1435569,36.1692708 ]
+   },
+   "properties": {
+   "name":"Joe Vicari's Andiamo Italian Steakhouse",
+   "state":"NV",
+   "rating":"4.114274215254608",
+   "count":33
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.119960978627,36.1441679298878 ]
+   },
+   "properties": {
+   "name":"Italian American Club Restaurant",
+   "state":"NV",
+   "rating":"4.111111111111112",
+   "count":6
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.715082,33.604856 ]
+   },
+   "properties": {
+   "name":"Terra Nostra",
+   "state":"AZ",
+   "rating":"4.111111111111111",
+   "count":9
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1104821,36.0028159 ]
+   },
+   "properties": {
+   "name":"Gaetano's Ristorante",
+   "state":"NV",
+   "rating":"4.107165713092599",
+   "count":49
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2794814,36.1439835 ]
+   },
+   "properties": {
+   "name":"Pasquales Ristorante",
+   "state":"NV",
+   "rating":"4.107142857142857",
+   "count":7
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.3115031,36.1588974 ]
+   },
+   "properties": {
+   "name":"Dom DeMarco's Pizzeria & Bar",
+   "state":"NV",
+   "rating":"4.102558646519396",
+   "count":39
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.5183683,43.0761711 ]
+   },
+   "properties": {
+   "name":"Oliva",
+   "state":"WI",
+   "rating":"4.101190476190475",
+   "count":19
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0995834,33.5388125 ]
+   },
+   "properties": {
+   "name":"Raffaele's Pizza",
+   "state":"AZ",
+   "rating":"4.091486291486292",
+   "count":12
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.074195,33.513539 ]
+   },
+   "properties": {
+   "name":"Federal Pizza",
+   "state":"AZ",
+   "rating":"4.08078101240584",
+   "count":38
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9967663,33.4951157 ]
+   },
+   "properties": {
+   "name":"Mamma Mia Brick Oven Pizza & Pasta",
+   "state":"AZ",
+   "rating":"4.080007134255676",
+   "count":29
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9255724,33.564852 ]
+   },
+   "properties": {
+   "name":"Cuttlefish",
+   "state":"AZ",
+   "rating":"4.076428571428572",
+   "count":30
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.4282699,43.0721815 ]
+   },
+   "properties": {
+   "name":"Lombardinos Italian Restaurant and Bar",
+   "state":"WI",
+   "rating":"4.074777012334221",
+   "count":38
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.064668,33.59547 ]
+   },
+   "properties": {
+   "name":"Different Pointe of View",
+   "state":"AZ",
+   "rating":"4.073665731553874",
+   "count":39
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.2036292,33.568119 ]
+   },
+   "properties": {
+   "name":"Brunos Pizza",
+   "state":"AZ",
+   "rating":"4.072916666666667",
+   "count":6
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.096899,36.005417 ]
+   },
+   "properties": {
+   "name":"Pasta Shop Ristorante",
+   "state":"NV",
+   "rating":"4.071430628875482",
+   "count":32
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.140852,36.130315 ]
+   },
+   "properties": {
+   "name":"La Scala",
+   "state":"NV",
+   "rating":"4.0690740740740745",
+   "count":30
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.977849,33.494238 ]
+   },
+   "properties": {
+   "name":"Red Tomato",
+   "state":"AZ",
+   "rating":"4.0625",
+   "count":4
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.079908,33.45496 ]
+   },
+   "properties": {
+   "name":"Cibo",
+   "state":"AZ",
+   "rating":"4.054882526027883",
+   "count":53
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.2364227,33.6474468 ]
+   },
+   "properties": {
+   "name":"Red Devil Bistro",
+   "state":"AZ",
+   "rating":"4.05050505050505",
+   "count":9
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.1218935,33.6702216 ]
+   },
+   "properties": {
+   "name":"Neapolitan Wood Fired Italian",
+   "state":"AZ",
+   "rating":"4.049301137459032",
+   "count":22
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.102164593313,36.0017071857627 ]
+   },
+   "properties": {
+   "name":"Giuseppe's Italian Grille",
+   "state":"NV",
+   "rating":"4.048337112622828",
+   "count":21
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2628382,36.1573245 ]
+   },
+   "properties": {
+   "name":"Rocco's NY Italian Deli",
+   "state":"NV",
+   "rating":"4.0420951068132265",
+   "count":33
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.724395,33.380516 ]
+   },
+   "properties": {
+   "name":"Zappone's Italian Bistro",
+   "state":"AZ",
+   "rating":"4.0412204008330255",
+   "count":41
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.856635,33.336677 ]
+   },
+   "properties": {
+   "name":"La Famiglia",
+   "state":"AZ",
+   "rating":"4.040109897664345",
+   "count":29
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.7140561,33.5739313 ]
+   },
+   "properties": {
+   "name":"Redendo's Pizza & Pasta",
+   "state":"AZ",
+   "rating":"4.040043290043289",
+   "count":14
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9080449,33.3359104 ]
+   },
+   "properties": {
+   "name":"Rigatony's",
+   "state":"AZ",
+   "rating":"4.038803212384417",
+   "count":47
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.980951,33.304026 ]
+   },
+   "properties": {
+   "name":"Va Bene",
+   "state":"AZ",
+   "rating":"4.0324126172208015",
+   "count":34
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.4374308,43.0742897 ]
+   },
+   "properties": {
+   "name":"Itzza Pizza",
+   "state":"WI",
+   "rating":"4.030864197530864",
+   "count":9
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.3055866,36.1929381 ]
+   },
+   "properties": {
+   "name":"Upper Crust Pizza",
+   "state":"NV",
+   "rating":"4.028215586880242",
+   "count":44
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.7572371,33.322243 ]
+   },
+   "properties": {
+   "name":"La Calabria Ristorante",
+   "state":"AZ",
+   "rating":"4.028145684724632",
+   "count":38
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.3614479,33.6582332 ]
+   },
+   "properties": {
+   "name":"Rosie's Italian Cafe",
+   "state":"AZ",
+   "rating":"4.025229156808105",
+   "count":19
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.1839297,33.5384203 ]
+   },
+   "properties": {
+   "name":"La Piazza al Forno",
+   "state":"AZ",
+   "rating":"4.023513994242505",
+   "count":37
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.333127,36.159157 ]
+   },
+   "properties": {
+   "name":"Sullivan's Supper Club",
+   "state":"WI",
+   "rating":"4.022222222222222",
+   "count":5
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9254993,33.6247755 ]
+   },
+   "properties": {
+   "name":"Tanzy",
+   "state":"AZ",
+   "rating":"4.021455114933375",
+   "count":46
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8742551,33.6202185 ]
+   },
+   "properties": {
+   "name":"Redendo's Pizzeria Ristorante",
+   "state":"AZ",
+   "rating":"4.020477422306691",
+   "count":22
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.209791004785,36.10819355229 ]
+   },
+   "properties": {
+   "name":"Nove Italiano",
+   "state":"NV",
+   "rating":"4.020141152331823",
+   "count":59
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.168436862149,36.1245487066835 ]
+   },
+   "properties": {
+   "name":"Trattoria Reggiano",
+   "state":"NV",
+   "rating":"4.017990454249209",
+   "count":46
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.223604,36.115274 ]
+   },
+   "properties": {
+   "name":"Nora's Cuisine",
+   "state":"NV",
+   "rating":"4.015020212690756",
+   "count":55
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.191825,36.144269 ]
+   },
+   "properties": {
+   "name":"Herbs & Rye",
+   "state":"NV",
+   "rating":"4.0137791012087085",
+   "count":42
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9918344,33.3050704 ]
+   },
+   "properties": {
+   "name":"Arrivederci Trattoria",
+   "state":"AZ",
+   "rating":"4.011047619047619",
+   "count":25
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0649071,33.4770399 ]
+   },
+   "properties": {
+   "name":"Calabria Italian Kitchen",
+   "state":"AZ",
+   "rating":"4.009778911564625",
+   "count":28
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.38434,43.07243 ]
+   },
+   "properties": {
+   "name":"Tornado Steak House",
+   "state":"WI",
+   "rating":"4.009340874037424",
+   "count":27
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.150970458984,36.1059455871582 ]
+   },
+   "properties": {
+   "name":"Naked City Pizza On Paradise",
+   "state":"NV",
+   "rating":"4.009090909090909",
+   "count":11
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.3923164,33.4111696 ]
+   },
+   "properties": {
+   "name":"Taste of Italy",
+   "state":"AZ",
+   "rating":"4.005531813865147",
+   "count":18
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9258624,33.5278493 ]
+   },
+   "properties": {
+   "name":"Methode Bistro",
+   "state":"AZ",
+   "rating":"4.0",
+   "count":6
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1060721,36.0998468 ]
+   },
+   "properties": {
+   "name":"Swiss Cafe Restaurant",
+   "state":"NV",
+   "rating":"4.0",
+   "count":4
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2009724,36.1022441 ]
+   },
+   "properties": {
+   "name":"Sazio Italian Dining",
+   "state":"NV",
+   "rating":"4.0",
+   "count":4
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2438503,36.0899451 ]
+   },
+   "properties": {
+   "name":"Pizzalicious",
+   "state":"NV",
+   "rating":"4.0",
+   "count":6
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.1388202,33.8649643 ]
+   },
+   "properties": {
+   "name":"Affinito's Bistro",
+   "state":"AZ",
+   "rating":"4.0",
+   "count":3
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.13427734375,36.1003494262695 ]
+   },
+   "properties": {
+   "name":"Metro Pizza",
+   "state":"NV",
+   "rating":"3.9974048590938636",
+   "count":88
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.12037370959,33.598648105674 ]
+   },
+   "properties": {
+   "name":"Anzios Italian Restaurant",
+   "state":"AZ",
+   "rating":"3.9942990335880277",
+   "count":29
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9246221,33.52681 ]
+   },
+   "properties": {
+   "name":"Veneto Trattoria",
+   "state":"AZ",
+   "rating":"3.993417056987675",
+   "count":41
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.1776467,33.5516979 ]
+   },
+   "properties": {
+   "name":"Luna Pizza",
+   "state":"AZ",
+   "rating":"3.9917695473251027",
+   "count":9
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2244681,36.1455047 ]
+   },
+   "properties": {
+   "name":"New York Pizza & Pasta",
+   "state":"NV",
+   "rating":"3.989556914251208",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -114.983451548001,36.0383099708365 ]
+   },
+   "properties": {
+   "name":"Hot Dog Heaven",
+   "state":"NV",
+   "rating":"3.9861681262543334",
+   "count":9
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.118139829007,36.0175850600871 ]
+   },
+   "properties": {
+   "name":"Novecento Pizzeria",
+   "state":"NV",
+   "rating":"3.9808219467138173",
+   "count":54
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.177001,36.11199 ]
+   },
+   "properties": {
+   "name":"Circo",
+   "state":"NV",
+   "rating":"3.978636445412094",
+   "count":51
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.172953,36.10156 ]
+   },
+   "properties": {
+   "name":"Fiamma Trattoria & Bar",
+   "state":"NV",
+   "rating":"3.9779382163248322",
+   "count":59
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.172711292526,36.1182264970781 ]
+   },
+   "properties": {
+   "name":"Oyster Bar at Harrah's",
+   "state":"NV",
+   "rating":"3.974076260439897",
+   "count":33
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9102055,33.4862787 ]
+   },
+   "properties": {
+   "name":"The Side Door Corner Store",
+   "state":"AZ",
+   "rating":"3.9734722222222225",
+   "count":20
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.049455,33.377568 ]
+   },
+   "properties": {
+   "name":"Amano Pizza Bistro",
+   "state":"AZ",
+   "rating":"3.9734216763628525",
+   "count":34
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.954744458199,33.8274273433727 ]
+   },
+   "properties": {
+   "name":"Heavens Kaffee World Cuisine",
+   "state":"AZ",
+   "rating":"3.9666666666666663",
+   "count":10
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9102055,33.4862787 ]
+   },
+   "properties": {
+   "name":"Uncle Sal's Italian Restaurant",
+   "state":"AZ",
+   "rating":"3.9612381212295955",
+   "count":39
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9259207,33.5852839 ]
+   },
+   "properties": {
+   "name":"Guido's Chicago Meat & Deli",
+   "state":"AZ",
+   "rating":"3.9591767676767677",
+   "count":25
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8423781,33.3046882 ]
+   },
+   "properties": {
+   "name":"La Stalla Cucina Rustica",
+   "state":"AZ",
+   "rating":"3.958349880094066",
+   "count":43
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0773177,33.4587314 ]
+   },
+   "properties": {
+   "name":"Centurion",
+   "state":"AZ",
+   "rating":"3.952702577358307",
+   "count":42
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.219883,36.125163 ]
+   },
+   "properties": {
+   "name":"Roma Deli & Restaurant",
+   "state":"NV",
+   "rating":"3.952607212475633",
+   "count":36
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.0639891,36.1768232 ]
+   },
+   "properties": {
+   "name":"Napoli Pizza",
+   "state":"NV",
+   "rating":"3.9489795918367347",
+   "count":7
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9089018,33.4861448 ]
+   },
+   "properties": {
+   "name":"Little Chicago Pizza",
+   "state":"AZ",
+   "rating":"3.948566858876137",
+   "count":21
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.855946,33.725968 ]
+   },
+   "properties": {
+   "name":"Sassi",
+   "state":"AZ",
+   "rating":"3.9412558767397474",
+   "count":48
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1732166,36.1041893 ]
+   },
+   "properties": {
+   "name":"Market City Caffe",
+   "state":"NV",
+   "rating":"3.9404761904761902",
+   "count":14
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.703265,33.468577 ]
+   },
+   "properties": {
+   "name":"Caffe Boa Bistro",
+   "state":"AZ",
+   "rating":"3.940166975881261",
+   "count":28
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.1514811,33.5240077 ]
+   },
+   "properties": {
+   "name":"Pizza Mia",
+   "state":"AZ",
+   "rating":"3.9388888888888896",
+   "count":6
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9257499,33.6238044 ]
+   },
+   "properties": {
+   "name":"North Italia",
+   "state":"AZ",
+   "rating":"3.93003009699176",
+   "count":133
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8872821,33.569041 ]
+   },
+   "properties": {
+   "name":"Amarone Ristorante Italiano",
+   "state":"AZ",
+   "rating":"3.9293055555555547",
+   "count":20
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9456801,33.2907071 ]
+   },
+   "properties": {
+   "name":"Verona Chophouse",
+   "state":"AZ",
+   "rating":"3.9247045376121465",
+   "count":32
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.927561,33.610963 ]
+   },
+   "properties": {
+   "name":"Arrivederci",
+   "state":"AZ",
+   "rating":"3.923903508771931",
+   "count":38
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9827084,33.3313401 ]
+   },
+   "properties": {
+   "name":"Nellos Pizza",
+   "state":"AZ",
+   "rating":"3.9223307203856406",
+   "count":23
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9253764,33.6757566 ]
+   },
+   "properties": {
+   "name":"Nick's at Grayhawk",
+   "state":"AZ",
+   "rating":"3.920588235294118",
+   "count":17
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9095294,33.3637601 ]
+   },
+   "properties": {
+   "name":"Miele's Italian Bistro",
+   "state":"AZ",
+   "rating":"3.920001308413313",
+   "count":41
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9241443,33.4949533 ]
+   },
+   "properties": {
+   "name":"Tommy V's Urban Kitchen & Bar",
+   "state":"AZ",
+   "rating":"3.916112732312953",
+   "count":48
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.175061689998,36.1076767160086 ]
+   },
+   "properties": {
+   "name":"Wolfgang Puck Pizzeria & Cucina",
+   "state":"NV",
+   "rating":"3.9146834196932017",
+   "count":61
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.139396,36.181417 ]
+   },
+   "properties": {
+   "name":"La Piazza",
+   "state":"NV",
+   "rating":"3.9141025641025644",
+   "count":13
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0725195,33.4493442 ]
+   },
+   "properties": {
+   "name":"La Piazza Locale",
+   "state":"AZ",
+   "rating":"3.912300501430936",
+   "count":23
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.3594317,33.6403184 ]
+   },
+   "properties": {
+   "name":"Mike's Greek & Italian Cuisine",
+   "state":"AZ",
+   "rating":"3.909090909090909",
+   "count":11
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.004102,33.316873 ]
+   },
+   "properties": {
+   "name":"Florencia Pizza Bistro",
+   "state":"AZ",
+   "rating":"3.908135961708707",
+   "count":22
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0125521,33.6119171 ]
+   },
+   "properties": {
+   "name":"Carmella's Italian Kitchen and Bar",
+   "state":"AZ",
+   "rating":"3.907407407407408",
+   "count":9
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.243004,36.098354 ]
+   },
+   "properties": {
+   "name":"Elements Kitchen & Martini Bar",
+   "state":"NV",
+   "rating":"3.9054096481698286",
+   "count":39
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.301818,36.1449499 ]
+   },
+   "properties": {
+   "name":"Siena Italian Authentic Trattoria and Deli",
+   "state":"NV",
+   "rating":"3.90092219447155",
+   "count":49
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.892189979492,33.6228299457751 ]
+   },
+   "properties": {
+   "name":"Luke's Of Chicago",
+   "state":"AZ",
+   "rating":"3.9002717391304342",
+   "count":10
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.1310283,33.610825 ]
+   },
+   "properties": {
+   "name":"Pizza by Napoli",
+   "state":"AZ",
+   "rating":"3.900195694716243",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9782693,33.7428028 ]
+   },
+   "properties": {
+   "name":"Amaro Italiano Ristorante",
+   "state":"AZ",
+   "rating":"3.8997935536409374",
+   "count":37
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0473119,33.4949943 ]
+   },
+   "properties": {
+   "name":"Luke's of Chicago's",
+   "state":"AZ",
+   "rating":"3.8935814023533317",
+   "count":13
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.7117618,32.9485206 ]
+   },
+   "properties": {
+   "name":"Little Italy Pizza & Restaurant",
+   "state":"AZ",
+   "rating":"3.8908668730650153",
+   "count":19
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.156434,36.131845 ]
+   },
+   "properties": {
+   "name":"Piero's Italian Cuisine",
+   "state":"NV",
+   "rating":"3.889767564868779",
+   "count":26
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.978392,33.304138 ]
+   },
+   "properties": {
+   "name":"Bell' Italia Pizzeria",
+   "state":"AZ",
+   "rating":"3.884784938197767",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.452298327185,43.07208923083 ]
+   },
+   "properties": {
+   "name":"Cafe Porta Alba",
+   "state":"WI",
+   "rating":"3.8788205334892902",
+   "count":28
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.285919643939,36.1675004657412 ]
+   },
+   "properties": {
+   "name":"Pizza Lounge",
+   "state":"NV",
+   "rating":"3.8778358497870693",
+   "count":18
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.30696,36.099561 ]
+   },
+   "properties": {
+   "name":"Off the Strip Just Real Food",
+   "state":"NV",
+   "rating":"3.8767217630853996",
+   "count":22
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1696112,36.1214517 ]
+   },
+   "properties": {
+   "name":"Buddy V's Ristorante",
+   "state":"NV",
+   "rating":"3.8765977851782307",
+   "count":52
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1765221,36.1130109 ]
+   },
+   "properties": {
+   "name":"Hyde Bellagio",
+   "state":"NV",
+   "rating":"3.875",
+   "count":8
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.184263,33.612363 ]
+   },
+   "properties": {
+   "name":"Lil Deemos Family Bistro",
+   "state":"AZ",
+   "rating":"3.875",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9819,33.348162 ]
+   },
+   "properties": {
+   "name":"Brad's Place",
+   "state":"AZ",
+   "rating":"3.875",
+   "count":8
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0650491,33.6548401 ]
+   },
+   "properties": {
+   "name":"Times Square Neighborhood Italian Restaurant",
+   "state":"AZ",
+   "rating":"3.875",
+   "count":4
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0610062,33.5098142 ]
+   },
+   "properties": {
+   "name":"Cherryblossom Noodle Cafe",
+   "state":"AZ",
+   "rating":"3.8748633867433533",
+   "count":28
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -114.9650434,36.0267652 ]
+   },
+   "properties": {
+   "name":"Johnny Mac's",
+   "state":"NV",
+   "rating":"3.874286544609126",
+   "count":20
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.114646355429,36.239585366616 ]
+   },
+   "properties": {
+   "name":"Pasta China",
+   "state":"NV",
+   "rating":"3.872630841380841",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.834964,33.414929 ]
+   },
+   "properties": {
+   "name":"Queens Pizzeria and Cafe",
+   "state":"AZ",
+   "rating":"3.867463670324082",
+   "count":19
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.922301,33.493947 ]
+   },
+   "properties": {
+   "name":"Fred's at Barneys New York",
+   "state":"AZ",
+   "rating":"3.860714285714286",
+   "count":20
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1116708,36.1003826 ]
+   },
+   "properties": {
+   "name":"Casa Di Amore",
+   "state":"NV",
+   "rating":"3.8591058859441203",
+   "count":40
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8738338,33.3640786 ]
+   },
+   "properties": {
+   "name":"Auntie Pasto's",
+   "state":"AZ",
+   "rating":"3.858974358974358",
+   "count":13
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0632597,33.6071604 ]
+   },
+   "properties": {
+   "name":"Isa's Pizza",
+   "state":"AZ",
+   "rating":"3.8588280766852194",
+   "count":11
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.0958499,36.0052019 ]
+   },
+   "properties": {
+   "name":"La Collina Cucina Italiana",
+   "state":"NV",
+   "rating":"3.857142857142857",
+   "count":7
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8408778,33.2467202 ]
+   },
+   "properties": {
+   "name":"Gennaro's",
+   "state":"AZ",
+   "rating":"3.857142857142857",
+   "count":7
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0205287,33.4962555 ]
+   },
+   "properties": {
+   "name":"Giuseppe's On 28th",
+   "state":"AZ",
+   "rating":"3.849986471861472",
+   "count":44
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8390011,33.5874839 ]
+   },
+   "properties": {
+   "name":"Tesoro Ristorante Italiano",
+   "state":"AZ",
+   "rating":"3.849735206582633",
+   "count":32
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.3639012,43.1113716 ]
+   },
+   "properties": {
+   "name":"Cafe La Bellitalia",
+   "state":"WI",
+   "rating":"3.8481570512820507",
+   "count":24
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.1347619,33.8431953 ]
+   },
+   "properties": {
+   "name":"Cafe Provence",
+   "state":"AZ",
+   "rating":"3.846001221001221",
+   "count":26
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.925004124641,33.508865246579305 ]
+   },
+   "properties": {
+   "name":"Taggia",
+   "state":"AZ",
+   "rating":"3.8451202392378865",
+   "count":39
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.924248,33.63606 ]
+   },
+   "properties": {
+   "name":"Maggiano's Little Italy",
+   "state":"AZ",
+   "rating":"3.841960268879022",
+   "count":109
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.283688,36.055622 ]
+   },
+   "properties": {
+   "name":"Marco's Pizza",
+   "state":"NV",
+   "rating":"3.8401639344262297",
+   "count":11
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.174723588914,36.0906646662953 ]
+   },
+   "properties": {
+   "name":"Verandah",
+   "state":"NV",
+   "rating":"3.8384277660873405",
+   "count":47
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2797333,36.1191125 ]
+   },
+   "properties": {
+   "name":"Amore Taste of Chicago",
+   "state":"NV",
+   "rating":"3.8377206333568967",
+   "count":31
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0594876,33.5092093 ]
+   },
+   "properties": {
+   "name":"Dolce Espresso Video Coffee Bar",
+   "state":"AZ",
+   "rating":"3.8333333333333335",
+   "count":12
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.137672,36.128998 ]
+   },
+   "properties": {
+   "name":"Capozzoli's Italian Restaurant",
+   "state":"NV",
+   "rating":"3.8333333333333335",
+   "count":6
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0571061,33.5382586 ]
+   },
+   "properties": {
+   "name":"Pat's Pizza Plus",
+   "state":"AZ",
+   "rating":"3.8315563725490196",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.101582,35.993777 ]
+   },
+   "properties": {
+   "name":"Sugar & Spice",
+   "state":"NV",
+   "rating":"3.8311688311688314",
+   "count":11
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.243303548187,36.0727196016513 ]
+   },
+   "properties": {
+   "name":"Novecento",
+   "state":"NV",
+   "rating":"3.828839869281046",
+   "count":17
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.276372,36.130323 ]
+   },
+   "properties": {
+   "name":"Morettis Eatery",
+   "state":"NV",
+   "rating":"3.8229166666666665",
+   "count":8
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1732212,36.1092162 ]
+   },
+   "properties": {
+   "name":"D.O.C.G. Enoteca",
+   "state":"NV",
+   "rating":"3.8209638865186455",
+   "count":52
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9372551,33.3928622 ]
+   },
+   "properties": {
+   "name":"Venezia's New York Style Pizzeria",
+   "state":"AZ",
+   "rating":"3.8193004080457005",
+   "count":22
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2430089,36.0816179 ]
+   },
+   "properties": {
+   "name":"Aroma Garden Cafe",
+   "state":"NV",
+   "rating":"3.8181818181818183",
+   "count":11
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.128565,36.099959 ]
+   },
+   "properties": {
+   "name":"Carluccio's Tivoli Gardens",
+   "state":"NV",
+   "rating":"3.818100649350649",
+   "count":22
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0358955,33.3778514 ]
+   },
+   "properties": {
+   "name":"Sano Brick Pizza",
+   "state":"AZ",
+   "rating":"3.8175324675324673",
+   "count":7
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.5109658,43.0955423 ]
+   },
+   "properties": {
+   "name":"Vin Santo",
+   "state":"WI",
+   "rating":"3.8173072779407615",
+   "count":26
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.063844,33.517438 ]
+   },
+   "properties": {
+   "name":"Spinato's Pizza",
+   "state":"AZ",
+   "rating":"3.813555011808441",
+   "count":93
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.3041999,36.1931046 ]
+   },
+   "properties": {
+   "name":"Rocco's NY Pizza & Pasta",
+   "state":"NV",
+   "rating":"3.80952380952381",
+   "count":5
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9958614,33.4810166 ]
+   },
+   "properties": {
+   "name":"Pasta and Sugo",
+   "state":"AZ",
+   "rating":"3.803787878787879",
+   "count":11
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0114247,33.5098716 ]
+   },
+   "properties": {
+   "name":"Tommy V's Osteria and Pizzeria",
+   "state":"AZ",
+   "rating":"3.8033914361500565",
+   "count":29
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.168415,36.124582 ]
+   },
+   "properties": {
+   "name":"Carnevino",
+   "state":"NV",
+   "rating":"3.8025203355930093",
+   "count":81
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -114.9798999,36.0292731 ]
+   },
+   "properties": {
+   "name":"Emery's / La Barrista Catering II",
+   "state":"NV",
+   "rating":"3.8006069094304387",
+   "count":17
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0473892,33.4957851 ]
+   },
+   "properties": {
+   "name":"Gasper's Casual Italian Dining and Pizzeria",
+   "state":"AZ",
+   "rating":"3.799762024197007",
+   "count":43
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0377579,33.5078414 ]
+   },
+   "properties": {
+   "name":"Pizzeria Bianco",
+   "state":"AZ",
+   "rating":"3.7975235888493586",
+   "count":96
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1823137,36.1407035 ]
+   },
+   "properties": {
+   "name":"Enoteca San Marco",
+   "state":"NV",
+   "rating":"3.796035967370994",
+   "count":58
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.926272,33.6174589 ]
+   },
+   "properties": {
+   "name":"Sauce Pizza & Wine",
+   "state":"AZ",
+   "rating":"3.7922035236453557",
+   "count":58
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.17678510679,36.0919251344074 ]
+   },
+   "properties": {
+   "name":"Lupo",
+   "state":"NV",
+   "rating":"3.7920774702742706",
+   "count":60
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.203559,33.682848 ]
+   },
+   "properties": {
+   "name":"Portofino Beach Bar & Grill",
+   "state":"AZ",
+   "rating":"3.7916666666666665",
+   "count":8
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.5593031,33.4156504 ]
+   },
+   "properties": {
+   "name":"Scuttlebutts",
+   "state":"AZ",
+   "rating":"3.7916666666666665",
+   "count":6
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9261874,33.5291033 ]
+   },
+   "properties": {
+   "name":"Rancho Pinot Grill",
+   "state":"AZ",
+   "rating":"3.789424263337307",
+   "count":23
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.925047537451,33.6253647878863 ]
+   },
+   "properties": {
+   "name":"Brio Tuscan Grille",
+   "state":"AZ",
+   "rating":"3.7881422905523463",
+   "count":180
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9258593,33.5793452 ]
+   },
+   "properties": {
+   "name":"La Locanda Ristorante Italiano",
+   "state":"AZ",
+   "rating":"3.7857142857142856",
+   "count":7
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.000563002405,33.4336861383781 ]
+   },
+   "properties": {
+   "name":"La Grande Orange",
+   "state":"AZ",
+   "rating":"3.781738830429533",
+   "count":20
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9893448,33.494594 ]
+   },
+   "properties": {
+   "name":"Cave & Ives",
+   "state":"AZ",
+   "rating":"3.78092366332498",
+   "count":24
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.189211,36.095691 ]
+   },
+   "properties": {
+   "name":"Cafe Volare",
+   "state":"NV",
+   "rating":"3.778711484593838",
+   "count":17
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.301829,43.013609 ]
+   },
+   "properties": {
+   "name":"Angelo's",
+   "state":"WI",
+   "rating":"3.775641025641026",
+   "count":14
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0142073,33.5100591 ]
+   },
+   "properties": {
+   "name":"Central Bistro",
+   "state":"AZ",
+   "rating":"3.774677280148549",
+   "count":44
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.289840698242,36.1604461669922 ]
+   },
+   "properties": {
+   "name":"East Side Pizza",
+   "state":"NV",
+   "rating":"3.7733457019171306",
+   "count":21
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.688446,33.452295 ]
+   },
+   "properties": {
+   "name":"Il Forno Italian Restaurant",
+   "state":"AZ",
+   "rating":"3.7679973340687627",
+   "count":28
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.3513905,33.449699 ]
+   },
+   "properties": {
+   "name":"Daddy Duke's",
+   "state":"AZ",
+   "rating":"3.766774891774892",
+   "count":22
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0833763,33.4974892 ]
+   },
+   "properties": {
+   "name":"Harley's Italian Bistro",
+   "state":"AZ",
+   "rating":"3.763144527659743",
+   "count":41
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.887285,33.3062964 ]
+   },
+   "properties": {
+   "name":"NYPD",
+   "state":"AZ",
+   "rating":"3.7584129106187927",
+   "count":22
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8848787,33.2612195 ]
+   },
+   "properties": {
+   "name":"Sauce",
+   "state":"AZ",
+   "rating":"3.754303142316841",
+   "count":75
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.401811,43.067873 ]
+   },
+   "properties": {
+   "name":"Greenbush Bar",
+   "state":"WI",
+   "rating":"3.750437000887311",
+   "count":28
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.301829,43.013609 ]
+   },
+   "properties": {
+   "name":"Picasso's",
+   "state":"WI",
+   "rating":"3.75",
+   "count":5
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0822543,33.5163421 ]
+   },
+   "properties": {
+   "name":"Gretalian",
+   "state":"AZ",
+   "rating":"3.75",
+   "count":4
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.346172,43.093634 ]
+   },
+   "properties": {
+   "name":"Bunky's Cafe",
+   "state":"WI",
+   "rating":"3.748302887588602",
+   "count":35
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.219248,36.143974 ]
+   },
+   "properties": {
+   "name":"Capo's Italian Cuisine",
+   "state":"NV",
+   "rating":"3.7464990067112507",
+   "count":43
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.186891,33.6622393 ]
+   },
+   "properties": {
+   "name":"Tutti Santi by Nina",
+   "state":"AZ",
+   "rating":"3.745741681553486",
+   "count":61
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.34479,33.463116 ]
+   },
+   "properties": {
+   "name":"Sal's Tuscan Grill",
+   "state":"AZ",
+   "rating":"3.744683982683983",
+   "count":25
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.853763,33.727869 ]
+   },
+   "properties": {
+   "name":"Gianfranco Ristorante",
+   "state":"AZ",
+   "rating":"3.7424242424242427",
+   "count":22
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1185519,36.0169498 ]
+   },
+   "properties": {
+   "name":"Pizzeria Enzo Restaurant",
+   "state":"NV",
+   "rating":"3.7416666666666667",
+   "count":12
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.391859,33.623261 ]
+   },
+   "properties": {
+   "name":"Barro's Pizza",
+   "state":"AZ",
+   "rating":"3.7389361250513424",
+   "count":123
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.200326,33.710985 ]
+   },
+   "properties": {
+   "name":"Fiorella's",
+   "state":"AZ",
+   "rating":"3.738596491228071",
+   "count":19
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -114.8511708,35.9714426 ]
+   },
+   "properties": {
+   "name":"The Bistro",
+   "state":"NV",
+   "rating":"3.736842105263158",
+   "count":19
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1725943,36.099777 ]
+   },
+   "properties": {
+   "name":"Bacio",
+   "state":"NV",
+   "rating":"3.734280605551848",
+   "count":33
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.96260655426,33.348693709522 ]
+   },
+   "properties": {
+   "name":"Oregano's Pizza Bistro",
+   "state":"AZ",
+   "rating":"3.7333521422357627",
+   "count":261
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9184649,33.5670375 ]
+   },
+   "properties": {
+   "name":"Alto Ristorante e Bar",
+   "state":"AZ",
+   "rating":"3.7325697957013744",
+   "count":40
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.144266,36.1706341 ]
+   },
+   "properties": {
+   "name":"Grotto Ristorante",
+   "state":"NV",
+   "rating":"3.731653076497839",
+   "count":43
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.0828384,36.0741043 ]
+   },
+   "properties": {
+   "name":"Roma Bistro",
+   "state":"NV",
+   "rating":"3.7299999999999995",
+   "count":10
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.186525,33.639526 ]
+   },
+   "properties": {
+   "name":"Cucina Tagliani",
+   "state":"AZ",
+   "rating":"3.7269084973772375",
+   "count":79
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.099161241741,36.1003360552289 ]
+   },
+   "properties": {
+   "name":"The Sicilian Restorante",
+   "state":"NV",
+   "rating":"3.726175213675214",
+   "count":24
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.905421,33.574998 ]
+   },
+   "properties": {
+   "name":"Vocé Ristorante and Lounge",
+   "state":"AZ",
+   "rating":"3.722222222222222",
+   "count":12
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.064704,33.529845 ]
+   },
+   "properties": {
+   "name":"Christos Ristorante",
+   "state":"AZ",
+   "rating":"3.720742798867799",
+   "count":32
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9222222,33.4945672 ]
+   },
+   "properties": {
+   "name":"Cielo Restaurant",
+   "state":"AZ",
+   "rating":"3.7206349206349207",
+   "count":28
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.314551,36.1284289 ]
+   },
+   "properties": {
+   "name":"Rosati's",
+   "state":"NV",
+   "rating":"3.7150997150997154",
+   "count":18
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.17153930664101,36.0489921569824 ]
+   },
+   "properties": {
+   "name":"The Bootlegger Bistro",
+   "state":"NV",
+   "rating":"3.7130035388868383",
+   "count":43
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9789165,33.3055579 ]
+   },
+   "properties": {
+   "name":"Spinato's Pizzeria",
+   "state":"AZ",
+   "rating":"3.7112959090668762",
+   "count":29
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.120376,36.101357 ]
+   },
+   "properties": {
+   "name":"Strings Italian Cafe",
+   "state":"NV",
+   "rating":"3.7079427736006685",
+   "count":20
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.3812588,43.0747396 ]
+   },
+   "properties": {
+   "name":"Cafe Continental",
+   "state":"WI",
+   "rating":"3.703125",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.198971,36.130804 ]
+   },
+   "properties": {
+   "name":"Naked City Pizza on Arville",
+   "state":"NV",
+   "rating":"3.7025389586023003",
+   "count":32
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.7906859,33.2774461 ]
+   },
+   "properties": {
+   "name":"Bravi",
+   "state":"AZ",
+   "rating":"3.7",
+   "count":5
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8408778,33.2467202 ]
+   },
+   "properties": {
+   "name":"NY 54 Pizza & Ristorante",
+   "state":"AZ",
+   "rating":"3.69753086419753",
+   "count":9
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9271921,33.6097989 ]
+   },
+   "properties": {
+   "name":"Ristorante Giuseppe",
+   "state":"AZ",
+   "rating":"3.6949179552928606",
+   "count":31
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.073765,33.51315 ]
+   },
+   "properties": {
+   "name":"Aiello's",
+   "state":"AZ",
+   "rating":"3.6942912322720014",
+   "count":52
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.136389,36.175 ]
+   },
+   "properties": {
+   "name":"Corsa Cucina",
+   "state":"NV",
+   "rating":"3.6916666666666673",
+   "count":20
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.169068690643,36.1244339500909 ]
+   },
+   "properties": {
+   "name":"LAVO Italian Restaurant & Lounge",
+   "state":"NV",
+   "rating":"3.6902220810474535",
+   "count":52
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1163475,36.0559061 ]
+   },
+   "properties": {
+   "name":"Giovanni's",
+   "state":"NV",
+   "rating":"3.6861607142857142",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.275823,33.637239 ]
+   },
+   "properties": {
+   "name":"Dominic's Bistro Italiano",
+   "state":"AZ",
+   "rating":"3.685416666666667",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.7389268,33.3353688 ]
+   },
+   "properties": {
+   "name":"Tutti Santi",
+   "state":"AZ",
+   "rating":"3.685205627705627",
+   "count":40
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.340224,33.465665 ]
+   },
+   "properties": {
+   "name":"NYPD Pizza",
+   "state":"AZ",
+   "rating":"3.6815516356198263",
+   "count":138
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.3145846,36.1289377 ]
+   },
+   "properties": {
+   "name":"Mastrioni's",
+   "state":"NV",
+   "rating":"3.6737833639202813",
+   "count":34
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.146372,36.124423 ]
+   },
+   "properties": {
+   "name":"The Grill At Valentino",
+   "state":"NV",
+   "rating":"3.673076923076923",
+   "count":13
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2790461,36.1125219 ]
+   },
+   "properties": {
+   "name":"Gina's Bistro",
+   "state":"NV",
+   "rating":"3.672936698717949",
+   "count":32
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.1420014,33.6989868 ]
+   },
+   "properties": {
+   "name":"Jojo's Pizza & Family Restaurant",
+   "state":"AZ",
+   "rating":"3.6711045364891524",
+   "count":13
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9296551,33.3210706 ]
+   },
+   "properties": {
+   "name":"Babbo Italian Eatery",
+   "state":"AZ",
+   "rating":"3.6702856584629666",
+   "count":181
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9302696,33.4965858 ]
+   },
+   "properties": {
+   "name":"T. Roosevelt's Tavern",
+   "state":"AZ",
+   "rating":"3.6689759762380576",
+   "count":38
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.742524,32.880056 ]
+   },
+   "properties": {
+   "name":"Tommy's Bistro",
+   "state":"AZ",
+   "rating":"3.6675925925925927",
+   "count":18
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9270661,33.527824 ]
+   },
+   "properties": {
+   "name":"Mancuso's Northern Italian Continental Cuisine",
+   "state":"AZ",
+   "rating":"3.6666666666666665",
+   "count":3
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1701939,36.1226902 ]
+   },
+   "properties": {
+   "name":"Valentino",
+   "state":"NV",
+   "rating":"3.66604216963957",
+   "count":50
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9174872,33.6986497 ]
+   },
+   "properties": {
+   "name":"3 Tomatoes & a Mozzarella",
+   "state":"AZ",
+   "rating":"3.661458333333333",
+   "count":8
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0632597,33.6071604 ]
+   },
+   "properties": {
+   "name":"Aiello's Salumeria",
+   "state":"AZ",
+   "rating":"3.6595238095238094",
+   "count":24
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1420286,36.1296179 ]
+   },
+   "properties": {
+   "name":"Midtown",
+   "state":"NV",
+   "rating":"3.65625",
+   "count":4
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.5125589,33.4959139 ]
+   },
+   "properties": {
+   "name":"Grazie Pizzeria Winebar",
+   "state":"AZ",
+   "rating":"3.653994490358127",
+   "count":22
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8977013,33.6211787 ]
+   },
+   "properties": {
+   "name":"Pasta -N- More",
+   "state":"AZ",
+   "rating":"3.65",
+   "count":10
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1361526,36.0296647 ]
+   },
+   "properties": {
+   "name":"Don Antonio's Pizzeria",
+   "state":"NV",
+   "rating":"3.6483681567865247",
+   "count":28
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.274722,36.129869 ]
+   },
+   "properties": {
+   "name":"The Original Graziano's Pizza Restaurant",
+   "state":"NV",
+   "rating":"3.6468397615456434",
+   "count":17
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9786425,33.4520972 ]
+   },
+   "properties": {
+   "name":"Phoenix House Of Pizza And Subs",
+   "state":"AZ",
+   "rating":"3.6444444444444444",
+   "count":5
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.063632861405,33.6561019405481 ]
+   },
+   "properties": {
+   "name":"Times Square",
+   "state":"AZ",
+   "rating":"3.636904761904762",
+   "count":14
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.23077,33.636529 ]
+   },
+   "properties": {
+   "name":"Mike's Rigatoni Bistro",
+   "state":"AZ",
+   "rating":"3.631701631701631",
+   "count":26
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9660359,33.6834408 ]
+   },
+   "properties": {
+   "name":"Ristorante Tuscany",
+   "state":"AZ",
+   "rating":"3.6316161616161615",
+   "count":25
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.3087109,36.1141241 ]
+   },
+   "properties": {
+   "name":"Pasta Fresh",
+   "state":"NV",
+   "rating":"3.630883256528418",
+   "count":28
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0176895,33.6406665 ]
+   },
+   "properties": {
+   "name":"Red Devil",
+   "state":"AZ",
+   "rating":"3.6307344625060796",
+   "count":48
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.98959,33.4949597 ]
+   },
+   "properties": {
+   "name":"La Fontanella Restaurant",
+   "state":"AZ",
+   "rating":"3.626709401709401",
+   "count":39
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.169651,36.121176 ]
+   },
+   "properties": {
+   "name":"Canaletto",
+   "state":"NV",
+   "rating":"3.6254611138272295",
+   "count":56
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.927402,33.499499 ]
+   },
+   "properties": {
+   "name":"Digestif",
+   "state":"AZ",
+   "rating":"3.623196248196249",
+   "count":39
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.172608,36.109623 ]
+   },
+   "properties": {
+   "name":"Lombardi's Romagna Mia",
+   "state":"NV",
+   "rating":"3.622406506462234",
+   "count":19
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.172159768262,36.126065256344 ]
+   },
+   "properties": {
+   "name":"Stratta",
+   "state":"NV",
+   "rating":"3.6220307560332934",
+   "count":53
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.262282,36.219133 ]
+   },
+   "properties": {
+   "name":"Sabatino's Authentic NY Pizzeria",
+   "state":"NV",
+   "rating":"3.620881054186067",
+   "count":22
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2011958,36.1153936 ]
+   },
+   "properties": {
+   "name":"Pasta Mia West",
+   "state":"NV",
+   "rating":"3.6201888650196925",
+   "count":28
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9310456,33.4931627 ]
+   },
+   "properties": {
+   "name":"Grazie Pizzeria & Wine Bar",
+   "state":"AZ",
+   "rating":"3.618749912808071",
+   "count":29
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.242599487305,36.0639495849609 ]
+   },
+   "properties": {
+   "name":"Rocco's NY Pizza",
+   "state":"NV",
+   "rating":"3.617159992607563",
+   "count":23
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2797227,36.1439209 ]
+   },
+   "properties": {
+   "name":"Lucio Ristorante",
+   "state":"NV",
+   "rating":"3.615563298490128",
+   "count":41
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.924161911011,33.539463101157 ]
+   },
+   "properties": {
+   "name":"The Cove Trattoria",
+   "state":"AZ",
+   "rating":"3.6076249321274583",
+   "count":41
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0149317,33.6102008 ]
+   },
+   "properties": {
+   "name":"Fatso's Pizza",
+   "state":"AZ",
+   "rating":"3.604016064257028",
+   "count":14
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.011949,33.509787 ]
+   },
+   "properties": {
+   "name":"Tomaso's",
+   "state":"AZ",
+   "rating":"3.600249433106576",
+   "count":35
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.2761916,33.7129792 ]
+   },
+   "properties": {
+   "name":"Lakeside Bar & Grill",
+   "state":"AZ",
+   "rating":"3.5956228956228955",
+   "count":18
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1184733,36.0151363 ]
+   },
+   "properties": {
+   "name":"Roma Grill",
+   "state":"NV",
+   "rating":"3.595104895104895",
+   "count":20
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.331591073059,36.1606854895131 ]
+   },
+   "properties": {
+   "name":"Distill - A Local Bar",
+   "state":"NV",
+   "rating":"3.5949346405228755",
+   "count":15
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.231436994751,36.2377817298437 ]
+   },
+   "properties": {
+   "name":"Basil Thai Fusion",
+   "state":"NV",
+   "rating":"3.5944444444444446",
+   "count":6
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.977874755859,33.3193778991699 ]
+   },
+   "properties": {
+   "name":"Vincent's Famous Pizza & Restaurant",
+   "state":"AZ",
+   "rating":"3.5942857142857143",
+   "count":7
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2775151,36.1441379 ]
+   },
+   "properties": {
+   "name":"Roma Deli II and Wine Shop",
+   "state":"NV",
+   "rating":"3.592309797482211",
+   "count":29
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.173996070644,36.1173435639371 ]
+   },
+   "properties": {
+   "name":"Il Mulino",
+   "state":"NV",
+   "rating":"3.5906405174602263",
+   "count":42
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9193401,33.3742118 ]
+   },
+   "properties": {
+   "name":"Pier 54",
+   "state":"AZ",
+   "rating":"3.5893939393939394",
+   "count":11
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.466670618609,43.075514737986 ]
+   },
+   "properties": {
+   "name":"Glass Nickel Pizza",
+   "state":"WI",
+   "rating":"3.588992604617604",
+   "count":20
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.0709505,36.1149304 ]
+   },
+   "properties": {
+   "name":"Dal Italia",
+   "state":"NV",
+   "rating":"3.5869565217391304",
+   "count":14
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2865776,36.2777317 ]
+   },
+   "properties": {
+   "name":"North End Pizza",
+   "state":"NV",
+   "rating":"3.5869246983230614",
+   "count":22
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.162336,36.070665 ]
+   },
+   "properties": {
+   "name":"Panevino Deli",
+   "state":"NV",
+   "rating":"3.586842105263159",
+   "count":19
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.978579,33.677854 ]
+   },
+   "properties": {
+   "name":"Humble Pie",
+   "state":"AZ",
+   "rating":"3.584178204062475",
+   "count":175
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8036,33.3518 ]
+   },
+   "properties": {
+   "name":"Romeo's Euro Cafe",
+   "state":"AZ",
+   "rating":"3.581257203223958",
+   "count":33
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.1951173,36.2395594 ]
+   },
+   "properties": {
+   "name":"Bambinis Pizzeria & Rotisserie",
+   "state":"NV",
+   "rating":"3.578463321668189",
+   "count":29
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2311991,36.2371631 ]
+   },
+   "properties": {
+   "name":"Mezzo Bistro and Wine",
+   "state":"NV",
+   "rating":"3.5762443149227665",
+   "count":41
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.176439563057,36.1163674508362 ]
+   },
+   "properties": {
+   "name":"Rao's",
+   "state":"NV",
+   "rating":"3.575581708213996",
+   "count":57
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.170815,36.1274245 ]
+   },
+   "properties": {
+   "name":"Luciano's",
+   "state":"NV",
+   "rating":"3.5749999999999997",
+   "count":8
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.8583223,33.2332474 ]
+   },
+   "properties": {
+   "name":"Amalfi Ristorante Italiano",
+   "state":"AZ",
+   "rating":"3.5741300366300375",
+   "count":26
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.92528,33.7019607 ]
+   },
+   "properties": {
+   "name":"Lorenzo's Pizza and Pasta",
+   "state":"AZ",
+   "rating":"3.5721709576972738",
+   "count":19
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.92453,33.626466 ]
+   },
+   "properties": {
+   "name":"Pellini Italian Eatery",
+   "state":"AZ",
+   "rating":"3.57046876179939",
+   "count":25
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9088346,33.3482589 ]
+   },
+   "properties": {
+   "name":"VinciTorio's Restaurant",
+   "state":"AZ",
+   "rating":"3.5691786928279376",
+   "count":52
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0221966,33.4804921 ]
+   },
+   "properties": {
+   "name":"Avanti",
+   "state":"AZ",
+   "rating":"3.5682650318782163",
+   "count":34
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.289113,36.158026 ]
+   },
+   "properties": {
+   "name":"Mac Shack",
+   "state":"NV",
+   "rating":"3.567914368268979",
+   "count":18
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.92342,33.581506 ]
+   },
+   "properties": {
+   "name":"Grapes",
+   "state":"AZ",
+   "rating":"3.5675833969951616",
+   "count":17
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.379345444027,43.074138645779 ]
+   },
+   "properties": {
+   "name":"Osteria Papavero",
+   "state":"WI",
+   "rating":"3.5650925801840425",
+   "count":41
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0640088,33.5389948 ]
+   },
+   "properties": {
+   "name":"Sauce Pizza & WIne",
+   "state":"AZ",
+   "rating":"3.562126413307695",
+   "count":21
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.066095,33.606332 ]
+   },
+   "properties": {
+   "name":"Salute Ristorante Italiano",
+   "state":"AZ",
+   "rating":"3.562103174603174",
+   "count":28
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.1697623,33.553936 ]
+   },
+   "properties": {
+   "name":"Submarinos",
+   "state":"AZ",
+   "rating":"3.560714285714286",
+   "count":14
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9403254,33.6071829 ]
+   },
+   "properties": {
+   "name":"Pasta Primo Italian Bistro",
+   "state":"AZ",
+   "rating":"3.55",
+   "count":11
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.52563919343,43.073277619846 ]
+   },
+   "properties": {
+   "name":"Biaggi's Ristorante Italiano",
+   "state":"WI",
+   "rating":"3.5486219336219333",
+   "count":30
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.2915112,36.1602235 ]
+   },
+   "properties": {
+   "name":"Nora's Wine Bar and Osteria",
+   "state":"NV",
+   "rating":"3.5481022632338424",
+   "count":40
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.925033964217,33.5659638975865 ]
+   },
+   "properties": {
+   "name":"Naya Mediterranean Cuisine",
+   "state":"AZ",
+   "rating":"3.5424107142857144",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.890491,33.6722463 ]
+   },
+   "properties": {
+   "name":"Mia Francesca",
+   "state":"AZ",
+   "rating":"3.541328630217519",
+   "count":27
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9730855,33.5288312 ]
+   },
+   "properties": {
+   "name":"Prado",
+   "state":"AZ",
+   "rating":"3.5327989215085993",
+   "count":31
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9221127,33.6353186 ]
+   },
+   "properties": {
+   "name":"Pasta Pomodoro",
+   "state":"AZ",
+   "rating":"3.53125",
+   "count":16
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.3931425,33.6268195 ]
+   },
+   "properties": {
+   "name":"Nick's Diner",
+   "state":"AZ",
+   "rating":"3.5312008978675644",
+   "count":18
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.180169,36.2612231 ]
+   },
+   "properties": {
+   "name":"Carmine's Italian Cafe",
+   "state":"NV",
+   "rating":"3.53030303030303",
+   "count":11
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.42551,33.437771 ]
+   },
+   "properties": {
+   "name":"Garden Pizza",
+   "state":"AZ",
+   "rating":"3.527972027972028",
+   "count":11
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.17321825027501,36.1178395820154 ]
+   },
+   "properties": {
+   "name":"Trevi",
+   "state":"NV",
+   "rating":"3.527791479001062",
+   "count":59
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -115.224511,36.238501 ]
+   },
+   "properties": {
+   "name":"Angelo's Pizza  Kitchen",
+   "state":"NV",
+   "rating":"3.5277777777777772",
+   "count":6
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.349045276642,33.4893166674295 ]
+   },
+   "properties": {
+   "name":"La Bona Pasta",
+   "state":"AZ",
+   "rating":"3.526078290848112",
+   "count":26
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0366323,33.507425 ]
+   },
+   "properties": {
+   "name":"Trattoria Bianco",
+   "state":"AZ",
+   "rating":"3.525",
+   "count":10
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9778751,33.3193788 ]
+   },
+   "properties": {
+   "name":"Vincent's",
+   "state":"AZ",
+   "rating":"3.5233658008658004",
+   "count":20
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -114.930405790166,36.1026491423865 ]
+   },
+   "properties": {
+   "name":"Luna Rossa",
+   "state":"NV",
+   "rating":"3.522515442074265",
+   "count":60
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.341878,33.463543 ]
+   },
+   "properties": {
+   "name":"Dino's Greek and Italian Grill",
+   "state":"AZ",
+   "rating":"3.5222222222222226",
+   "count":19
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9259383,33.4992832 ]
+   },
+   "properties": {
+   "name":"Bravo Bistro",
+   "state":"AZ",
+   "rating":"3.5178806700545833",
+   "count":26
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.064752,33.472674 ]
+   },
+   "properties": {
+   "name":"La Piccola Cucina",
+   "state":"AZ",
+   "rating":"3.5128154253154253",
+   "count":36
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0651766,33.5754756 ]
+   },
+   "properties": {
+   "name":"Il Posto",
+   "state":"AZ",
+   "rating":"3.5054682933866284",
+   "count":32
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -111.9445749,33.3350535 ]
+   },
+   "properties": {
+   "name":"Picazzo's Organic Italian Kitchen",
+   "state":"AZ",
+   "rating":"3.504478282075672",
+   "count":93
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0740504,33.489085 ]
+   },
+   "properties": {
+   "name":"Alexi's Grill",
+   "state":"AZ",
+   "rating":"3.502063492063492",
+   "count":20
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.261226,33.531725 ]
+   },
+   "properties": {
+   "name":"Bice Bistro",
+   "state":"AZ",
+   "rating":"3.5",
+   "count":16
+   }
+ }
+]
+}

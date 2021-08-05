@@ -1,0 +1,4662 @@
+[
+  {
+    "name": "Montesano's Italian Deli",
+    "state": "NV",
+    "latitude": "36.1443115",
+    "longitude": "-115.1875972",
+    "rating": "5.0",
+    "count": 6,
+    "address": "3441 W Sahara Ave Ste B2, Westside, Las Vegas, NV 89102",
+    "categories": ["Deli's", "Italian", "Restaurants"]
+  },
+  {
+    "name": "Daniel's Italian Cuisine",
+    "state": "AZ",
+    "latitude": "33.5092093",
+    "longitude": "-111.9885861",
+    "rating": "5.0",
+    "count": 6,
+    "address": "4225 E Camelback Rd, Phoenix, AZ 85073",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "LaBella Pizzeria and Restaurant",
+    "state": "AZ",
+    "latitude": "33.5313101",
+    "longitude": "-112.064508",
+    "rating": "5.0",
+    "count": 5,
+    "address": "6505 N 7th St, Phoenix, AZ 85014",
+    "categories": ["Kosher", "Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Don Michael's",
+    "state": "NV",
+    "latitude": "36.2472804",
+    "longitude": "-115.2089199",
+    "rating": "5.0",
+    "count": 3,
+    "address": "4864 W. Lone Mountain Rd., Northwest, Las Vegas, NV 89130",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Enzo's Gelato & Coffee Bar",
+    "state": "AZ",
+    "latitude": "33.3197988",
+    "longitude": "-111.929773",
+    "rating": "4.9",
+    "count": 5,
+    "address": "5055 W Ray Rd, Chandler, AZ 85226",
+    "categories": ["Food", "Ice Cream & Frozen Yogurt", "Coffee & Tea", "Restaurants", "Italian"]
+  },
+  {
+    "name": "Made In Italy Pizzeria Romana",
+    "state": "NV",
+    "latitude": "36.089649",
+    "longitude": "-115.242873",
+    "rating": "4.887142857142857",
+    "count": 7,
+    "address": "5447 S Rainbow Blvd, Ste E6, Spring Valley, Las Vegas, NV 89118",
+    "categories": ["Restaurants", "Pizza", "Italian"]
+  },
+  {
+    "name": "La Fontana Trattoria-Pizzeria",
+    "state": "AZ",
+    "latitude": "33.4806663",
+    "longitude": "-111.9080473",
+    "rating": "4.8809523809523805",
+    "count": 16,
+    "address": "8018 E Thomas Rd, Scottsdale, AZ 85251",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Il Bosco Pizza",
+    "state": "AZ",
+    "latitude": "33.5831743",
+    "longitude": "-111.9273603",
+    "rating": "4.826100506452634",
+    "count": 24,
+    "address": "7120 E Becker Ln, Scottsdale, AZ 85254",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Full House Pizza",
+    "state": "AZ",
+    "latitude": "33.3038469",
+    "longitude": "-111.9468378",
+    "rating": "4.824074074074074",
+    "count": 9,
+    "address": "6045 W Chandler Blvd, Chandler, AZ 85226",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Bertolini's Authentic Trattoria",
+    "state": "NV",
+    "latitude": "36.1449499",
+    "longitude": "-115.301818",
+    "rating": "4.8",
+    "count": 5,
+    "address": "9500 W Sahara Ave, Westside, Las Vegas, NV 89117",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Fanny's Bistro & Deli",
+    "state": "NV",
+    "latitude": "36.0331607",
+    "longitude": "-115.1000527",
+    "rating": "4.795454545454546",
+    "count": 11,
+    "address": "80 N Pecos Rd, Henderson, NV 89074",
+    "categories": ["Deli's", "Italian", "Restaurants"
+    ]
+  },
+  {
+    "name": "Crispy Crust Pizza",
+    "state": "AZ",
+    "latitude": "33.6103275",
+    "longitude": "-112.2213233",
+    "rating": "4.781818181818181",
+    "count": 8,
+    "address": "7558 W Thunderbird Rd, Peoria, AZ 85381",
+    "categories": ["Italian", "Pizza", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "Basil & Garlic Bistro",
+    "state": "AZ",
+    "latitude": "33.594737",
+    "longitude": "-111.880444",
+    "rating": "4.7684099055066795",
+    "count": 31,
+    "address": "9330 E Poinsettia Dr, Scottsdale, AZ 85260",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Terra Mia Italian Restaurant",
+    "state": "AZ",
+    "latitude": "33.5737729",
+    "longitude": "-111.8621882",
+    "rating": "4.75",
+    "count": 8,
+    "address": "10155 E Via Linda, Scottsdale, AZ 85258",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Best Billiards",
+    "state": "NV",
+    "latitude": "36.1153722",
+    "longitude": "-115.0936899",
+    "rating": "4.75",
+    "count": 8,
+    "address": "3740 E Flamingo Rd, Eastside, Las Vegas, NV 89121",
+    "categories": ["Restaurants", "Pool Halls", "Nightlife", "Italian"
+    ]
+  },
+  {
+    "name": "Ciao Grazie",
+    "state": "AZ",
+    "latitude": "33.6566467285156",
+    "longitude": "-111.866561889648",
+    "rating": "4.740901615901617",
+    "count": 18,
+    "address": "18835 N Thompson Peak Pkwy, Scottsdale, AZ 85255",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "JB's Eat-A-Bite BBQ",
+    "state": "WI",
+    "latitude": "43.0419642",
+    "longitude": "-89.3939141",
+    "rating": "4.739583333333334",
+    "count": 8,
+    "address": "2209 S Park St, Bram's Addition, Madison, WI 53713",
+    "categories": ["Italian", "Barbeque", "Restaurants"
+    ]
+  },
+  {
+    "name": "Olive's Pizzeria & Restaurant",
+    "state": "AZ",
+    "latitude": "33.5737667",
+    "longitude": "-111.9055104",
+    "rating": "4.733333333333333",
+    "count": 5,
+    "address": "9619 N Hayden Rd, Ste 103, Scottsdale, AZ 85258",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "New York's Best Italian Bistro",
+    "state": "AZ",
+    "latitude": "33.613425",
+    "longitude": "-111.923871",
+    "rating": "4.732828323637147",
+    "count": 34,
+    "address": "13901 N 73rd St, Scottsdale, AZ 85260",
+    "categories": ["Food", "Beer", "Wine & Spirits", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "The Firm",
+    "state": "AZ",
+    "latitude": "33.580276",
+    "longitude": "-111.924064",
+    "rating": "4.722222222222222",
+    "count": 9,
+    "address": "10321 N Scottsdale Rd, Paradise Valley, AZ 85253",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Sunset Pizzeria",
+    "state": "NV",
+    "latitude": "36.018054",
+    "longitude": "-115.054685",
+    "rating": "4.717045454545454",
+    "count": 8,
+    "address": "1550 W Horizon Ridge Pkwy, Henderson, NV 89012",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Luciano Garden",
+    "state": "NV",
+    "latitude": "36.0860009752715",
+    "longitude": "-115.101392380893",
+    "rating": "4.714285714285714",
+    "count": 7,
+    "address": "5715 S Pecos Rd, Southeast, Las Vegas, NV 89120",
+    "categories": ["Nightlife", "Restaurants", "Karaoke", "Italian"
+    ]
+  },
+  {
+    "name": "Fatman's Pizza & Grill",
+    "state": "AZ",
+    "latitude": "33.4160688",
+    "longitude": "-111.5722283",
+    "rating": "4.7023809523809526",
+    "count": 6,
+    "address": "2430 W Apache Trl, Ste 2, Apache Junction, AZ 85120",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Casella's Italian Delicatessen",
+    "state": "AZ",
+    "latitude": "33.5227721",
+    "longitude": "-111.9001502",
+    "rating": "4.695108513490868",
+    "count": 18,
+    "address": "5905 N Granite Reef Rd, Scottsdale, AZ 85250",
+    "categories": ["Deli's", "Italian", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "Cafe Chloe",
+    "state": "NV",
+    "latitude": "36.1136470735073",
+    "longitude": "-115.261080041528",
+    "rating": "4.694444444444445",
+    "count": 9,
+    "address": "4155 S Buffalo Dr, Ste 114, Spring Valley, Las Vegas, NV 89147",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Jr's Place",
+    "state": "NV",
+    "latitude": "36.0843559",
+    "longitude": "-115.279599",
+    "rating": "4.634615384615385",
+    "count": 13,
+    "address": "5745 S Durango Dr, Spring Valley, Las Vegas, NV 89148",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Bistro Pizza",
+    "state": "NV",
+    "latitude": "36.0302581787109",
+    "longitude": "-115.030464172363",
+    "rating": "4.622432243411776",
+    "count": 18,
+    "address": "55 S Gibson Rd, Ste 112, Henderson, NV 89012",
+    "categories": ["Italian", "Pizza", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "Franco's Italian Caffé",
+    "state": "AZ",
+    "latitude": "33.499275",
+    "longitude": "-111.925776",
+    "rating": "4.618996415770609",
+    "count": 31,
+    "address": "4327 N Scottsdale Rd, Scottsdale, AZ 85251",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "North Beach Italian Bistro",
+    "state": "NV",
+    "latitude": "36.2636911",
+    "longitude": "-115.2654135",
+    "rating": "4.6",
+    "count": 5,
+    "address": "7770 W Ann Rd, Northwest, Las Vegas, NV 89149",
+    "categories": ["Seafood", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Basilico Italian Restaurant",
+    "state": "AZ",
+    "latitude": "33.5746442",
+    "longitude": "-111.8612171",
+    "rating": "4.592592592592593",
+    "count": 9,
+    "address": "10155 E Via Linda, Scottsdale, AZ 85258",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Biaggio's Pizzeria",
+    "state": "NV",
+    "latitude": "36.1122894287109",
+    "longitude": "-115.297920227051",
+    "rating": "4.577962593653476",
+    "count": 31,
+    "address": "4235 S Fort Apache Rd, Ste 160, Spring Valley, Las Vegas, NV 89147",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Pizza People Food Truck",
+    "state": "AZ",
+    "latitude": "33.4588800976063",
+    "longitude": "-112.067981958389",
+    "rating": "4.5761705101327745",
+    "count": 12,
+    "address": "1326 N Central Ave, Phoenix, AZ 85004",
+    "categories": ["Food", "Italian", "Pizza", "Food Trucks", "Restaurants"
+    ]
+  },
+  {
+    "name": "Giada",
+    "state": "NV",
+    "latitude": "36.1151458784834",
+    "longitude": "-115.172286068401",
+    "rating": "4.567759206521142",
+    "count": 57,
+    "address": "3595 Las Vegas Blvd South, The Strip, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Arrivederci Cucina Italiana",
+    "state": "AZ",
+    "latitude": "33.601491",
+    "longitude": "-111.7153845",
+    "rating": "4.555555555555555",
+    "count": 9,
+    "address": "12645 Saguaro Blvd, Ste 1, Fountain Hills, AZ 85268",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Pane e Vino",
+    "state": "AZ",
+    "latitude": "33.700033",
+    "longitude": "-111.888462",
+    "rating": "4.500000000000001",
+    "count": 13,
+    "address": "8900 E Pinnacle Peak Rd, Ste D1, Scottsdale, AZ 85255",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Antonio's Italian Ristorante",
+    "state": "NV",
+    "latitude": "36.175",
+    "longitude": "-115.136389",
+    "rating": "4.5",
+    "count": 8,
+    "address": "The Rio, 3700 W Flamingo Rd, Las Vegas, NV 89136",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Famous Ray's Pizza",
+    "state": "AZ",
+    "latitude": "33.640437",
+    "longitude": "-112.0677697",
+    "rating": "4.5",
+    "count": 13,
+    "address": "350 E Bell Rd, Phoenix, AZ 85022",
+    "categories": ["Italian", "Pizza", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "That Italian Place",
+    "state": "AZ",
+    "latitude": "33.3050646",
+    "longitude": "-111.9985862",
+    "rating": "4.5",
+    "count": 4,
+    "address": "3941 E Chandler Blvd, Ste 107, Phoenix, AZ 85048",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Vito & Nick's Ii",
+    "state": "AZ",
+    "latitude": "33.2630712",
+    "longitude": "-111.717762",
+    "rating": "4.5",
+    "count": 4,
+    "address": "3321 E Queen Creek Rd, Gilbert, AZ 85298",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Gabriella's Italian Grill & Pizzeria",
+    "state": "NV",
+    "latitude": "36.02818",
+    "longitude": "-115.1149077",
+    "rating": "4.496727030733242",
+    "count": 14,
+    "address": "8878 S Eastern Ave, Ste 104, Las Vegas, NV 89123",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "il Capo Pizzeria",
+    "state": "AZ",
+    "latitude": "33.5840139",
+    "longitude": "-111.9222691",
+    "rating": "4.492105263157894",
+    "count": 19,
+    "address": "7366 E Shea Blvd, Ste 102, Scottsdale, AZ 85260",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Casanova Brothers Pizza",
+    "state": "AZ",
+    "latitude": "33.3674505",
+    "longitude": "-111.7561394",
+    "rating": "4.489956777266146",
+    "count": 27,
+    "address": "929 N Val Vista Dr, Gilbert, AZ 85234",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Brooklyn V's Pizza",
+    "state": "AZ",
+    "latitude": "33.3369592",
+    "longitude": "-111.7713379",
+    "rating": "4.473494547178758",
+    "count": 19,
+    "address": "894 E Warner Rd Suite 101, Gilbert, AZ 85296",
+    "categories": ["Italian", "Pizza", "Caterers", "Event Planning & Services", "Restaurants"
+    ]
+  },
+  {
+    "name": "Crudo",
+    "state": "AZ",
+    "latitude": "33.4961",
+    "longitude": "-111.929344",
+    "rating": "4.473148966735472",
+    "count": 58,
+    "address": "7045 E 3rd Ave, Scottsdale, AZ 85251",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Salvatore's Tomato Pies",
+    "state": "WI",
+    "latitude": "43.18294",
+    "longitude": "-89.220311",
+    "rating": "4.470269363110273",
+    "count": 20,
+    "address": "503 W Main St, Sun Prairie, WI 53590",
+    "categories": ["Restaurants", "American (New)", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "King Solomon's Pizza",
+    "state": "AZ",
+    "latitude": "33.5076398",
+    "longitude": "-112.0650347",
+    "rating": "4.4663003663003655",
+    "count": 7,
+    "address": "4810 N 7th St, Phoenix, AZ 85014",
+    "categories": ["Kosher", "Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Pezzano's Pizza",
+    "state": "AZ",
+    "latitude": "33.6556294",
+    "longitude": "-112.015465",
+    "rating": "4.462678062678062",
+    "count": 13,
+    "address": "3130 E Union Hills Dr, Phoenix, AZ 85050",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "My Pie",
+    "state": "AZ",
+    "latitude": "33.6000149463325",
+    "longitude": "-111.978728033712",
+    "rating": "4.452969155844156",
+    "count": 16,
+    "address": "12601 N Tatum Rd, Phoenix, AZ 85254",
+    "categories": ["Italian", "Pizza", "Salad", "Restaurants"
+    ]
+  },
+  {
+    "name": "Rkidds Pizza & Wings",
+    "state": "AZ",
+    "latitude": "33.5384783148766",
+    "longitude": "-112.13230535388",
+    "rating": "4.451515151515152",
+    "count": 6,
+    "address": "3415 W Glendale Ave, Phoenix, AZ 85051",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Panevino Restaurant",
+    "state": "NV",
+    "latitude": "36.07082622848",
+    "longitude": "-115.162891042784",
+    "rating": "4.44663962200908",
+    "count": 42,
+    "address": "246 Via Antonio Ave, Southeast, Las Vegas, NV 89119",
+    "categories": ["Bars", "Restaurants", "Nightlife", "Italian"
+    ]
+  },
+  {
+    "name": "Tiramisu Ristorante",
+    "state": "AZ",
+    "latitude": "33.5819965",
+    "longitude": "-111.924221",
+    "rating": "4.444444444444445",
+    "count": 9,
+    "address": "10435 N Scottsdale Rd, Ste 1, Paradise Valley, AZ 85253",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Postino Arcadia",
+    "state": "AZ",
+    "latitude": "33.502191",
+    "longitude": "-111.996292",
+    "rating": "4.4254780828768565",
+    "count": 38,
+    "address": "3939 E Campbell Ave, Phoenix, AZ 85018",
+    "categories": ["Wine Bars", "Bars", "Restaurants", "Nightlife", "Italian"
+    ]
+  },
+  {
+    "name": "Fired Pie",
+    "state": "AZ",
+    "latitude": "33.666693",
+    "longitude": "-112.124353",
+    "rating": "4.424401993583375",
+    "count": 21,
+    "address": "Deer Valley Towne Center, 3049 W Agua Fria Fwy, Phoenix, AZ 85027",
+    "categories": ["Italian", "Pizza", "Salad", "Restaurants"
+    ]
+  },
+  {
+    "name": "Venice Pizza",
+    "state": "AZ",
+    "latitude": "33.5311735",
+    "longitude": "-112.1593414",
+    "rating": "4.420833333333333",
+    "count": 8,
+    "address": "4645 W Maryland Ave, Glendale, AZ 85301",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "SOLO Trattoria",
+    "state": "AZ",
+    "latitude": "33.5093009",
+    "longitude": "-112.0257951",
+    "rating": "4.42039626707689",
+    "count": 44,
+    "address": "2501 E Camelback Rd, Ste 24, Phoenix, AZ 85016",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Mardenelys Ristorante",
+    "state": "AZ",
+    "latitude": "33.4349623",
+    "longitude": "-111.8261082",
+    "rating": "4.416666666666667",
+    "count": 12,
+    "address": "223 E Brown Rd, Mesa, AZ 85201",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Cugino's Italian Deli",
+    "state": "NV",
+    "latitude": "36.1066864",
+    "longitude": "-115.1370841",
+    "rating": "4.413337400212231",
+    "count": 43,
+    "address": "4550 S Maryland Pkwy, University, Las Vegas, NV 89119",
+    "categories": ["Deli's", "Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Pino's Pizza Al Centro",
+    "state": "AZ",
+    "latitude": "33.4802511",
+    "longitude": "-112.0756556",
+    "rating": "4.411896084267375",
+    "count": 35,
+    "address": "139 W Thomas Rd, Phoenix, AZ 85013",
+    "categories": ["Restaurants", "Pizza", "Salad", "Italian"
+    ]
+  },
+  {
+    "name": "Nook",
+    "state": "AZ",
+    "latitude": "33.4951581",
+    "longitude": "-112.0037026",
+    "rating": "4.4029524568998255",
+    "count": 38,
+    "address": "3623 E Indian School Rd, Phoenix, AZ 85018",
+    "categories": ["Restaurants", "American (New)", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "noca",
+    "state": "AZ",
+    "latitude": "33.5100242",
+    "longitude": "-112.0152854",
+    "rating": "4.394121174896754",
+    "count": 60,
+    "address": "3118 E Camelback Rd, Phoenix, AZ 85016",
+    "categories": ["Italian", "American (New)", "Restaurants"
+    ]
+  },
+  {
+    "name": "Roma Garden Ristorante",
+    "state": "AZ",
+    "latitude": "33.6117369",
+    "longitude": "-111.9969776",
+    "rating": "4.390867465867466",
+    "count": 33,
+    "address": "3923 E Thunderbird Rd, Ste 113, Phoenix, AZ 85032",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Michelina's Ristorante Costa Campagnia",
+    "state": "AZ",
+    "latitude": "33.5820709",
+    "longitude": "-112.0114578",
+    "rating": "4.386507936507937",
+    "count": 21,
+    "address": "3241 E Shea Blvd, Phoenix, AZ 85028",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Cento",
+    "state": "WI",
+    "latitude": "43.074337",
+    "longitude": "-89.387364",
+    "rating": "4.384615384615385",
+    "count": 13,
+    "address": "122 W Mifflin St, Capitol, Madison, WI 53703",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Parma By Chef Marc",
+    "state": "NV",
+    "latitude": "36.1808173",
+    "longitude": "-115.2589028",
+    "rating": "4.382271096643466",
+    "count": 67,
+    "address": "7591 W Washington Ave, Ste 110, Las Vegas, NV 89128",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Caffe Daniel",
+    "state": "AZ",
+    "latitude": "33.530322",
+    "longitude": "-112.01424",
+    "rating": "4.380512820512821",
+    "count": 25,
+    "address": "3115 E Lincoln Dr, Phoenix, AZ 85016",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Taste of Italy 2",
+    "state": "AZ",
+    "latitude": "33.3526968",
+    "longitude": "-112.4462967",
+    "rating": "4.376190476190476",
+    "count": 10,
+    "address": "17750 W Elliot Rd, Goodyear, AZ 85338",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Pomo Pizzeria Napoletana",
+    "state": "AZ",
+    "latitude": "33.455863",
+    "longitude": "-112.072167",
+    "rating": "4.374865555892017",
+    "count": 74,
+    "address": "705 N First St, Phoenix, AZ 85004",
+    "categories": ["Italian", "Pizza", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "Toscano Italian Steakhouse",
+    "state": "NV",
+    "latitude": "36.1186973",
+    "longitude": "-115.1542695",
+    "rating": "4.369791666666666",
+    "count": 16,
+    "address": "3900 S Paradise Rd, Ste F, Eastside, Las Vegas, NV 89169",
+    "categories": ["Italian", "Steakhouses", "Restaurants"
+    ]
+  },
+  {
+    "name": "Crust Pizzeria & Ristorante",
+    "state": "AZ",
+    "latitude": "33.6384005",
+    "longitude": "-111.9795246",
+    "rating": "4.367960023515579",
+    "count": 27,
+    "address": "4727 E Bell Rd, Phoenix, AZ 85032",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Angie & Jimmie's Italian Pizza",
+    "state": "AZ",
+    "latitude": "33.4950335",
+    "longitude": "-112.1262987",
+    "rating": "4.3500000000000005",
+    "count": 12,
+    "address": "3126 W Indian School Rd, Phoenix, AZ 85017",
+    "categories": ["Italian", "Pizza", "Salad", "Restaurants"
+    ]
+  },
+  {
+    "name": "Trattoria Nakamura-Ya",
+    "state": "NV",
+    "latitude": "36.1266205315248",
+    "longitude": "-115.209951896787",
+    "rating": "4.337457764768553",
+    "count": 33,
+    "address": "5040 W Spring Mountain Rd, Ste 5, Chinatown, Las Vegas, NV 89146",
+    "categories": ["Restaurants", "Japanese", "Italian"
+    ]
+  },
+  {
+    "name": "Postino East",
+    "state": "AZ",
+    "latitude": "33.3551173",
+    "longitude": "-111.7899116",
+    "rating": "4.33742915886388",
+    "count": 28,
+    "address": "302 N Gilbert Rd, Gilbert, AZ 85234",
+    "categories": ["Bars", "Breakfast & Brunch", "Wine Bars", "Nightlife", "Italian", "Restaurants"
+    ]
+  },
+  {
+    "name": "Stumpys Pizza",
+    "state": "AZ",
+    "latitude": "33.5528379672612",
+    "longitude": "-112.053525918855",
+    "rating": "4.336911017508741",
+    "count": 17,
+    "address": "1331 E Northern Ave, Phoenix, AZ 85020",
+    "categories": ["Food", "Desserts", "Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Bol Italia",
+    "state": "AZ",
+    "latitude": "33.2617999",
+    "longitude": "-111.8602743",
+    "rating": "4.333333333333333",
+    "count": 3,
+    "address": "1065 W Queen Creek Rd, Chandler, AZ 85248",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Rhodes Ranch Club House Restaurant",
+    "state": "NV",
+    "latitude": "36.05798",
+    "longitude": "-115.31953",
+    "rating": "4.333333333333333",
+    "count": 6,
+    "address": "20 Rhodes Ranch Pkwy, Las Vegas, NV 89148",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "The Pizza Caffe",
+    "state": "NV",
+    "latitude": "36.055832",
+    "longitude": "-115.120023",
+    "rating": "4.333333333333333",
+    "count": 3,
+    "address": "7435 S Eastern Ave, Southeast, Henderson, NV 89123",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Alberto Italian Restaurant",
+    "state": "AZ",
+    "latitude": "33.8273269",
+    "longitude": "-111.924099",
+    "rating": "4.328981937602628",
+    "count": 29,
+    "address": "7171 E Cave Creek Rd, Cave Creek, AZ 85331",
+    "categories": ["Restaurants", "Gluten-Free", "Italian"
+    ]
+  },
+  {
+    "name": "Postino Central",
+    "state": "AZ",
+    "latitude": "33.5126276",
+    "longitude": "-112.0740912",
+    "rating": "4.318455498231683",
+    "count": 36,
+    "address": "5144 N Central Ave, Phoenix, AZ 85012",
+    "categories": ["Bars", "Breakfast & Brunch", "Wine Bars", "Nightlife", "Italian", "Restaurants"
+    ]
+  },
+  {
+    "name": "Buon Gusto Ristorante",
+    "state": "NV",
+    "latitude": "36.0019714",
+    "longitude": "-115.1033199",
+    "rating": "4.3175030778628525",
+    "count": 40,
+    "address": "2642 W Horizon Ridge Pkwy, Ste A2, Anthem, Henderson, NV 89052",
+    "categories": ["Restaurants", "Pizza", "Gluten-Free", "Italian"
+    ]
+  },
+  {
+    "name": "Spaghetty Western",
+    "state": "NV",
+    "latitude": "35.9951546505647",
+    "longitude": "-115.206350563794",
+    "rating": "4.317175532800533",
+    "count": 32,
+    "address": "10690 Southern Highlands Pkwy, Ste 103, Southwest, Las Vegas, NV 89141",
+    "categories": ["Deli's", "Italian", "Restaurants"
+    ]
+  },
+  {
+    "name": "Tuscany Gardens",
+    "state": "NV",
+    "latitude": "36.11292",
+    "longitude": "-115.161534",
+    "rating": "4.31547619047619",
+    "count": 16,
+    "address": "255 E Flamingo Rd, Eastside, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Scarpetta",
+    "state": "NV",
+    "latitude": "36.1098050266809",
+    "longitude": "-115.174355506897",
+    "rating": "4.313398504128986",
+    "count": 63,
+    "address": "Cosmopolitan Hotel, 3708 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Pizza a Metro",
+    "state": "AZ",
+    "latitude": "33.4807562",
+    "longitude": "-112.1102942",
+    "rating": "4.309188837523529",
+    "count": 41,
+    "address": "2336 W Thomas Rd, Phoenix, AZ 85015",
+    "categories": ["Restaurants", "Pizza", "Salad", "Italian"
+    ]
+  },
+  {
+    "name": "Pane Bianco",
+    "state": "AZ",
+    "latitude": "33.5006213",
+    "longitude": "-112.0743113",
+    "rating": "4.302777109721555",
+    "count": 45,
+    "address": "4404 N Central Ave, Phoenix, AZ 85012",
+    "categories": ["Pizza", "Italian", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "L'amore",
+    "state": "AZ",
+    "latitude": "33.5307049",
+    "longitude": "-112.0151722",
+    "rating": "4.295066045066046",
+    "count": 30,
+    "address": "3159 E Lincoln Dr, Phoenix, AZ 85016",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Nostrano",
+    "state": "WI",
+    "latitude": "43.072631",
+    "longitude": "-89.384011",
+    "rating": "4.29384154040404",
+    "count": 40,
+    "address": "111 S Hamilton St, Capitol, Madison, WI 53703",
+    "categories": ["Italian", "Mediterranean", "Restaurants"
+    ]
+  },
+  {
+    "name": "Vito's Italian Eatery",
+    "state": "NV",
+    "latitude": "36.005417",
+    "longitude": "-115.096899",
+    "rating": "4.291666666666667",
+    "count": 4,
+    "address": "2525 W Horizon Ridge Pkwy, Anthem, Henderson, NV 89052",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Le Ragazze",
+    "state": "AZ",
+    "latitude": "33.3067372",
+    "longitude": "-112.0537905",
+    "rating": "4.286507936507936",
+    "count": 21,
+    "address": "1334 E Chandler Ave, Ste 11, Phoenix, AZ 85048",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "La Bocce",
+    "state": "NV",
+    "latitude": "36.057578",
+    "longitude": "-115.158149",
+    "rating": "4.281159420289855",
+    "count": 10,
+    "address": "310 E Warm Springs Rd, Ste B, Southeast, Las Vegas, NV 89119",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Il Poggio D'Italia",
+    "state": "AZ",
+    "latitude": "33.5824859",
+    "longitude": "-111.892395",
+    "rating": "4.2727272727272725",
+    "count": 11,
+    "address": "8752 E Shea Blvd, Scottsdale, AZ 85260",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "FIRED PIE",
+    "state": "AZ",
+    "latitude": "33.4837563869115",
+    "longitude": "-112.075335894252",
+    "rating": "4.25861781026774",
+    "count": 18,
+    "address": "3110 N Central Ave, Phoenix, AZ 85012",
+    "categories": ["Italian", "Pizza", "Salad", "Restaurants"
+    ]
+  },
+  {
+    "name": "Times Square Pizzeria",
+    "state": "AZ",
+    "latitude": "33.6839876",
+    "longitude": "-112.1161771",
+    "rating": "4.258182516013399",
+    "count": 34,
+    "address": "2602 W Deer Valley Rd, Phoenix, AZ 85027",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Davanti Enoteca",
+    "state": "AZ",
+    "latitude": "33.5310106",
+    "longitude": "-111.9258438",
+    "rating": "4.258035058077177",
+    "count": 43,
+    "address": "6316 N Scottsdale Rd, Scottsdale, AZ 85253",
+    "categories": ["Bars", "Tapas/Small Plates", "Wine Bars", "Nightlife", "Italian", "Restaurants"
+    ]
+  },
+  {
+    "name": "Tutti Santi By Nina",
+    "state": "AZ",
+    "latitude": "33.624662",
+    "longitude": "-111.943525",
+    "rating": "4.25636313004734",
+    "count": 36,
+    "address": "6339 E Greenway Rd, Ste 108, Scottsdale, AZ 85254",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "High Roller Deli",
+    "state": "NV",
+    "latitude": "36.1084263",
+    "longitude": "-115.1373615",
+    "rating": "4.25",
+    "count": 4,
+    "address": "4440 S Maryland Pkwy, University, Las Vegas, NV 89119",
+    "categories": ["Deli's", "Italian", "Restaurants"
+    ]
+  },
+  {
+    "name": "Sauce - Pizza & Wine",
+    "state": "AZ",
+    "latitude": "33.4348794896361",
+    "longitude": "-111.999092102051",
+    "rating": "4.238585099111415",
+    "count": 19,
+    "address": "Phoenix Sky Harbor International Airport, 3400 E Sky Harbor Blvd, Phoenix, AZ 85034",
+    "categories": ["Italian", "Pizza", "Gluten-Free", "Restaurants"
+    ]
+  },
+  {
+    "name": "Nello's Pizza Mesa",
+    "state": "AZ",
+    "latitude": "33.3607307",
+    "longitude": "-111.8598336",
+    "rating": "4.237814943747731",
+    "count": 15,
+    "address": "2950 S Alma School Rd, Mesa, AZ 85210",
+    "categories": ["Italian", "Pizza", "Gluten-Free", "Restaurants"
+    ]
+  },
+  {
+    "name": "Giordano Trattoria Romana",
+    "state": "AZ",
+    "latitude": "33.8238772",
+    "longitude": "-111.9236859",
+    "rating": "4.2375",
+    "count": 16,
+    "address": "7275 E Easy St, Carefree, AZ 85377",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Tinoco's Bistro",
+    "state": "NV",
+    "latitude": "36.171184",
+    "longitude": "-115.211622",
+    "rating": "4.236111111111111",
+    "count": 12,
+    "address": "103 E Charleston Blvd, Suite 107, Westside, Las Vegas, NV 89107",
+    "categories": ["Restaurants", "French", "Italian"
+    ]
+  },
+  {
+    "name": "Little Sicily",
+    "state": "AZ",
+    "latitude": "33.654849",
+    "longitude": "-112.373782",
+    "rating": "4.234041619755905",
+    "count": 15,
+    "address": "18795 N Reems Rd, Sun City, AZ 85374",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Andreoli Italian Grocer",
+    "state": "AZ",
+    "latitude": "33.569529",
+    "longitude": "-111.889629",
+    "rating": "4.233190981213545",
+    "count": 49,
+    "address": "8880 E Via Linda, Scottsdale, AZ 85258",
+    "categories": ["Bakeries", "Food", "Restaurants", "Sandwiches", "Italian"
+    ]
+  },
+  {
+    "name": "Marco's Italian Bistro",
+    "state": "AZ",
+    "latitude": "33.584274",
+    "longitude": "-111.8342047",
+    "rating": "4.2307539682539685",
+    "count": 16,
+    "address": "10855 N Frank Lloyd Wright Blvd, Ste 100, Scottsdale, AZ 85259",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Novanta",
+    "state": "WI",
+    "latitude": "43.0749188",
+    "longitude": "-89.5298466",
+    "rating": "4.2292744996549345",
+    "count": 16,
+    "address": "8452 Old Sauk Rd, Madison, WI 53562",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Un Bacio Ristoranti",
+    "state": "AZ",
+    "latitude": "33.5645629",
+    "longitude": "-111.9154217",
+    "rating": "4.227450980392156",
+    "count": 17,
+    "address": "7704 E Doubletree Ranch Rd, Scottsdale, AZ 85258",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Floridino's Pizza & Pasta",
+    "state": "AZ",
+    "latitude": "33.3113830747242",
+    "longitude": "-111.85960385582",
+    "rating": "4.223526479845392",
+    "count": 28,
+    "address": "590 N Alma School Rd, Ste 35, Chandler, AZ 85224",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Ferraro's  Restaurant & Wine Bar",
+    "state": "NV",
+    "latitude": "36.109129",
+    "longitude": "-115.151258",
+    "rating": "4.21311294688774",
+    "count": 61,
+    "address": "4480 Paradise Rd, Eastside, Las Vegas, NV 89169",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Montesano's Eateria",
+    "state": "NV",
+    "latitude": "36.0095858",
+    "longitude": "-115.1177785",
+    "rating": "4.212830115387615",
+    "count": 38,
+    "address": "9905 S Eastern Ave, Southeast, Las Vegas, NV 89183",
+    "categories": ["Food", "Desserts", "Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Local Bistro",
+    "state": "AZ",
+    "latitude": "33.6712646484375",
+    "longitude": "-111.906143188477",
+    "rating": "4.203765678893636",
+    "count": 47,
+    "address": "20581 N Hayden Rd, Ste 115, Scottsdale, AZ 85255",
+    "categories": ["Steakhouses", "Restaurants", "Pizza", "French", "Italian"
+    ]
+  },
+  {
+    "name": "RigaTony's",
+    "state": "AZ",
+    "latitude": "33.4349623",
+    "longitude": "-111.8261082",
+    "rating": "4.2",
+    "count": 5,
+    "address": "223 E Brown Rd, Mesa, AZ 85201",
+    "categories": ["Food", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Red Brick Pizza",
+    "state": "AZ",
+    "latitude": "33.3255475",
+    "longitude": "-111.687462",
+    "rating": "4.195238095238095",
+    "count": 5,
+    "address": "4984 S Power Rd, Gilbert, AZ 85233",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Autostrada",
+    "state": "AZ",
+    "latitude": "33.6722462",
+    "longitude": "-111.8905084",
+    "rating": "4.194444444444445",
+    "count": 18,
+    "address": "20825 N Pima Rd, Scottsdale, AZ 85255",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "CJ's Italian Ice & Custard",
+    "state": "NV",
+    "latitude": "36.1253118",
+    "longitude": "-115.2792238",
+    "rating": "4.191919191919192",
+    "count": 6,
+    "address": "3555 S Durango Dr, Spring Valley, Las Vegas, NV 89147",
+    "categories": ["Food", "Desserts", "Restaurants", "Ice Cream & Frozen Yogurt", "Italian"
+    ]
+  },
+  {
+    "name": "Yo Pauly's NY Pizza Co.",
+    "state": "AZ",
+    "latitude": "33.5690799263191",
+    "longitude": "-111.889917180151",
+    "rating": "4.186014414507063",
+    "count": 22,
+    "address": "8880 E Via Linda, Scottsdale, AZ 85258",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "The Parlor",
+    "state": "AZ",
+    "latitude": "33.5094461",
+    "longitude": "-112.0403946",
+    "rating": "4.185216721828906",
+    "count": 66,
+    "address": "1916 E Camelback Rd, Phoenix, AZ 85016",
+    "categories": ["Italian", "Pizza", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "Gallo's Pizza Kitchen",
+    "state": "NV",
+    "latitude": "36.219859",
+    "longitude": "-115.250331",
+    "rating": "4.185185185185185",
+    "count": 12,
+    "address": "3250 N Tenaya Way, Northwest, Las Vegas, NV 89129",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Miami Cafe",
+    "state": "AZ",
+    "latitude": "33.4561612",
+    "longitude": "-112.0739321",
+    "rating": "4.184573002754821",
+    "count": 11,
+    "address": "714 N Central Ave, Phoenix, AZ 85004",
+    "categories": ["Food", "Desserts", "Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Sapori D'Italia",
+    "state": "AZ",
+    "latitude": "33.594963",
+    "longitude": "-111.713364",
+    "rating": "4.180100848591152",
+    "count": 38,
+    "address": "11865 N Saguaro Blvd, Fountain Hills, AZ 85268",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "EVO",
+    "state": "AZ",
+    "latitude": "33.4966639",
+    "longitude": "-111.9299885",
+    "rating": "4.180054837092652",
+    "count": 37,
+    "address": "4175 N Goldwater Blvd, Scottsdale, AZ 85251",
+    "categories": ["Bars", "Cocktail Bars", "Nightlife", "Italian", "American (New)", "Restaurants"
+    ]
+  },
+  {
+    "name": "Mama's Italian Deli",
+    "state": "AZ",
+    "latitude": "33.4217189",
+    "longitude": "-111.9542269",
+    "rating": "4.178835978835979",
+    "count": 9,
+    "address": "1101 W University Dr, Tempe, AZ 85281",
+    "categories": ["Deli's", "Italian", "Restaurants"
+    ]
+  },
+  {
+    "name": "Sourdough Pizza Restaurant",
+    "state": "AZ",
+    "latitude": "33.4156823",
+    "longitude": "-111.6701409",
+    "rating": "4.176501035196687",
+    "count": 7,
+    "address": "7440 E Main St, Mesa, AZ 85207",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Sergio's Italian Gardens",
+    "state": "NV",
+    "latitude": "36.100414",
+    "longitude": "-115.1265829",
+    "rating": "4.1677936799719895",
+    "count": 32,
+    "address": "1955 E Tropicana Ave, Eastside, Las Vegas, NV 89119",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Gino's Italian Deli",
+    "state": "WI",
+    "latitude": "43.0354126",
+    "longitude": "-89.4567505",
+    "rating": "4.166666666666668",
+    "count": 18,
+    "address": "4606 Verona Rd, Madison, WI 53711",
+    "categories": ["Grocery", "Food", "Specialty Food", "Deli's", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Vit's Pizza",
+    "state": "NV",
+    "latitude": "36.2216289",
+    "longitude": "-115.3290609",
+    "rating": "4.166666666666666",
+    "count": 4,
+    "address": "3390 Novat St, Ste 120, Northwest, Las Vegas, NV 89129",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Defalco's Italian Grocery",
+    "state": "AZ",
+    "latitude": "33.4740683",
+    "longitude": "-111.9270326",
+    "rating": "4.161708252240591",
+    "count": 51,
+    "address": "2334 N Scottsdale Rd, Ste A133, Scottsdale, AZ 85257",
+    "categories": ["Deli's", "Restaurants", "Sandwiches", "Italian"
+    ]
+  },
+  {
+    "name": "Eddie D's",
+    "state": "NV",
+    "latitude": "36.064115",
+    "longitude": "-115.241693",
+    "rating": "4.157868606281919",
+    "count": 28,
+    "address": "6870 S Rainbow Blvd, Ste 114, Spring Valley, Las Vegas, NV 89118",
+    "categories": ["Pizza", "Italian", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "Parmigiano Italian Bistro",
+    "state": "AZ",
+    "latitude": "33.7012665",
+    "longitude": "-111.9252851",
+    "rating": "4.1535087719298245",
+    "count": 19,
+    "address": "23535 N Scottsdale Rd, Ste 102, Scottsdale, AZ 85255",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Due Forni",
+    "state": "NV",
+    "latitude": "36.1248839",
+    "longitude": "-115.3250841",
+    "rating": "4.151301020207942",
+    "count": 46,
+    "address": "3555 S Town Center Dr, Ste 105, South Summerlin, Las Vegas, NV 89135",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Fellini's Ristorante",
+    "state": "NV",
+    "latitude": "36.1481329464598",
+    "longitude": "-115.155773162842",
+    "rating": "4.137155277672519",
+    "count": 29,
+    "address": "Stratosphere Las Vegas Hotel & Casino, 2000 Las Vegas Blvd S, The Strip, Las Vegas, NV 89104",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Tutti Santi Ristorante Italiano",
+    "state": "AZ",
+    "latitude": "33.3640931",
+    "longitude": "-111.8738341",
+    "rating": "4.136209483793517",
+    "count": 28,
+    "address": "1859 W Guadalupe Rd, Ste 101, Mesa, AZ 85202",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Marcellino Ristorante",
+    "state": "AZ",
+    "latitude": "33.498914",
+    "longitude": "-111.928574",
+    "rating": "4.135517133113977",
+    "count": 41,
+    "address": "7114 E Stetson Dr, Scottsdale, AZ 85251",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Baci Italian Bistro",
+    "state": "AZ",
+    "latitude": "33.279079",
+    "longitude": "-111.642785",
+    "rating": "4.134818228366616",
+    "count": 31,
+    "address": "8830 E Germann Rd, Mesa, AZ 85212",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Pomo Pizzeria Napoletana - Scottsdale",
+    "state": "AZ",
+    "latitude": "33.5670149312865",
+    "longitude": "-111.925386714633",
+    "rating": "4.131044738737046",
+    "count": 26,
+    "address": "8977 N Scottsdale Rd, Ste 504, Scottsdale, AZ 85253",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Villa Italia Ristoranti",
+    "state": "AZ",
+    "latitude": "33.5378307",
+    "longitude": "-112.0551086",
+    "rating": "4.125",
+    "count": 13,
+    "address": "1219 E Glendale Ave, Phoenix, AZ 85020",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Alessia's Ristorante Italiano",
+    "state": "AZ",
+    "latitude": "33.436137",
+    "longitude": "-111.716897",
+    "rating": "4.124650289324203",
+    "count": 30,
+    "address": "5251 E Brown Rd, Mesa, AZ 85205",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Pacino's Italian",
+    "state": "AZ",
+    "latitude": "33.4670739",
+    "longitude": "-111.682413",
+    "rating": "4.118312757201647",
+    "count": 27,
+    "address": "2831 N Power Rd, Mesa, AZ 85215",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "3 Tomatoes & A Mozzarella",
+    "state": "NV",
+    "latitude": "36.238898",
+    "longitude": "-115.154714",
+    "rating": "4.115740740740741",
+    "count": 9,
+    "address": "945 W Craig Rd, North Las Vegas, NV 89032",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Pizza Heaven Bistro",
+    "state": "AZ",
+    "latitude": "33.5124076744064",
+    "longitude": "-112.065353393555",
+    "rating": "4.115639638139639",
+    "count": 28,
+    "address": "5150 N 7th St, Phoenix, AZ 85014",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Joe Vicari's Andiamo Italian Steakhouse",
+    "state": "NV",
+    "latitude": "36.1692708",
+    "longitude": "-115.1435569",
+    "rating": "4.114274215254608",
+    "count": 33,
+    "address": "The D Las Vegas, 301 Fremont St, Downtown, Las Vegas, NV 89101",
+    "categories": ["Italian", "Steakhouses", "Restaurants"
+    ]
+  },
+  {
+    "name": "Italian American Club Restaurant",
+    "state": "NV",
+    "latitude": "36.1441679298878",
+    "longitude": "-115.119960978627",
+    "rating": "4.111111111111112",
+    "count": 6,
+    "address": "2333 E Sahara Ave, Eastside, Las Vegas, NV 89104",
+    "categories": ["Restaurants", "Nightlife", "Dance Clubs", "Italian"
+    ]
+  },
+  {
+    "name": "Terra Nostra",
+    "state": "AZ",
+    "latitude": "33.604856",
+    "longitude": "-111.715082",
+    "rating": "4.111111111111111",
+    "count": 9,
+    "address": "13014 N Saguaro Blvd, Ste 101, Fountain Hills, AZ 85268",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Gaetano's Ristorante",
+    "state": "NV",
+    "latitude": "36.0028159",
+    "longitude": "-115.1104821",
+    "rating": "4.107165713092599",
+    "count": 49,
+    "address": "10271 S Eastern Ave, Ste 111, Anthem, Henderson, NV 89052",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Pasquales Ristorante",
+    "state": "NV",
+    "latitude": "36.1439835",
+    "longitude": "-115.2794814",
+    "rating": "4.107142857142857",
+    "count": 7,
+    "address": "8615 W Sahara Ave, Westside, Las Vegas, NV 89117",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Dom DeMarco's Pizzeria & Bar",
+    "state": "NV",
+    "latitude": "36.1588974",
+    "longitude": "-115.3115031",
+    "rating": "4.102558646519396",
+    "count": 39,
+    "address": "9785 W Charleston Blvd, Westside, Las Vegas, NV 89117",
+    "categories": ["Bars", "Restaurants", "Wine Bars", "Nightlife", "Italian", "Pizza"
+    ]
+  },
+  {
+    "name": "Oliva",
+    "state": "WI",
+    "latitude": "43.0761711",
+    "longitude": "-89.5183683",
+    "rating": "4.101190476190475",
+    "count": 19,
+    "address": "751 N High Point Rd, Wexford, Madison, WI 53717",
+    "categories": ["Italian", "Mediterranean", "Restaurants"
+    ]
+  },
+  {
+    "name": "Raffaele's Pizza",
+    "state": "AZ",
+    "latitude": "33.5388125",
+    "longitude": "-112.0995834",
+    "rating": "4.091486291486292",
+    "count": 12,
+    "address": "7019 N 19th Ave, Phoenix, AZ 85021",
+    "categories": ["Italian", "Pizza", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "Federal Pizza",
+    "state": "AZ",
+    "latitude": "33.513539",
+    "longitude": "-112.074195",
+    "rating": "4.08078101240584",
+    "count": 38,
+    "address": "5210 N Central Ave, Phoenix, AZ 85012",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Mamma Mia Brick Oven Pizza & Pasta",
+    "state": "AZ",
+    "latitude": "33.4951157",
+    "longitude": "-111.9967663",
+    "rating": "4.080007134255676",
+    "count": 29,
+    "address": "3937 E Indian School Rd, Phoenix, AZ 85018",
+    "categories": ["Food", "Food Delivery Services", "Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Cuttlefish",
+    "state": "AZ",
+    "latitude": "33.564852",
+    "longitude": "-111.9255724",
+    "rating": "4.076428571428572",
+    "count": 30,
+    "address": "8777 N Scottsdale Rd, Ste 308, Scottsdale, AZ 85253",
+    "categories": ["Seafood", "Italian", "Fish & Chips", "Restaurants"
+    ]
+  },
+  {
+    "name": "Lombardinos Italian Restaurant and Bar",
+    "state": "WI",
+    "latitude": "43.0721815",
+    "longitude": "-89.4282699",
+    "rating": "4.074777012334221",
+    "count": 38,
+    "address": "2500 University Ave, Regent, Madison, WI 53705",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Different Pointe of View",
+    "state": "AZ",
+    "latitude": "33.59547",
+    "longitude": "-112.064668",
+    "rating": "4.073665731553874",
+    "count": 39,
+    "address": "11111 N 7th St, Phoenix, AZ 85020",
+    "categories": ["Italian", "American (Traditional)", "Mediterranean", "Restaurants"
+    ]
+  },
+  {
+    "name": "Brunos Pizza",
+    "state": "AZ",
+    "latitude": "33.568119",
+    "longitude": "-112.2036292",
+    "rating": "4.072916666666667",
+    "count": 6,
+    "address": "6750 W Olive Ave, Peoria, AZ 85345",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Pasta Shop Ristorante",
+    "state": "NV",
+    "latitude": "36.005417",
+    "longitude": "-115.096899",
+    "rating": "4.071430628875482",
+    "count": 32,
+    "address": "2525 W Horizon Ridge Pkwy, Anthem, Henderson, NV 89052",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "La Scala",
+    "state": "NV",
+    "latitude": "36.130315",
+    "longitude": "-115.140852",
+    "rating": "4.0690740740740745",
+    "count": 30,
+    "address": "1020 E Desert Inn Rd, Eastside, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Red Tomato",
+    "state": "AZ",
+    "latitude": "33.494238",
+    "longitude": "-111.977849",
+    "rating": "4.0625",
+    "count": 4,
+    "address": "4801 E Indian School Rd, Phoenix, AZ 85018",
+    "categories": ["Burgers", "Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Cibo",
+    "state": "AZ",
+    "latitude": "33.45496",
+    "longitude": "-112.079908",
+    "rating": "4.054882526027883",
+    "count": 53,
+    "address": "603 N 5th Ave, Phoenix, AZ 85003",
+    "categories": ["Italian", "Pizza", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "Red Devil Bistro",
+    "state": "AZ",
+    "latitude": "33.6474468",
+    "longitude": "-112.2364227",
+    "rating": "4.05050505050505",
+    "count": 9,
+    "address": "18185 N 83rd Ave, Ste 113, Glendale, AZ 85308",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Neapolitan Wood Fired Italian",
+    "state": "AZ",
+    "latitude": "33.6702216",
+    "longitude": "-112.1218935",
+    "rating": "4.049301137459032",
+    "count": 22,
+    "address": "3049 W Agua Fria Fwy, Phoenix, AZ 85027",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Giuseppe's Italian Grille",
+    "state": "NV",
+    "latitude": "36.0017071857627",
+    "longitude": "-115.102164593313",
+    "rating": "4.048337112622828",
+    "count": 21,
+    "address": "2630 W Horizon Ridge Pkwy, Anthem, Henderson, NV 89052",
+    "categories": ["Bars", "Restaurants", "Nightlife", "Italian"
+    ]
+  },
+  {
+    "name": "Rocco's NY Italian Deli",
+    "state": "NV",
+    "latitude": "36.1573245",
+    "longitude": "-115.2628382",
+    "rating": "4.0420951068132265",
+    "count": 33,
+    "address": "1181 S Buffalo Dr, Ste 115, Westside, Las Vegas, NV 89117",
+    "categories": ["Italian", "Deli's", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Zappone's Italian Bistro",
+    "state": "AZ",
+    "latitude": "33.380516",
+    "longitude": "-111.724395",
+    "rating": "4.0412204008330255",
+    "count": 41,
+    "address": "1652 N Higley Rd, Ste 103, Gilbert, AZ 85234",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "La Famiglia",
+    "state": "AZ",
+    "latitude": "33.336677",
+    "longitude": "-111.856635",
+    "rating": "4.040109897664345",
+    "count": 29,
+    "address": "2055 N Alma School Rd, Ste 26, Chandler, AZ 85224",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Redendo's Pizza & Pasta",
+    "state": "AZ",
+    "latitude": "33.5739313",
+    "longitude": "-111.7140561",
+    "rating": "4.040043290043289",
+    "count": 14,
+    "address": "16948 E Shea Blvd, Fountain Hills, AZ 85268",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Rigatony's",
+    "state": "AZ",
+    "latitude": "33.3359104",
+    "longitude": "-111.9080449",
+    "rating": "4.038803212384417",
+    "count": 47,
+    "address": "1850 E Warner Rd, Tempe, AZ 85284",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Va Bene",
+    "state": "AZ",
+    "latitude": "33.304026",
+    "longitude": "-111.980951",
+    "rating": "4.0324126172208015",
+    "count": 34,
+    "address": "4647 E Chandler Blvd, Phoenix, AZ 85048",
+    "categories": ["Wine Bars", "Bars", "Restaurants", "Nightlife", "Italian"
+    ]
+  },
+  {
+    "name": "Itzza Pizza",
+    "state": "WI",
+    "latitude": "43.0742897",
+    "longitude": "-89.4374308",
+    "rating": "4.030864197530864",
+    "count": 9,
+    "address": "2825 University Ave, Madison, WI 53705",
+    "categories": ["Sandwiches", "Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Upper Crust Pizza",
+    "state": "NV",
+    "latitude": "36.1929381",
+    "longitude": "-115.3055866",
+    "rating": "4.028215586880242",
+    "count": 44,
+    "address": "1910 Village Center Cir, Ste 6, Summerlin, Las Vegas, NV 89134",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "La Calabria Ristorante",
+    "state": "AZ",
+    "latitude": "33.322243",
+    "longitude": "-111.7572371",
+    "rating": "4.028145684724632",
+    "count": 38,
+    "address": "Ste 110 Behind Discount Tire, 1534 E Ray Rd, Gilbert, AZ 85296",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Rosie's Italian Cafe",
+    "state": "AZ",
+    "latitude": "33.6582332",
+    "longitude": "-112.3614479",
+    "rating": "4.025229156808105",
+    "count": 19,
+    "address": "13930 W Camino Del Sol, Sun City West, AZ 85375",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "La Piazza al Forno",
+    "state": "AZ",
+    "latitude": "33.5384203",
+    "longitude": "-112.1839297",
+    "rating": "4.023513994242505",
+    "count": 37,
+    "address": "5803 W Glendale Ave, Glendale, AZ 85301",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Sullivan's Supper Club",
+    "state": "WI",
+    "latitude": "36.159157",
+    "longitude": "-115.333127",
+    "rating": "4.022222222222222",
+    "count": 5,
+    "address": "W25709 Sullivan Rd, Summerlin, Trempealeau, WI 54661",
+    "categories": ["Food", "Desserts", "Seafood", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Tanzy",
+    "state": "AZ",
+    "latitude": "33.6247755",
+    "longitude": "-111.9254993",
+    "rating": "4.021455114933375",
+    "count": 46,
+    "address": "15257 N Scottsdale Rd, Ste F-220, Scottsdale, AZ 85254",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Redendo's Pizzeria Ristorante",
+    "state": "AZ",
+    "latitude": "33.6202185",
+    "longitude": "-111.8742551",
+    "rating": "4.020477422306691",
+    "count": 22,
+    "address": "14700 N Frank Lloyd Wright Blvd, Ste 159, Scottsdale, AZ 85260",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Nove Italiano",
+    "state": "NV",
+    "latitude": "36.10819355229",
+    "longitude": "-115.209791004785",
+    "rating": "4.020141152331823",
+    "count": 59,
+    "address": "Palms Casino Resort, 4322 W Flamingo Rd, Las Vegas, NV 89103",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Trattoria Reggiano",
+    "state": "NV",
+    "latitude": "36.1245487066835",
+    "longitude": "-115.168436862149",
+    "rating": "4.017990454249209",
+    "count": 46,
+    "address": "The Venetian Resort Hotel Casino, 3355 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Nora's Cuisine",
+    "state": "NV",
+    "latitude": "36.115274",
+    "longitude": "-115.223604",
+    "rating": "4.015020212690756",
+    "count": 55,
+    "address": "6020 W Flamingo Rd, Ste 10, Las Vegas, NV 89103",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Herbs & Rye",
+    "state": "NV",
+    "latitude": "36.144269",
+    "longitude": "-115.191825",
+    "rating": "4.0137791012087085",
+    "count": 42,
+    "address": "3713 W Sahara Ave, Westside, Las Vegas, NV 89102",
+    "categories": ["Tapas Bars", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Arrivederci Trattoria",
+    "state": "AZ",
+    "latitude": "33.3050704",
+    "longitude": "-111.9918344",
+    "rating": "4.011047619047619",
+    "count": 25,
+    "address": "4221 E Chandler Blvd, Ste 102, Phoenix, AZ 85048",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Calabria Italian Kitchen",
+    "state": "AZ",
+    "latitude": "33.4770399",
+    "longitude": "-112.0649071",
+    "rating": "4.009778911564625",
+    "count": 28,
+    "address": "2605 N 7th St, Phoenix, AZ 85006",
+    "categories": ["Restaurants", "Sandwiches", "Italian"
+    ]
+  },
+  {
+    "name": "Tornado Steak House",
+    "state": "WI",
+    "latitude": "43.07243",
+    "longitude": "-89.38434",
+    "rating": "4.009340874037424",
+    "count": 27,
+    "address": "116 S Hamilton St, Capitol, Madison, WI 53703",
+    "categories": ["Italian", "Steakhouses", "Restaurants"
+    ]
+  },
+  {
+    "name": "Naked City Pizza On Paradise",
+    "state": "NV",
+    "latitude": "36.1059455871582",
+    "longitude": "-115.150970458984",
+    "rating": "4.009090909090909",
+    "count": 11,
+    "address": "4608 Paradise Rd, Eastside, Las Vegas, NV 89169",
+    "categories": ["Pizza", "Restaurants", "Chicken Wings", "Italian"
+    ]
+  },
+  {
+    "name": "Taste of Italy",
+    "state": "AZ",
+    "latitude": "33.4111696",
+    "longitude": "-112.3923164",
+    "rating": "4.005531813865147",
+    "count": 18,
+    "address": "3810 S Estrella Pkwy, Goodyear, AZ 85338",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Methode Bistro",
+    "state": "AZ",
+    "latitude": "33.5278493",
+    "longitude": "-111.9258624",
+    "rating": "4.0",
+    "count": 6,
+    "address": "6204 N Scottsdale Rd, Scottsdale, AZ 85253",
+    "categories": ["Basque", "Italian", "Spanish", "American (New)", "Restaurants"
+    ]
+  },
+  {
+    "name": "Swiss Cafe Restaurant",
+    "state": "NV",
+    "latitude": "36.0998468",
+    "longitude": "-115.1060721",
+    "rating": "4.0",
+    "count": 4,
+    "address": "3175 E Tropicana Ave, Ste B, Eastside, Las Vegas, NV 89121",
+    "categories": ["German", "Italian", "French", "Restaurants"
+    ]
+  },
+  {
+    "name": "Sazio Italian Dining",
+    "state": "NV",
+    "latitude": "36.1022441",
+    "longitude": "-115.2009724",
+    "rating": "4.0",
+    "count": 4,
+    "address": "The Orleans Hotel, 4500 W. Tropicana Avenue, Las Vegas, NV 89103",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Pizzalicious",
+    "state": "NV",
+    "latitude": "36.0899451",
+    "longitude": "-115.2438503",
+    "rating": "4.0",
+    "count": 6,
+    "address": "5447 S Rainbow Blvd, Ste E6, Spring Valley, Las Vegas, NV 89118",
+    "categories": ["Food Delivery Services", "Food", "Restaurants", "Sandwiches", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Affinito's Bistro",
+    "state": "AZ",
+    "latitude": "33.8649643",
+    "longitude": "-112.1388202",
+    "rating": "4.0",
+    "count": 3,
+    "address": "3655 W Anthem Way, Ste C-137, Phoenix, AZ 85086",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Metro Pizza",
+    "state": "NV",
+    "latitude": "36.1003494262695",
+    "longitude": "-115.13427734375",
+    "rating": "3.9974048590938636",
+    "count": 88,
+    "address": "1395 E Tropicana Ave, Southeast, Las Vegas, NV 89119",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Anzios Italian Restaurant",
+    "state": "AZ",
+    "latitude": "33.598648105674",
+    "longitude": "-112.12037370959",
+    "rating": "3.9942990335880277",
+    "count": 29,
+    "address": "12418 N 28th Dr, Phoenix, AZ 85029",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Veneto Trattoria",
+    "state": "AZ",
+    "latitude": "33.52681",
+    "longitude": "-111.9246221",
+    "rating": "3.993417056987675",
+    "count": 41,
+    "address": "6137 N Scottsdale Rd, Scottsdale, AZ 85250",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Luna Pizza",
+    "state": "AZ",
+    "latitude": "33.5516979",
+    "longitude": "-112.1776467",
+    "rating": "3.9917695473251027",
+    "count": 9,
+    "address": "7800 N 55th Ave, Set 8, Glendale, AZ 85301",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "New York Pizza & Pasta",
+    "state": "NV",
+    "latitude": "36.1455047",
+    "longitude": "-115.2244681",
+    "rating": "3.989556914251208",
+    "count": 16,
+    "address": "2400 S Jones Blvd, Ste 13, Westside, Las Vegas, NV 89146",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Hot Dog Heaven",
+    "state": "NV",
+    "latitude": "36.0383099708365",
+    "longitude": "-114.983451548001",
+    "rating": "3.9861681262543334",
+    "count": 9,
+    "address": "87 E Lake Mead Pkwy, Henderson, NV 89015",
+    "categories": ["Italian", "Hot Dogs", "Fast Food", "Restaurants"
+    ]
+  },
+  {
+    "name": "Novecento Pizzeria",
+    "state": "NV",
+    "latitude": "36.0175850600871",
+    "longitude": "-115.118139829007",
+    "rating": "3.9808219467138173",
+    "count": 54,
+    "address": "9460 S Eastern  Ave, Ste 130, Southeast, Las Vegas, NV 89123",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Circo",
+    "state": "NV",
+    "latitude": "36.11199",
+    "longitude": "-115.177001",
+    "rating": "3.978636445412094",
+    "count": 51,
+    "address": "Bellagio Resort &Casino, 3600 S Las Vegas Blvd, The Strip, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Fiamma Trattoria & Bar",
+    "state": "NV",
+    "latitude": "36.10156",
+    "longitude": "-115.172953",
+    "rating": "3.9779382163248322",
+    "count": 59,
+    "address": "MGM Grand Hotel and Casino, 3799 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",
+    "categories": ["Wine Bars", "Bars", "Restaurants", "Nightlife", "Italian"
+    ]
+  },
+  {
+    "name": "Oyster Bar at Harrah's",
+    "state": "NV",
+    "latitude": "36.1182264970781",
+    "longitude": "-115.172711292526",
+    "rating": "3.974076260439897",
+    "count": 33,
+    "address": "Harrah's Hotel and Casino, 3475 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",
+    "categories": ["Live/Raw Food", "Seafood", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "The Side Door Corner Store",
+    "state": "AZ",
+    "latitude": "33.4862787",
+    "longitude": "-111.9102055",
+    "rating": "3.9734722222222225",
+    "count": 20,
+    "address": "3370 N Hayden Rd, Ste 126, Scottsdale, AZ 85251",
+    "categories": ["Bars", "Restaurants", "Wine Bars", "Nightlife", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Amano Pizza Bistro",
+    "state": "AZ",
+    "latitude": "33.377568",
+    "longitude": "-112.049455",
+    "rating": "3.9734216763628525",
+    "count": 34,
+    "address": "1541 E Baseline Rd, Phoenix, AZ 85042",
+    "categories": ["Seafood", "Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Heavens Kaffee World Cuisine",
+    "state": "AZ",
+    "latitude": "33.8274273433727",
+    "longitude": "-111.954744458199",
+    "rating": "3.9666666666666663",
+    "count": 10,
+    "address": "37645 N Cave Creek Rd, Cave Creek, AZ 85331",
+    "categories": ["German", "Greek", "Italian", "Restaurants"
+    ]
+  },
+  {
+    "name": "Uncle Sal's Italian Restaurant",
+    "state": "AZ",
+    "latitude": "33.4862787",
+    "longitude": "-111.9102055",
+    "rating": "3.9612381212295955",
+    "count": 39,
+    "address": "3370 N Hayden Rd, Ste 120, Scottsdale, AZ 85251",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Guido's Chicago Meat & Deli",
+    "state": "AZ",
+    "latitude": "33.5852839",
+    "longitude": "-111.9259207",
+    "rating": "3.9591767676767677",
+    "count": 25,
+    "address": "10893 N Scottsdale Rd, Scottsdale, AZ 85254",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "La Stalla Cucina Rustica",
+    "state": "AZ",
+    "latitude": "33.3046882",
+    "longitude": "-111.8423781",
+    "rating": "3.958349880094066",
+    "count": 43,
+    "address": "68 W Buffalo St, Chandler, AZ 85225",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Centurion",
+    "state": "AZ",
+    "latitude": "33.4587314",
+    "longitude": "-112.0773177",
+    "rating": "3.952702577358307",
+    "count": 42,
+    "address": "214 W Roosevelt St, Phoenix, AZ 85003",
+    "categories": ["Restaurants", "Pizza", "French", "Italian"
+    ]
+  },
+  {
+    "name": "Roma Deli & Restaurant",
+    "state": "NV",
+    "latitude": "36.125163",
+    "longitude": "-115.219883",
+    "rating": "3.952607212475633",
+    "count": 36,
+    "address": "5755 Spring Mountain Rd, Chinatown, Las Vegas, NV 89146",
+    "categories": ["Deli's", "Italian", "Restaurants"
+    ]
+  },
+  {
+    "name": "Napoli Pizza",
+    "state": "NV",
+    "latitude": "36.1768232",
+    "longitude": "-115.0639891",
+    "rating": "3.9489795918367347",
+    "count": 7,
+    "address": "765 N Nellis Blvd, Sunrise, Las Vegas, NV 89110",
+    "categories": ["Italian", "Pizza", "Cheesesteaks", "Restaurants"
+    ]
+  },
+  {
+    "name": "Little Chicago Pizza",
+    "state": "AZ",
+    "latitude": "33.4861448",
+    "longitude": "-111.9089018",
+    "rating": "3.948566858876137",
+    "count": 21,
+    "address": "3213 N Hayden Rd, Scottsdale, AZ 85251",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Sassi",
+    "state": "AZ",
+    "latitude": "33.725968",
+    "longitude": "-111.855946",
+    "rating": "3.9412558767397474",
+    "count": 48,
+    "address": "10455 E Pinnacle Peak Pkwy, Scottsdale, AZ 85255",
+    "categories": ["Restaurants", "Event Planning & Services", "Venues & Event Spaces", "Italian"
+    ]
+  },
+  {
+    "name": "Market City Caffe",
+    "state": "NV",
+    "latitude": "36.1041893",
+    "longitude": "-115.1732166",
+    "rating": "3.9404761904761902",
+    "count": 14,
+    "address": "3770 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Caffe Boa Bistro",
+    "state": "AZ",
+    "latitude": "33.468577",
+    "longitude": "-111.703265",
+    "rating": "3.940166975881261",
+    "count": 28,
+    "address": "2837 N Power Rd, Ste 102, Mesa, AZ 85215",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Pizza Mia",
+    "state": "AZ",
+    "latitude": "33.5240077",
+    "longitude": "-112.1514811",
+    "rating": "3.9388888888888896",
+    "count": 6,
+    "address": "6005 N 43rd Ave, Phoenix, AZ 85019",
+    "categories": ["Italian", "Pizza", "Salad", "Restaurants"
+    ]
+  },
+  {
+    "name": "North Italia",
+    "state": "AZ",
+    "latitude": "33.6238044",
+    "longitude": "-111.9257499",
+    "rating": "3.93003009699176",
+    "count": 133,
+    "address": "15024 N Scottsdale Rd, Ste 160, Scottsdale, AZ 85254",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Amarone Ristorante Italiano",
+    "state": "AZ",
+    "latitude": "33.569041",
+    "longitude": "-111.8872821",
+    "rating": "3.9293055555555547",
+    "count": 20,
+    "address": "9011 E Via Linda, Scottsdale, AZ 85258",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Verona Chophouse",
+    "state": "AZ",
+    "latitude": "33.2907071",
+    "longitude": "-111.9456801",
+    "rating": "3.9247045376121465",
+    "count": 32,
+    "address": "Lone Butte Casino, 1077 S Kyrene Rd, Chandler, AZ 85226",
+    "categories": ["Italian", "Steakhouses", "Restaurants"
+    ]
+  },
+  {
+    "name": "Arrivederci",
+    "state": "AZ",
+    "latitude": "33.610963",
+    "longitude": "-111.927561",
+    "rating": "3.923903508771931",
+    "count": 38,
+    "address": "7101 E Thunderbird Rd, Scottsdale, AZ 85254",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Nellos Pizza",
+    "state": "AZ",
+    "latitude": "33.3313401",
+    "longitude": "-111.9827084",
+    "rating": "3.9223307203856406",
+    "count": 23,
+    "address": "4710 E Warner Rd, Ste 10, Phoenix, AZ 85044",
+    "categories": ["Italian", "Pizza", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "Nick's at Grayhawk",
+    "state": "AZ",
+    "latitude": "33.6757566",
+    "longitude": "-111.9253764",
+    "rating": "3.920588235294118",
+    "count": 17,
+    "address": "20831 N Scottsdale Rd, Scottsdale, AZ 85255",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Miele's Italian Bistro",
+    "state": "AZ",
+    "latitude": "33.3637601",
+    "longitude": "-111.9095294",
+    "rating": "3.920001308413313",
+    "count": 41,
+    "address": "1835 E Guadalupe Rd, Ste D111, Tempe, AZ 85283",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Tommy V's Urban Kitchen & Bar",
+    "state": "AZ",
+    "latitude": "33.4949533",
+    "longitude": "-111.9241443",
+    "rating": "3.916112732312953",
+    "count": 48,
+    "address": "7303 E Indian School Rd, Scottsdale, AZ 85251",
+    "categories": ["Sandwiches", "Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Wolfgang Puck Pizzeria & Cucina",
+    "state": "NV",
+    "latitude": "36.1076767160086",
+    "longitude": "-115.175061689998",
+    "rating": "3.9146834196932017",
+    "count": 61,
+    "address": "3720 Las Vegas Blvd, The Strip, Las Vegas, NV 89158",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "La Piazza",
+    "state": "NV",
+    "latitude": "36.181417",
+    "longitude": "-115.139396",
+    "rating": "3.9141025641025644",
+    "count": 13,
+    "address": "1000 N Main St, Las Vegas, NV 89101",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "La Piazza Locale",
+    "state": "AZ",
+    "latitude": "33.4493442",
+    "longitude": "-112.0725195",
+    "rating": "3.912300501430936",
+    "count": 23,
+    "address": "1 N 1st St, Ste 103, Phoenix, AZ 85004",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Mike's Greek & Italian Cuisine",
+    "state": "AZ",
+    "latitude": "33.6403184",
+    "longitude": "-112.3594317",
+    "rating": "3.909090909090909",
+    "count": 11,
+    "address": "17191 N Litchfield Rd, Surprise, AZ 85374",
+    "categories": ["Greek", "Restaurants", "Mediterranean", "Italian"
+    ]
+  },
+  {
+    "name": "Florencia Pizza Bistro",
+    "state": "AZ",
+    "latitude": "33.316873",
+    "longitude": "-112.004102",
+    "rating": "3.908135961708707",
+    "count": 22,
+    "address": "3646 E Ray Rd, Ste 20, Phoenix, AZ 85044",
+    "categories": ["Italian", "Pizza", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "Carmella's Italian Kitchen and Bar",
+    "state": "AZ",
+    "latitude": "33.6119171",
+    "longitude": "-112.0125521",
+    "rating": "3.907407407407408",
+    "count": 9,
+    "address": "3230 E Thunderbird Rd, Phoenix, AZ 85032",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Elements Kitchen & Martini Bar",
+    "state": "NV",
+    "latitude": "36.098354",
+    "longitude": "-115.243004",
+    "rating": "3.9054096481698286",
+    "count": 39,
+    "address": "4950 S Rainbow Blvd, Ste 100, Spring Valley, Las Vegas, NV 89118",
+    "categories": ["Italian", "American (New)", "Restaurants"
+    ]
+  },
+  {
+    "name": "Siena Italian Authentic Trattoria and Deli",
+    "state": "NV",
+    "latitude": "36.1449499",
+    "longitude": "-115.301818",
+    "rating": "3.90092219447155",
+    "count": 49,
+    "address": "9500 W Sahara Ave, Westside, Las Vegas, NV 89117",
+    "categories": ["Deli's", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Luke's Of Chicago",
+    "state": "AZ",
+    "latitude": "33.6228299457751",
+    "longitude": "-111.892189979492",
+    "rating": "3.9002717391304342",
+    "count": 10,
+    "address": "15223 N Northsight Blvd, Scottsdale, AZ 85260",
+    "categories": ["Italian", "Hot Dogs", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "Pizza by Napoli",
+    "state": "AZ",
+    "latitude": "33.610825",
+    "longitude": "-112.1310283",
+    "rating": "3.900195694716243",
+    "count": 16,
+    "address": "3425 W Thunderbird Rd, Phoenix, AZ 85053",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Amaro Italiano Ristorante",
+    "state": "AZ",
+    "latitude": "33.7428028",
+    "longitude": "-111.9782693",
+    "rating": "3.8997935536409374",
+    "count": 37,
+    "address": "28234 N Tatum Blvd, Cave Creek, AZ 85331",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Luke's of Chicago's",
+    "state": "AZ",
+    "latitude": "33.4949943",
+    "longitude": "-112.0473119",
+    "rating": "3.8935814023533317",
+    "count": 13,
+    "address": "1602 E Indian School Rd, Phoenix, AZ 85016",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Little Italy Pizza & Restaurant",
+    "state": "AZ",
+    "latitude": "32.9485206",
+    "longitude": "-112.7117618",
+    "rating": "3.8908668730650153",
+    "count": 19,
+    "address": "502 E Pima St, Gila Bend, AZ 85337",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Piero's Italian Cuisine",
+    "state": "NV",
+    "latitude": "36.131845",
+    "longitude": "-115.156434",
+    "rating": "3.889767564868779",
+    "count": 26,
+    "address": "355 Convention Center Dr, Eastside, Las Vegas, NV 89109",
+    "categories": ["Seafood", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Bell' Italia Pizzeria",
+    "state": "AZ",
+    "latitude": "33.304138",
+    "longitude": "-111.978392",
+    "rating": "3.884784938197767",
+    "count": 16,
+    "address": "4909 E Chandler Blvd, Ste 506, Phoenix, AZ 85048",
+    "categories": ["Italian", "Pizza", "Salad", "Restaurants"
+    ]
+  },
+  {
+    "name": "Cafe Porta Alba",
+    "state": "WI",
+    "latitude": "43.07208923083",
+    "longitude": "-89.452298327185",
+    "rating": "3.8788205334892902",
+    "count": 28,
+    "address": "Hilldale Mall, 558 N Midvale Blvd, Madison, WI 53705",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Pizza Lounge",
+    "state": "NV",
+    "latitude": "36.1675004657412",
+    "longitude": "-115.285919643939",
+    "rating": "3.8778358497870693",
+    "count": 18,
+    "address": "420 S Rampart Blvd, Westside, Las Vegas, NV 89145",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Off the Strip Just Real Food",
+    "state": "NV",
+    "latitude": "36.099561",
+    "longitude": "-115.30696",
+    "rating": "3.8767217630853996",
+    "count": 22,
+    "address": "9837 W Tropicana Ave, Spring Valley, Las Vegas, NV 89147",
+    "categories": ["Italian", "American (New)", "Restaurants"
+    ]
+  },
+  {
+    "name": "Buddy V's Ristorante",
+    "state": "NV",
+    "latitude": "36.1214517",
+    "longitude": "-115.1696112",
+    "rating": "3.8765977851782307",
+    "count": 52,
+    "address": "The Venetian, 3339 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Hyde Bellagio",
+    "state": "NV",
+    "latitude": "36.1130109",
+    "longitude": "-115.1765221",
+    "rating": "3.875",
+    "count": 8,
+    "address": "Bellagio Resort &Casino, 3600 S Las Vegas Blvd, The Strip, Las Vegas, NV 89109",
+    "categories": ["Bars", "Restaurants", "Nightlife", "Lounges", "Italian"
+    ]
+  },
+  {
+    "name": "Lil Deemos Family Bistro",
+    "state": "AZ",
+    "latitude": "33.612363",
+    "longitude": "-112.184263",
+    "rating": "3.875",
+    "count": 16,
+    "address": "5830 W Thunderbird Rd, Ste B4, Glendale, AZ 85306",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Brad's Place",
+    "state": "AZ",
+    "latitude": "33.348162",
+    "longitude": "-111.9819",
+    "rating": "3.875",
+    "count": 8,
+    "address": "4747 E Elliot Rd, Phoenix, AZ 85044",
+    "categories": ["Bars", "Italian", "Restaurants", "Sports Bars", "Nightlife"
+    ]
+  },
+  {
+    "name": "Times Square Neighborhood Italian Restaurant",
+    "state": "AZ",
+    "latitude": "33.6548401",
+    "longitude": "-112.0650491",
+    "rating": "3.875",
+    "count": 4,
+    "address": "718 E Union Hills Dr, Phoenix, AZ 85024",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Cherryblossom Noodle Cafe",
+    "state": "AZ",
+    "latitude": "33.5098142",
+    "longitude": "-112.0610062",
+    "rating": "3.8748633867433533",
+    "count": 28,
+    "address": "914 E Camelback Rd, Phoenix, AZ 85014",
+    "categories": ["Asian Fusion", "Italian", "Japanese", "Restaurants"
+    ]
+  },
+  {
+    "name": "Johnny Mac's",
+    "state": "NV",
+    "latitude": "36.0267652",
+    "longitude": "-114.9650434",
+    "rating": "3.874286544609126",
+    "count": 20,
+    "address": "842 S Boulder Hwy, Henderson, NV 89015",
+    "categories": ["Bars", "Restaurants", "Nightlife", "Pizza", "Sports Bars", "Italian"
+    ]
+  },
+  {
+    "name": "Pasta China",
+    "state": "NV",
+    "latitude": "36.239585366616",
+    "longitude": "-115.114646355429",
+    "rating": "3.872630841380841",
+    "count": 16,
+    "address": "2595 E Craig Rd, Ste B, North Las Vegas, NV 89030",
+    "categories": ["Food", "Ethnic Food", "Asian Fusion", "Specialty Food", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Queens Pizzeria and Cafe",
+    "state": "AZ",
+    "latitude": "33.414929",
+    "longitude": "-111.834964",
+    "rating": "3.867463670324082",
+    "count": 19,
+    "address": "125 W Main St, Mesa, AZ 85201",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Fred's at Barneys New York",
+    "state": "AZ",
+    "latitude": "33.493947",
+    "longitude": "-111.922301",
+    "rating": "3.860714285714286",
+    "count": 20,
+    "address": "Scottsdale Fashion Square, 4500 Scottsdale Rd, Scottsdale, AZ 85251",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Casa Di Amore",
+    "state": "NV",
+    "latitude": "36.1003826",
+    "longitude": "-115.1116708",
+    "rating": "3.8591058859441203",
+    "count": 40,
+    "address": "2850 E Tropicana Ave, Eastside, Las Vegas, NV 89121",
+    "categories": ["Restaurants", "American (New)", "Italian"
+    ]
+  },
+  {
+    "name": "Auntie Pasto's",
+    "state": "AZ",
+    "latitude": "33.3640786",
+    "longitude": "-111.8738338",
+    "rating": "3.858974358974358",
+    "count": 13,
+    "address": "1859 W Guadalupe Rd, Ste 101, Mesa, AZ 85202",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Isa's Pizza",
+    "state": "AZ",
+    "latitude": "33.6071604",
+    "longitude": "-112.0632597",
+    "rating": "3.8588280766852194",
+    "count": 11,
+    "address": "777 East Thunderbird Rd, Phoenix, AZ 85020",
+    "categories": ["Italian", "Pizza", "Salad", "Restaurants"
+    ]
+  },
+  {
+    "name": "La Collina Cucina Italiana",
+    "state": "NV",
+    "latitude": "36.0052019",
+    "longitude": "-115.0958499",
+    "rating": "3.857142857142857",
+    "count": 7,
+    "address": "645 Carnegie St, Anthem, Henderson, NV 89052",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Gennaro's",
+    "state": "AZ",
+    "latitude": "33.2467202",
+    "longitude": "-111.8408778",
+    "rating": "3.857142857142857",
+    "count": 7,
+    "address": "4015 S Arizona Ave, Ste 1, Chandler, AZ 85248",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Giuseppe's On 28th",
+    "state": "AZ",
+    "latitude": "33.4962555",
+    "longitude": "-112.0205287",
+    "rating": "3.849986471861472",
+    "count": 44,
+    "address": "2824 E Indian School Rd, Phoenix, AZ 85016",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Tesoro Ristorante Italiano",
+    "state": "AZ",
+    "latitude": "33.5874839",
+    "longitude": "-111.8390011",
+    "rating": "3.849735206582633",
+    "count": 32,
+    "address": "11219 E Via Linda, Scottsdale, AZ 85259",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Cafe La Bellitalia",
+    "state": "WI",
+    "latitude": "43.1113716",
+    "longitude": "-89.3639012",
+    "rating": "3.8481570512820507",
+    "count": 24,
+    "address": "1026 N Sherman Ave, Sherman, Madison, WI 53704",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Cafe Provence",
+    "state": "AZ",
+    "latitude": "33.8431953",
+    "longitude": "-112.1347619",
+    "rating": "3.846001221001221",
+    "count": 26,
+    "address": "39504 Daisy Mountain Dr, Unit 110, Anthem, AZ 85086",
+    "categories": ["Restaurants", "French", "Italian"
+    ]
+  },
+  {
+    "name": "Taggia",
+    "state": "AZ",
+    "latitude": "33.508865246579305",
+    "longitude": "-111.925004124641",
+    "rating": "3.8451202392378865",
+    "count": 39,
+    "address": "4925 N Scottsdale Rd, Scottsdale, AZ 85251",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Maggiano's Little Italy",
+    "state": "AZ",
+    "latitude": "33.63606",
+    "longitude": "-111.924248",
+    "rating": "3.841960268879022",
+    "count": 109,
+    "address": "16405 N Scottsdale Ave, Scottsdale, AZ 85254",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Marco's Pizza",
+    "state": "NV",
+    "latitude": "36.055622",
+    "longitude": "-115.283688",
+    "rating": "3.8401639344262297",
+    "count": 11,
+    "address": "8795 W Warm Springs Rd, Southwest, Las Vegas, NV 89148",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Verandah",
+    "state": "NV",
+    "latitude": "36.0906646662953",
+    "longitude": "-115.174723588914",
+    "rating": "3.8384277660873405",
+    "count": 47,
+    "address": "Mandalay Bay Hotel and Casino, 3950 S Las Vegas Blvd, The Strip, Las Vegas, NV 89109",
+    "categories": ["Breakfast & Brunch", "Italian", "Restaurants"
+    ]
+  },
+  {
+    "name": "Amore Taste of Chicago",
+    "state": "NV",
+    "latitude": "36.1191125",
+    "longitude": "-115.2797333",
+    "rating": "3.8377206333568967",
+    "count": 31,
+    "address": "3945 S Durango Dr, Spring Valley, Las Vegas, NV 89147",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Dolce Espresso Video Coffee Bar",
+    "state": "AZ",
+    "latitude": "33.5092093",
+    "longitude": "-112.0594876",
+    "rating": "3.8333333333333335",
+    "count": 12,
+    "address": "1025 E Camelback Rd, Phoenix, AZ 85014",
+    "categories": ["Coffee & Tea", "Music Venues", "Food", "Arts & Entertainment", "Nightlife", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Capozzoli's Italian Restaurant",
+    "state": "NV",
+    "latitude": "36.128998",
+    "longitude": "-115.137672",
+    "rating": "3.8333333333333335",
+    "count": 6,
+    "address": "3333 S Maryland Pkwy, Eastside, Las Vegas, NV 89169",
+    "categories": ["Bars", "Restaurants", "Nightlife", "Lounges", "Italian"
+    ]
+  },
+  {
+    "name": "Pat's Pizza Plus",
+    "state": "AZ",
+    "latitude": "33.5382586",
+    "longitude": "-112.0571061",
+    "rating": "3.8315563725490196",
+    "count": 16,
+    "address": "1135 E Glendale Ave, Phoenix, AZ 85020",
+    "categories": ["Italian", "Pizza", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "Sugar & Spice",
+    "state": "NV",
+    "latitude": "35.993777",
+    "longitude": "-115.101582",
+    "rating": "3.8311688311688314",
+    "count": 11,
+    "address": "10895 S Eastern Ave, Ste 100, Anthem, Henderson, NV 89052",
+    "categories": ["Italian", "American (Traditional)", "Middle Eastern", "Restaurants"
+    ]
+  },
+  {
+    "name": "Novecento",
+    "state": "NV",
+    "latitude": "36.0727196016513",
+    "longitude": "-115.243303548187",
+    "rating": "3.828839869281046",
+    "count": 17,
+    "address": "6375 S Rainbow Blvd, Ste 100, Spring Valley, Las Vegas, NV 89118",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Morettis Eatery",
+    "state": "NV",
+    "latitude": "36.130323",
+    "longitude": "-115.276372",
+    "rating": "3.8229166666666665",
+    "count": 8,
+    "address": "8490 W Desert Inn Rd, Westside, Las Vegas, NV 89117",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "D.O.C.G. Enoteca",
+    "state": "NV",
+    "latitude": "36.1092162",
+    "longitude": "-115.1732212",
+    "rating": "3.8209638865186455",
+    "count": 52,
+    "address": "Cosmopolitan Hotel, 3708 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Venezia's New York Style Pizzeria",
+    "state": "AZ",
+    "latitude": "33.3928622",
+    "longitude": "-111.9372551",
+    "rating": "3.8193004080457005",
+    "count": 22,
+    "address": "27 E. Southern Ave, Tempe, AZ 85282",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Aroma Garden Cafe",
+    "state": "NV",
+    "latitude": "36.0816179",
+    "longitude": "-115.2430089",
+    "rating": "3.8181818181818183",
+    "count": 11,
+    "address": "5875 S Rainbow Blvd, Spring Valley, Las Vegas, NV 89136",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Carluccio's Tivoli Gardens",
+    "state": "NV",
+    "latitude": "36.099959",
+    "longitude": "-115.128565",
+    "rating": "3.818100649350649",
+    "count": 22,
+    "address": "1775 E Tropicana Ave, Ste 29, Southeast, Las Vegas, NV 89119",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Sano Brick Pizza",
+    "state": "AZ",
+    "latitude": "33.3778514",
+    "longitude": "-112.0358955",
+    "rating": "3.8175324675324673",
+    "count": 7,
+    "address": "2170 E Baseline Rd, Ste 134, Phoenix, AZ 85042",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Vin Santo",
+    "state": "WI",
+    "latitude": "43.0955423",
+    "longitude": "-89.5109658",
+    "rating": "3.8173072779407615",
+    "count": 26,
+    "address": "7462 Hubbard Ave, Middleton, WI 53562",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Spinato's Pizza",
+    "state": "AZ",
+    "latitude": "33.517438",
+    "longitude": "-112.063844",
+    "rating": "3.813555011808441",
+    "count": 93,
+    "address": "5509 N 7th St, Phoenix, AZ 85014",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Rocco's NY Pizza & Pasta",
+    "state": "NV",
+    "latitude": "36.1931046",
+    "longitude": "-115.3041999",
+    "rating": "3.80952380952381",
+    "count": 5,
+    "address": "1910 Village Center Cir, Ste 6, Summerlin, Las Vegas, NV 89134",
+    "categories": ["Food", "Desserts", "Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Pasta and Sugo",
+    "state": "AZ",
+    "latitude": "33.4810166",
+    "longitude": "-111.9958614",
+    "rating": "3.803787878787879",
+    "count": 11,
+    "address": "2916 N 40th St, Phoenix, AZ 85018",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Tommy V's Osteria and Pizzeria",
+    "state": "AZ",
+    "latitude": "33.5098716",
+    "longitude": "-112.0114247",
+    "rating": "3.8033914361500565",
+    "count": 29,
+    "address": "3223 E Camelback Rd, Phoenix, AZ 85018",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Carnevino",
+    "state": "NV",
+    "latitude": "36.124582",
+    "longitude": "-115.168415",
+    "rating": "3.8025203355930093",
+    "count": 81,
+    "address": "The Palazzo, 3325 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",
+    "categories": ["Steakhouses", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Emery's / La Barrista Catering II",
+    "state": "NV",
+    "latitude": "36.0292731",
+    "longitude": "-114.9798999",
+    "rating": "3.8006069094304387",
+    "count": 17,
+    "address": "306 S Water St, Henderson, NV 89002",
+    "categories": ["Restaurants", "Italian", "Event Planning & Services", "Caterers"
+    ]
+  },
+  {
+    "name": "Gasper's Casual Italian Dining and Pizzeria",
+    "state": "AZ",
+    "latitude": "33.4957851",
+    "longitude": "-112.0473892",
+    "rating": "3.799762024197007",
+    "count": 43,
+    "address": "4117 N 16th St, Phoenix, AZ 85016",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Pizzeria Bianco",
+    "state": "AZ",
+    "latitude": "33.5078414",
+    "longitude": "-112.0377579",
+    "rating": "3.7975235888493586",
+    "count": 96,
+    "address": "4743 N 20th St, Phoenix, AZ 85016",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Enoteca San Marco",
+    "state": "NV",
+    "latitude": "36.1407035",
+    "longitude": "-115.1823137",
+    "rating": "3.796035967370994",
+    "count": 58,
+    "address": "The Venetian, 3355 Las Vegas Blvd S, Westside, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Sauce Pizza & Wine",
+    "state": "AZ",
+    "latitude": "33.6174589",
+    "longitude": "-111.926272",
+    "rating": "3.7922035236453557",
+    "count": 58,
+    "address": "14418 N Scottsdale Rd, Ste 181, Scottsdale, AZ 85254",
+    "categories": ["Food", "Beer, Wine & Spirits", "Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Lupo",
+    "state": "NV",
+    "latitude": "36.0919251344074",
+    "longitude": "-115.17678510679",
+    "rating": "3.7920774702742706",
+    "count": 60,
+    "address": "Mandalay Bay Resort & Casino, 3950 Las Vegas Blvd S, The Strip, Las Vegas, NV 89119",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Portofino Beach Bar & Grill",
+    "state": "AZ",
+    "latitude": "33.682848",
+    "longitude": "-112.203559",
+    "rating": "3.7916666666666665",
+    "count": 8,
+    "address": "6718 W Deer Valley Rd, Glendale, AZ 85310",
+    "categories": ["Italian", "American (New)", "Restaurants"
+    ]
+  },
+  {
+    "name": "Scuttlebutts",
+    "state": "AZ",
+    "latitude": "33.4156504",
+    "longitude": "-111.5593031",
+    "rating": "3.7916666666666665",
+    "count": 6,
+    "address": "1200 W Apache Trl, Apache Junction, AZ 85220",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Rancho Pinot Grill",
+    "state": "AZ",
+    "latitude": "33.5291033",
+    "longitude": "-111.9261874",
+    "rating": "3.789424263337307",
+    "count": 23,
+    "address": "6208 N Scottsdale Rd, Paradise Valley, AZ 85253",
+    "categories": ["Restaurants", "American (New)", "Italian"
+    ]
+  },
+  {
+    "name": "Brio Tuscan Grille",
+    "state": "AZ",
+    "latitude": "33.6253647878863",
+    "longitude": "-111.925047537451",
+    "rating": "3.7881422905523463",
+    "count": 180,
+    "address": "Scottsdale Quarter, 15301 N Scottsdale Rd, Scottsdale, AZ 85254",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "La Locanda Ristorante Italiano",
+    "state": "AZ",
+    "latitude": "33.5793452",
+    "longitude": "-111.9258593",
+    "rating": "3.7857142857142856",
+    "count": 7,
+    "address": "10201 N Scottsdale Rd, Paradise Valley, AZ 85253",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "La Grande Orange",
+    "state": "AZ",
+    "latitude": "33.4336861383781",
+    "longitude": "-112.000563002405",
+    "rating": "3.781738830429533",
+    "count": 20,
+    "address": "Phoenix Sky Harbor International Airport, 3400 E Sky Harbor Blvd, Phoenix, AZ 85034",
+    "categories": ["Food", "Desserts", "Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Cave & Ives",
+    "state": "AZ",
+    "latitude": "33.494594",
+    "longitude": "-111.9893448",
+    "rating": "3.78092366332498",
+    "count": 24,
+    "address": "4247 E Indian School Rd, Phoenix, AZ 85018",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Cafe Volare",
+    "state": "NV",
+    "latitude": "36.095691",
+    "longitude": "-115.189211",
+    "rating": "3.778711484593838",
+    "count": 17,
+    "address": "5190 S Valley View Blvd, Las Vegas, NV 89118",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Angelo's",
+    "state": "WI",
+    "latitude": "43.013609",
+    "longitude": "-89.301829",
+    "rating": "3.775641025641026",
+    "count": 14,
+    "address": "4706 Farwell St, McFarland, WI 53558",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Central Bistro",
+    "state": "AZ",
+    "latitude": "33.5100591",
+    "longitude": "-112.0142073",
+    "rating": "3.774677280148549",
+    "count": 44,
+    "address": "3160 E Camelback Rd, Phoenix, AZ 85018",
+    "categories": ["Restaurants", "French", "Italian"
+    ]
+  },
+  {
+    "name": "East Side Pizza",
+    "state": "NV",
+    "latitude": "36.1604461669922",
+    "longitude": "-115.289840698242",
+    "rating": "3.7733457019171306",
+    "count": 21,
+    "address": "1000 S Rampart Blvd, Ste 7, Westside, Las Vegas, NV 89145",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Il Forno Italian Restaurant",
+    "state": "AZ",
+    "latitude": "33.452295",
+    "longitude": "-111.688446",
+    "rating": "3.7679973340687627",
+    "count": 28,
+    "address": "6606 E McKellips Rd, Ste 104, Mesa, AZ 85215",
+    "categories": ["Steakhouses", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Daddy Duke's",
+    "state": "AZ",
+    "latitude": "33.449699",
+    "longitude": "-112.3513905",
+    "rating": "3.766774891774892",
+    "count": 22,
+    "address": "215 W Van Buren St, Avondale, AZ 85323",
+    "categories": ["Cheesesteaks", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Harley's Italian Bistro",
+    "state": "AZ",
+    "latitude": "33.4974892",
+    "longitude": "-112.0833763",
+    "rating": "3.763144527659743",
+    "count": 41,
+    "address": "4221 N 7th Ave, Phoenix, AZ 85013",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "NYPD",
+    "state": "AZ",
+    "latitude": "33.3062964",
+    "longitude": "-111.887285",
+    "rating": "3.7584129106187927",
+    "count": 22,
+    "address": "2580 W Chandler Blvd, Chandler, AZ 85224",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Sauce",
+    "state": "AZ",
+    "latitude": "33.2612195",
+    "longitude": "-111.8848787",
+    "rating": "3.754303142316841",
+    "count": 75,
+    "address": "2551 W Queen Creek Rd, Ste 4, Chandler, AZ 85286",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Greenbush Bar",
+    "state": "WI",
+    "latitude": "43.067873",
+    "longitude": "-89.401811",
+    "rating": "3.750437000887311",
+    "count": 28,
+    "address": "914 Regent St, South Campus, Madison, WI 53715",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Picasso's",
+    "state": "WI",
+    "latitude": "43.013609",
+    "longitude": "-89.301829",
+    "rating": "3.75",
+    "count": 5,
+    "address": "4706 Farwell St, Mc Farland, WI 53558",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Gretalian",
+    "state": "AZ",
+    "latitude": "33.5163421",
+    "longitude": "-112.0822543",
+    "rating": "3.75",
+    "count": 4,
+    "address": "5341 N 7th Ave, Phoenix, AZ 85013",
+    "categories": ["Greek", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Bunky's Cafe",
+    "state": "WI",
+    "latitude": "43.093634",
+    "longitude": "-89.346172",
+    "rating": "3.748302887588602",
+    "count": 35,
+    "address": "2425 Atwood Ave, Schenk - Atwood, Madison, WI 53704",
+    "categories": ["Restaurants", "Mediterranean", "Moroccan", "Italian"
+    ]
+  },
+  {
+    "name": "Capo's Italian Cuisine",
+    "state": "NV",
+    "latitude": "36.143974",
+    "longitude": "-115.219248",
+    "rating": "3.7464990067112507",
+    "count": 43,
+    "address": "5675 W Sahara Ave, Westside, Las Vegas, NV 89146",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Tutti Santi by Nina",
+    "state": "AZ",
+    "latitude": "33.6622393",
+    "longitude": "-112.186891",
+    "rating": "3.745741681553486",
+    "count": 61,
+    "address": "19420 N 59th Ave, Ste C117, Glendale, AZ 85308",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Sal's Tuscan Grill",
+    "state": "AZ",
+    "latitude": "33.463116",
+    "longitude": "-112.34479",
+    "rating": "3.744683982683983",
+    "count": 25,
+    "address": "13291 W McDowell Rd, Ste E7, Goodyear, AZ 85395",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Gianfranco Ristorante",
+    "state": "AZ",
+    "latitude": "33.727869",
+    "longitude": "-111.853763",
+    "rating": "3.7424242424242427",
+    "count": 22,
+    "address": "10434 E Jomax Rd, Scottsdale, AZ 85262",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Pizzeria Enzo Restaurant",
+    "state": "NV",
+    "latitude": "36.0169498",
+    "longitude": "-115.1185519",
+    "rating": "3.7416666666666667",
+    "count": 12,
+    "address": "9500 S Eastern Ave, Southeast, Las Vegas, NV 89123",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Barro's Pizza",
+    "state": "AZ",
+    "latitude": "33.623261",
+    "longitude": "-112.391859",
+    "rating": "3.7389361250513424",
+    "count": 123,
+    "address": "15403 W Greenway Rd, Surprise, AZ 85379",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Fiorella's",
+    "state": "AZ",
+    "latitude": "33.710985",
+    "longitude": "-112.200326",
+    "rating": "3.738596491228071",
+    "count": 19,
+    "address": "6525 W Happy Valley Rd, Phoenix, AZ 85310",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "The Bistro",
+    "state": "NV",
+    "latitude": "35.9714426",
+    "longitude": "-114.8511708",
+    "rating": "3.736842105263158",
+    "count": 19,
+    "address": "1312 Nevada Hwy, Ste D, Boulder City, NV 89005",
+    "categories": ["Steakhouses", "Restaurants", "Sandwiches", "Italian"
+    ]
+  },
+  {
+    "name": "Bacio",
+    "state": "NV",
+    "latitude": "36.099777",
+    "longitude": "-115.1725943",
+    "rating": "3.734280605551848",
+    "count": 33,
+    "address": "3801 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Oregano's Pizza Bistro",
+    "state": "AZ",
+    "latitude": "33.348693709522",
+    "longitude": "-111.96260655426",
+    "rating": "3.7333521422357627",
+    "count": 261,
+    "address": "1475 W Elliot Rd, Tempe, AZ 85284",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Alto Ristorante e Bar",
+    "state": "AZ",
+    "latitude": "33.5670375",
+    "longitude": "-111.9184649",
+    "rating": "3.7325697957013744",
+    "count": 40,
+    "address": "Inside Hyatt Regency, 7500 E Doubletree Ranch Rd, Scottsdale, AZ 85258",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Grotto Ristorante",
+    "state": "NV",
+    "latitude": "36.1706341",
+    "longitude": "-115.144266",
+    "rating": "3.731653076497839",
+    "count": 43,
+    "address": "Golden Nugget Casino Hotel, 129 East Fremont Street, Downtown, Las Vegas, NV 89101",
+    "categories": ["Bars", "Restaurants", "Nightlife", "Italian"
+    ]
+  },
+  {
+    "name": "Roma Bistro",
+    "state": "NV",
+    "latitude": "36.0741043",
+    "longitude": "-115.0828384",
+    "rating": "3.7299999999999995",
+    "count": 10,
+    "address": "2895 N Green Valley Pkwy, Henderson, NV 89014",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Cucina Tagliani",
+    "state": "AZ",
+    "latitude": "33.639526",
+    "longitude": "-112.186525",
+    "rating": "3.7269084973772375",
+    "count": 79,
+    "address": "17045 N 59th Ave, Ste 101, Glendale, AZ 85308",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "The Sicilian Restorante",
+    "state": "NV",
+    "latitude": "36.1003360552289",
+    "longitude": "-115.099161241741",
+    "rating": "3.726175213675214",
+    "count": 24,
+    "address": "3520 E Tropicana Ave, Eastside, Las Vegas, NV 89121",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Vocé Ristorante and Lounge",
+    "state": "AZ",
+    "latitude": "33.574998",
+    "longitude": "-111.905421",
+    "rating": "3.722222222222222",
+    "count": 12,
+    "address": "9719 N Hayden Rd, Scottsdale, AZ 85258",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Christos Ristorante",
+    "state": "AZ",
+    "latitude": "33.529845",
+    "longitude": "-112.064704",
+    "rating": "3.720742798867799",
+    "count": 32,
+    "address": "6327 N 7th St, Phoenix, AZ 85014",
+    "categories": ["Bars", "Seafood", "Wine Bars", "Nightlife", "Italian", "Restaurants"
+    ]
+  },
+  {
+    "name": "Cielo Restaurant",
+    "state": "AZ",
+    "latitude": "33.4945672",
+    "longitude": "-111.9222222",
+    "rating": "3.7206349206349207",
+    "count": 28,
+    "address": "7353 E Indian School Rd, Scottsdale, AZ 85251",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Rosati's",
+    "state": "NV",
+    "latitude": "36.1284289",
+    "longitude": "-115.314551",
+    "rating": "3.7150997150997154",
+    "count": 18,
+    "address": "3370 S Hualapai Way, South Summerlin, Las Vegas, NV 89117",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "The Bootlegger Bistro",
+    "state": "NV",
+    "latitude": "36.0489921569824",
+    "longitude": "-115.17153930664101",
+    "rating": "3.7130035388868383",
+    "count": 43,
+    "address": "7700 Las Vegas Blvd S, Ste 1, Southeast, Las Vegas, NV 89123",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Spinato's Pizzeria",
+    "state": "AZ",
+    "latitude": "33.3055579",
+    "longitude": "-111.9789165",
+    "rating": "3.7112959090668762",
+    "count": 29,
+    "address": "4848 E Chandler Blvd, Phoenix, AZ 85044",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Strings Italian Cafe",
+    "state": "NV",
+    "latitude": "36.101357",
+    "longitude": "-115.120376",
+    "rating": "3.7079427736006685",
+    "count": 20,
+    "address": "2222 E Tropicana Ave, Eastside, Las Vegas, NV 89119",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Cafe Continental",
+    "state": "WI",
+    "latitude": "43.0747396",
+    "longitude": "-89.3812588",
+    "rating": "3.703125",
+    "count": 16,
+    "address": "108 King St, Capitol, Madison, WI 53703",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Naked City Pizza on Arville",
+    "state": "NV",
+    "latitude": "36.130804",
+    "longitude": "-115.198971",
+    "rating": "3.7025389586023003",
+    "count": 32,
+    "address": "3240 S Arville St, Westside, Las Vegas, NV 89102",
+    "categories": ["Italian", "Pizza", "Chicken Wings", "Restaurants"
+    ]
+  },
+  {
+    "name": "Bravi",
+    "state": "AZ",
+    "latitude": "33.2774461",
+    "longitude": "-111.7906859",
+    "rating": "3.7",
+    "count": 5,
+    "address": "2990 E Germann Rd, Chandler, AZ 85249",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "NY 54 Pizza & Ristorante",
+    "state": "AZ",
+    "latitude": "33.2467202",
+    "longitude": "-111.8408778",
+    "rating": "3.69753086419753",
+    "count": 9,
+    "address": "4015 S Arizona Ave, Ste 1, Chandler, AZ 85248",
+    "categories": ["Italian", "Pizza", "Deli's", "Restaurants"
+    ]
+  },
+  {
+    "name": "Ristorante Giuseppe",
+    "state": "AZ",
+    "latitude": "33.6097989",
+    "longitude": "-111.9271921",
+    "rating": "3.6949179552928606",
+    "count": 31,
+    "address": "13610 N Scottsdale Rd, Ste 9, Scottsdale, AZ 85254",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Aiello's",
+    "state": "AZ",
+    "latitude": "33.51315",
+    "longitude": "-112.073765",
+    "rating": "3.6942912322720014",
+    "count": 52,
+    "address": "5202 N Central Ave, Phoenix, AZ 85012",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Corsa Cucina",
+    "state": "NV",
+    "latitude": "36.175",
+    "longitude": "-115.136389",
+    "rating": "3.6916666666666673",
+    "count": 20,
+    "address": "Wynn Las Vegas, 3131 Las Vegas Blvd S, Las Vegas, NV 89136",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "LAVO Italian Restaurant & Lounge",
+    "state": "NV",
+    "latitude": "36.1244339500909",
+    "longitude": "-115.169068690643",
+    "rating": "3.6902220810474535",
+    "count": 52,
+    "address": "3325 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Nightlife", "Dance Clubs", "Italian"
+    ]
+  },
+  {
+    "name": "Giovanni's",
+    "state": "NV",
+    "latitude": "36.0559061",
+    "longitude": "-115.1163475",
+    "rating": "3.6861607142857142",
+    "count": 16,
+    "address": "7380 S Eastern Ave, Southeast, Las Vegas, NV 89123",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Dominic's Bistro Italiano",
+    "state": "AZ",
+    "latitude": "33.637239",
+    "longitude": "-112.275823",
+    "rating": "3.685416666666667",
+    "count": 16,
+    "address": "10001 W Bell Rd, Sun City, AZ 85351",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Tutti Santi",
+    "state": "AZ",
+    "latitude": "33.3353688",
+    "longitude": "-111.7389268",
+    "rating": "3.685205627705627",
+    "count": 40,
+    "address": "832 S Greenfield Rd, Ste 101, Gilbert, AZ 85296",
+    "categories": ["American (Traditional)", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "NYPD Pizza",
+    "state": "AZ",
+    "latitude": "33.465665",
+    "longitude": "-112.340224",
+    "rating": "3.6815516356198263",
+    "count": 138,
+    "address": "1619 N Dysart Rd, Ste 103, Avondale, AZ 85392",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Mastrioni's",
+    "state": "NV",
+    "latitude": "36.1289377",
+    "longitude": "-115.3145846",
+    "rating": "3.6737833639202813",
+    "count": 34,
+    "address": "3330 S Hualapai Way, Ste 160, South Summerlin, Las Vegas, NV 89117",
+    "categories": ["Seafood", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "The Grill At Valentino",
+    "state": "NV",
+    "latitude": "36.124423",
+    "longitude": "-115.146372",
+    "rating": "3.673076923076923",
+    "count": 13,
+    "address": "Venetian Hotel, 3355 Las Vegas Blvd, Eastside, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Gina's Bistro",
+    "state": "NV",
+    "latitude": "36.1125219",
+    "longitude": "-115.2790461",
+    "rating": "3.672936698717949",
+    "count": 32,
+    "address": "4226 S Durango Dr, Spring Valley, Las Vegas, NV 89117",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Jojo's Pizza & Family Restaurant",
+    "state": "AZ",
+    "latitude": "33.6989868",
+    "longitude": "-112.1420014",
+    "rating": "3.6711045364891524",
+    "count": 13,
+    "address": "23425 N 39th Dr, Ste 110, Glendale, AZ 85310",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Babbo Italian Eatery",
+    "state": "AZ",
+    "latitude": "33.3210706",
+    "longitude": "-111.9296551",
+    "rating": "3.6702856584629666",
+    "count": 181,
+    "address": "9920 S Rural Rd, Ste 105, Tempe, AZ 85284",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "T. Roosevelt's Tavern",
+    "state": "AZ",
+    "latitude": "33.4965858",
+    "longitude": "-111.9302696",
+    "rating": "3.6689759762380576",
+    "count": 38,
+    "address": "4175 N Goldwater Blvd, Scottsdale, AZ 85251",
+    "categories": ["Bars", "Restaurants", "Nightlife", "Italian"
+    ]
+  },
+  {
+    "name": "Tommy's Bistro",
+    "state": "AZ",
+    "latitude": "32.880056",
+    "longitude": "-111.742524",
+    "rating": "3.6675925925925927",
+    "count": 18,
+    "address": "913 E 8th St, Casa Grande, AZ 85222",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Mancuso's Northern Italian Continental Cuisine",
+    "state": "AZ",
+    "latitude": "33.527824",
+    "longitude": "-111.9270661",
+    "rating": "3.6666666666666665",
+    "count": 3,
+    "address": "6166 N Scottsdale Rd, Ste 500, Paradise Valley, AZ 85253",
+    "categories": ["Shopping Centers", "Restaurants", "Shopping", "Italian"
+    ]
+  },
+  {
+    "name": "Valentino",
+    "state": "NV",
+    "latitude": "36.1226902",
+    "longitude": "-115.1701939",
+    "rating": "3.66604216963957",
+    "count": 50,
+    "address": "The Venetian, 3355 Las Vegas Blvd S, Ste 106, The Strip, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "3 Tomatoes & a Mozzarella",
+    "state": "AZ",
+    "latitude": "33.6986497",
+    "longitude": "-111.9174872",
+    "rating": "3.661458333333333",
+    "count": 8,
+    "address": "7605 E Pinnacle Peak Rd, Scottsdale, AZ 85255",
+    "categories": ["Automotive", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Aiello's Salumeria",
+    "state": "AZ",
+    "latitude": "33.6071604",
+    "longitude": "-112.0632597",
+    "rating": "3.6595238095238094",
+    "count": 24,
+    "address": "777 E Thunderbird Rd, Phoenix, AZ 85020",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Midtown",
+    "state": "NV",
+    "latitude": "36.1296179",
+    "longitude": "-115.1420286",
+    "rating": "3.65625",
+    "count": 4,
+    "address": "953 E Desert Inn Rd, Eastside, Las Vegas, NV 89109",
+    "categories": ["Bars", "Restaurants", "Wine Bars", "Nightlife", "Italian", "Pizza"
+    ]
+  },
+  {
+    "name": "Grazie Pizzeria Winebar",
+    "state": "AZ",
+    "latitude": "33.4959139",
+    "longitude": "-112.5125589",
+    "rating": "3.653994490358127",
+    "count": 22,
+    "address": "21051 W Main St, Buckeye, AZ 85396",
+    "categories": ["Bars", "Wine Bars", "Nightlife", "Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Pasta -N- More",
+    "state": "AZ",
+    "latitude": "33.6211787",
+    "longitude": "-111.8977013",
+    "rating": "3.65",
+    "count": 10,
+    "address": "14880 N Northsight Blvd, Ste 103, Scottsdale, AZ 85260",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Don Antonio's Pizzeria",
+    "state": "NV",
+    "latitude": "36.0296647",
+    "longitude": "-115.1361526",
+    "rating": "3.6483681567865247",
+    "count": 28,
+    "address": "8810 S Maryland Pkwy, Southeast, Las Vegas, NV 89123",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "The Original Graziano's Pizza Restaurant",
+    "state": "NV",
+    "latitude": "36.129869",
+    "longitude": "-115.274722",
+    "rating": "3.6468397615456434",
+    "count": 17,
+    "address": "8410 W Desert Inn Rd, Westside, Las Vegas, NV 89117",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Phoenix House Of Pizza And Subs",
+    "state": "AZ",
+    "latitude": "33.4520972",
+    "longitude": "-111.9786425",
+    "rating": "3.6444444444444444",
+    "count": 5,
+    "address": "326 N 48th St, Phoenix, AZ 85008",
+    "categories": ["Italian", "Pizza", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "Times Square",
+    "state": "AZ",
+    "latitude": "33.6561019405481",
+    "longitude": "-112.063632861405",
+    "rating": "3.636904761904762",
+    "count": 14,
+    "address": "718 E Union Hills Dr, Phoenix, AZ 85024",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Mike's Rigatoni Bistro",
+    "state": "AZ",
+    "latitude": "33.636529",
+    "longitude": "-112.23077",
+    "rating": "3.631701631701631",
+    "count": 26,
+    "address": "8215 W Bell Rd, Ste 125, Peoria, AZ 85382",
+    "categories": ["Greek", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Ristorante Tuscany",
+    "state": "AZ",
+    "latitude": "33.6834408",
+    "longitude": "-111.9660359",
+    "rating": "3.6316161616161615",
+    "count": 25,
+    "address": "JW Marriott Desert Ridge Resort, 5350 E Marriott Dr, Phoenix, AZ 85054",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Pasta Fresh",
+    "state": "NV",
+    "latitude": "36.1141241",
+    "longitude": "-115.3087109",
+    "rating": "3.630883256528418",
+    "count": 28,
+    "address": "4165 S Grand Canyon Dr, Ste 102, Spring Valley, Las Vegas, NV 89147",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Red Devil",
+    "state": "AZ",
+    "latitude": "33.6406665",
+    "longitude": "-112.0176895",
+    "rating": "3.6307344625060796",
+    "count": 48,
+    "address": "3004 E Bell Rd, Phoenix, AZ 85032",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "La Fontanella Restaurant",
+    "state": "AZ",
+    "latitude": "33.4949597",
+    "longitude": "-111.98959",
+    "rating": "3.626709401709401",
+    "count": 39,
+    "address": "4231 E Indian School Rd, Phoenix, AZ 85018",
+    "categories": ["Restaurants", "Mediterranean", "Italian"
+    ]
+  },
+  {
+    "name": "Canaletto",
+    "state": "NV",
+    "latitude": "36.121176",
+    "longitude": "-115.169651",
+    "rating": "3.6254611138272295",
+    "count": 56,
+    "address": "The Venetian, 3355 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Digestif",
+    "state": "AZ",
+    "latitude": "33.499499",
+    "longitude": "-111.927402",
+    "rating": "3.623196248196249",
+    "count": 39,
+    "address": "7133 E Stetson Dr, Scottsdale, AZ 85250",
+    "categories": ["Bars", "Restaurants", "Nightlife", "Lounges", "Italian"
+    ]
+  },
+  {
+    "name": "Lombardi's Romagna Mia",
+    "state": "NV",
+    "latitude": "36.109623",
+    "longitude": "-115.172608",
+    "rating": "3.622406506462234",
+    "count": 19,
+    "address": "3663 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",
+    "categories": ["American (Traditional)", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Stratta",
+    "state": "NV",
+    "latitude": "36.126065256344",
+    "longitude": "-115.172159768262",
+    "rating": "3.6220307560332934",
+    "count": 53,
+    "address": "Wynn Las Vegas, 3131 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "American (New)", "Italian"
+    ]
+  },
+  {
+    "name": "Sabatino's Authentic NY Pizzeria",
+    "state": "NV",
+    "latitude": "36.219133",
+    "longitude": "-115.262282",
+    "rating": "3.620881054186067",
+    "count": 22,
+    "address": "7660 W Cheyenne Ave, Northwest, Las Vegas, NV 89129",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Pasta Mia West",
+    "state": "NV",
+    "latitude": "36.1153936",
+    "longitude": "-115.2011958",
+    "rating": "3.6201888650196925",
+    "count": 28,
+    "address": "4455 W Flamingo Rd, Las Vegas, NV 89103",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Grazie Pizzeria & Wine Bar",
+    "state": "AZ",
+    "latitude": "33.4931627",
+    "longitude": "-111.9310456",
+    "rating": "3.618749912808071",
+    "count": 29,
+    "address": "6952 E Main St, Scottsdale, AZ 85251",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Rocco's NY Pizza",
+    "state": "NV",
+    "latitude": "36.0639495849609",
+    "longitude": "-115.242599487305",
+    "rating": "3.617159992607563",
+    "count": 23,
+    "address": "6970 S Rainbow Blvd, Spring Valley, Las Vegas, NV 89118",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Lucio Ristorante",
+    "state": "NV",
+    "latitude": "36.1439209",
+    "longitude": "-115.2797227",
+    "rating": "3.615563298490128",
+    "count": 41,
+    "address": "8615 W Sahara Ave, Westside, Las Vegas, NV 89117",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "The Cove Trattoria",
+    "state": "AZ",
+    "latitude": "33.539463101157",
+    "longitude": "-111.924161911011",
+    "rating": "3.6076249321274583",
+    "count": 41,
+    "address": "7001 N Scottsdale Rd, Ste 184, Paradise Valley, AZ 85253",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Fatso's Pizza",
+    "state": "AZ",
+    "latitude": "33.6102008",
+    "longitude": "-112.0149317",
+    "rating": "3.604016064257028",
+    "count": 14,
+    "address": "3131 E Thunderbird Rd, Phoenix, AZ 85032",
+    "categories": ["Italian", "Pizza", "Salad", "Restaurants"
+    ]
+  },
+  {
+    "name": "Tomaso's",
+    "state": "AZ",
+    "latitude": "33.509787",
+    "longitude": "-112.011949",
+    "rating": "3.600249433106576",
+    "count": 35,
+    "address": "3225 E Camelback Rd, Phoenix, AZ 85018",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Lakeside Bar & Grill",
+    "state": "AZ",
+    "latitude": "33.7129792",
+    "longitude": "-112.2761916",
+    "rating": "3.5956228956228955",
+    "count": 18,
+    "address": "Lake Pleasant Towne Center, 9980 W Happy Valley Rd, Peoria, AZ 85383",
+    "categories": ["Burgers", "Italian", "American (New)", "Restaurants"
+    ]
+  },
+  {
+    "name": "Roma Grill",
+    "state": "NV",
+    "latitude": "36.0151363",
+    "longitude": "-115.1184733",
+    "rating": "3.595104895104895",
+    "count": 20,
+    "address": "9570 S Eastern Ave, Southeast, Henderson, NV 89123",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Distill - A Local Bar",
+    "state": "NV",
+    "latitude": "36.1606854895131",
+    "longitude": "-115.331591073059",
+    "rating": "3.5949346405228755",
+    "count": 15,
+    "address": "10820 W Charleston Blvd, Summerlin, Las Vegas, NV 89135",
+    "categories": ["Breakfast & Brunch", "Bars", "Restaurants", "Nightlife", "Italian"
+    ]
+  },
+  {
+    "name": "Basil Thai Fusion",
+    "state": "NV",
+    "latitude": "36.2377817298437",
+    "longitude": "-115.231436994751",
+    "rating": "3.5944444444444446",
+    "count": 6,
+    "address": "4341 N Rancho Dr, Northwest, Las Vegas, NV 89130",
+    "categories": ["Italian", "Thai", "American (New)", "Restaurants"
+    ]
+  },
+  {
+    "name": "Vincent's Famous Pizza & Restaurant",
+    "state": "AZ",
+    "latitude": "33.3193778991699",
+    "longitude": "-111.977874755859",
+    "rating": "3.5942857142857143",
+    "count": 7,
+    "address": "4905 East Ray Rd, Ste 104, Phoenix, AZ 85044",
+    "categories": ["Italian", "Pizza", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "Roma Deli II and Wine Shop",
+    "state": "NV",
+    "latitude": "36.1441379",
+    "longitude": "-115.2775151",
+    "rating": "3.592309797482211",
+    "count": 29,
+    "address": "8524 W Sahara Ave, Westside, Las Vegas, NV 89117",
+    "categories": ["Deli's", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Il Mulino",
+    "state": "NV",
+    "latitude": "36.1173435639371",
+    "longitude": "-115.173996070644",
+    "rating": "3.5906405174602263",
+    "count": 42,
+    "address": "The Forum Shops at Caesars Palace, 3500  Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Pier 54",
+    "state": "AZ",
+    "latitude": "33.3742118",
+    "longitude": "-111.9193401",
+    "rating": "3.5893939393939394",
+    "count": 11,
+    "address": "5394 S Lakeshore Dr, Tempe, AZ 85283",
+    "categories": ["Italian", "American (New)", "Restaurants"
+    ]
+  },
+  {
+    "name": "Glass Nickel Pizza",
+    "state": "WI",
+    "latitude": "43.075514737986",
+    "longitude": "-89.466670618609",
+    "rating": "3.588992604617604",
+    "count": 20,
+    "address": "5003 University Ave, Madison, WI 53705",
+    "categories": ["Italian", "Pizza", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "Dal Italia",
+    "state": "NV",
+    "latitude": "36.1149304",
+    "longitude": "-115.0709505",
+    "rating": "3.5869565217391304",
+    "count": 14,
+    "address": "4722 E Flamingo Rd, Eastside, Las Vegas, NV 89121",
+    "categories": ["Italian", "Pizza", "Chicken Wings", "Restaurants"
+    ]
+  },
+  {
+    "name": "North End Pizza",
+    "state": "NV",
+    "latitude": "36.2777317",
+    "longitude": "-115.2865776",
+    "rating": "3.5869246983230614",
+    "count": 22,
+    "address": "6440 N Durango Dr, Centennial, Las Vegas, NV 89149",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Panevino Deli",
+    "state": "NV",
+    "latitude": "36.070665",
+    "longitude": "-115.162336",
+    "rating": "3.586842105263159",
+    "count": 19,
+    "address": "246 Via Antonia Ave, Southeast, Las Vegas, NV 89119",
+    "categories": ["Deli's", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Humble Pie",
+    "state": "AZ",
+    "latitude": "33.677854",
+    "longitude": "-111.978579",
+    "rating": "3.584178204062475",
+    "count": 175,
+    "address": "21050 N Tatum Blvd, Phoenix, AZ 85050",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Romeo's Euro Cafe",
+    "state": "AZ",
+    "latitude": "33.3518",
+    "longitude": "-111.8036",
+    "rating": "3.581257203223958",
+    "count": 33,
+    "address": "207 N Gilbert Rd, Ste 105, Gilbert, AZ 85233",
+    "categories": ["Greek", "Italian", "Mediterranean", "Restaurants"
+    ]
+  },
+  {
+    "name": "Bambinis Pizzeria & Rotisserie",
+    "state": "NV",
+    "latitude": "36.2395594",
+    "longitude": "-115.1951173",
+    "rating": "3.578463321668189",
+    "count": 29,
+    "address": "4090 W Craig Rd, North Las Vegas, NV 89032",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Mezzo Bistro and Wine",
+    "state": "NV",
+    "latitude": "36.2371631",
+    "longitude": "-115.2311991",
+    "rating": "3.5762443149227665",
+    "count": 41,
+    "address": "4275 N Rancho Dr, Ste 130, Northwest, Las Vegas, NV 89130",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Rao's",
+    "state": "NV",
+    "latitude": "36.1163674508362",
+    "longitude": "-115.176439563057",
+    "rating": "3.575581708213996",
+    "count": 57,
+    "address": "Caesars Palace Las Vegas Hotel & Casino, 3570 Las Vegas Boulevard South, The Strip, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Luciano's",
+    "state": "NV",
+    "latitude": "36.1274245",
+    "longitude": "-115.170815",
+    "rating": "3.5749999999999997",
+    "count": 8,
+    "address": "Fashion Show Mall, 3200 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Amalfi Ristorante Italiano",
+    "state": "AZ",
+    "latitude": "33.2332474",
+    "longitude": "-111.8583223",
+    "rating": "3.5741300366300375",
+    "count": 26,
+    "address": "4991 S Alma School Rd, Ste 12, Chandler, AZ 85248",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Lorenzo's Pizza and Pasta",
+    "state": "AZ",
+    "latitude": "33.7019607",
+    "longitude": "-111.92528",
+    "rating": "3.5721709576972738",
+    "count": 19,
+    "address": "23623 N Scottsdale Rd, Scottsdale, AZ 85255",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Pellini Italian Eatery",
+    "state": "AZ",
+    "latitude": "33.626466",
+    "longitude": "-111.92453",
+    "rating": "3.57046876179939",
+    "count": 25,
+    "address": "15425 N Scottsdale Rd, Ste 100, Scottsdale, AZ 85254",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "VinciTorio's Restaurant",
+    "state": "AZ",
+    "latitude": "33.3482589",
+    "longitude": "-111.9088346",
+    "rating": "3.5691786928279376",
+    "count": 52,
+    "address": "1835 E Elliot Rd, Ste C109, Tempe, AZ 85284",
+    "categories": ["Restaurants", "Buffets", "Italian"
+    ]
+  },
+  {
+    "name": "Avanti",
+    "state": "AZ",
+    "latitude": "33.4804921",
+    "longitude": "-112.0221966",
+    "rating": "3.5682650318782163",
+    "count": 34,
+    "address": "2728 E Thomas Rd, Phoenix, AZ 85016",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Mac Shack",
+    "state": "NV",
+    "latitude": "36.158026",
+    "longitude": "-115.289113",
+    "rating": "3.567914368268979",
+    "count": 18,
+    "address": "8975 W Charleston Blvd, Ste 140, Westside, Las Vegas, NV 89117",
+    "categories": ["Restaurants", "Vegan", "Gluten-Free", "Italian"
+    ]
+  },
+  {
+    "name": "Grapes",
+    "state": "AZ",
+    "latitude": "33.581506",
+    "longitude": "-111.92342",
+    "rating": "3.5675833969951616",
+    "count": 17,
+    "address": "7337 E Shea Blvd, Ste 105, Scottsdale, AZ 85260",
+    "categories": ["Wine Bars", "Bars", "Restaurants", "Nightlife", "Italian"
+    ]
+  },
+  {
+    "name": "Osteria Papavero",
+    "state": "WI",
+    "latitude": "43.074138645779",
+    "longitude": "-89.379345444027",
+    "rating": "3.5650925801840425",
+    "count": 41,
+    "address": "128 E Wilson St, Capitol, Madison, WI 53703",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Sauce Pizza & WIne",
+    "state": "AZ",
+    "latitude": "33.5389948",
+    "longitude": "-112.0640088",
+    "rating": "3.562126413307695",
+    "count": 21,
+    "address": "742 E Glendale Ave, Phoenix, AZ 85020",
+    "categories": ["Nightlife", "Italian", "Pizza", "Bars", "Restaurants"
+    ]
+  },
+  {
+    "name": "Salute Ristorante Italiano",
+    "state": "AZ",
+    "latitude": "33.606332",
+    "longitude": "-112.066095",
+    "rating": "3.562103174603174",
+    "count": 28,
+    "address": "13226 N 7th St, Phoenix, AZ 85022",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Submarinos",
+    "state": "AZ",
+    "latitude": "33.553936",
+    "longitude": "-112.1697623",
+    "rating": "3.560714285714286",
+    "count": 14,
+    "address": "5124 W Northern Ave, Glendale, AZ 85301",
+    "categories": ["Italian", "Pizza", "Sandwiches", "Restaurants"
+    ]
+  },
+  {
+    "name": "Pasta Primo Italian Bistro",
+    "state": "AZ",
+    "latitude": "33.6071829",
+    "longitude": "-111.9403254",
+    "rating": "3.55",
+    "count": 11,
+    "address": "Scottsdale, AZ 85254",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Biaggi's Ristorante Italiano",
+    "state": "WI",
+    "latitude": "43.073277619846",
+    "longitude": "-89.52563919343",
+    "rating": "3.5486219336219333",
+    "count": 30,
+    "address": "Portofino Place, 601 Junction Rd, Junction Ridge, Madison, WI 53717",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Nora's Wine Bar and Osteria",
+    "state": "NV",
+    "latitude": "36.1602235",
+    "longitude": "-115.2915112",
+    "rating": "3.5481022632338424",
+    "count": 40,
+    "address": "1031 S Rampart Blvd, Westside, Las Vegas, NV 89145",
+    "categories": ["Wine Bars", "Bars", "Restaurants", "Nightlife", "Italian"
+    ]
+  },
+  {
+    "name": "Naya Mediterranean Cuisine",
+    "state": "AZ",
+    "latitude": "33.5659638975865",
+    "longitude": "-111.925033964217",
+    "rating": "3.5424107142857144",
+    "count": 16,
+    "address": "8877 N Scottsdale Rd, Ste 402, Scottsdale, AZ 85258",
+    "categories": ["Bars", "Mediterranean", "Cocktail Bars", "Nightlife", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Mia Francesca",
+    "state": "AZ",
+    "latitude": "33.6722463",
+    "longitude": "-111.890491",
+    "rating": "3.541328630217519",
+    "count": 27,
+    "address": "20825 N Pima Rd, Scottsdale, AZ 85255",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Prado",
+    "state": "AZ",
+    "latitude": "33.5288312",
+    "longitude": "-111.9730855",
+    "rating": "3.5327989215085993",
+    "count": 31,
+    "address": "Montelucia Resort & Spa, 4949 E Lincoln Dr, Paradise Valley, AZ 85253",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Pasta Pomodoro",
+    "state": "AZ",
+    "latitude": "33.6353186",
+    "longitude": "-111.9221127",
+    "rating": "3.53125",
+    "count": 16,
+    "address": "16255 N Scottsdale Rd, Scottsdale, AZ 85254",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Nick's Diner",
+    "state": "AZ",
+    "latitude": "33.6268195",
+    "longitude": "-112.3931425",
+    "rating": "3.5312008978675644",
+    "count": 18,
+    "address": "15693 N Reems Rd, Ste 113, Surprise, AZ 85374",
+    "categories": ["Greek", "Italian", "American (Traditional)", "Restaurants"
+    ]
+  },
+  {
+    "name": "Carmine's Italian Cafe",
+    "state": "NV",
+    "latitude": "36.2612231",
+    "longitude": "-115.180169",
+    "rating": "3.53030303030303",
+    "count": 11,
+    "address": "5585 Simmons Street, North Las Vegas, NV 89031",
+    "categories": ["Restaurants", "Pizza", "Italian"
+    ]
+  },
+  {
+    "name": "Garden Pizza",
+    "state": "AZ",
+    "latitude": "33.437771",
+    "longitude": "-112.42551",
+    "rating": "3.527972027972028",
+    "count": 11,
+    "address": "781 S Cotton Ln, Goodyear, AZ 85338",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Trevi",
+    "state": "NV",
+    "latitude": "36.1178395820154",
+    "longitude": "-115.17321825027501",
+    "rating": "3.527791479001062",
+    "count": 59,
+    "address": "The Forum Shops at Caesars, 3500 Las Vegas Blvd S, The Strip, Las Vegas, NV 89109",
+    "categories": ["Food", "Ice Cream & Frozen Yogurt", "Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Angelo's Pizza  Kitchen",
+    "state": "NV",
+    "latitude": "36.238501",
+    "longitude": "-115.224511",
+    "rating": "3.5277777777777772",
+    "count": 6,
+    "address": "5861 W Craig Rd, Northwest, Las Vegas, NV 89130",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "La Bona Pasta",
+    "state": "AZ",
+    "latitude": "33.4893166674295",
+    "longitude": "-112.349045276642",
+    "rating": "3.526078290848112",
+    "count": 26,
+    "address": "13321 W Indian School Rd, Litchfield Park, AZ 85340",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Trattoria Bianco",
+    "state": "AZ",
+    "latitude": "33.507425",
+    "longitude": "-112.0366323",
+    "rating": "3.525",
+    "count": 10,
+    "address": "4743 N 20th St, Phoenix, AZ 85016",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Vincent's",
+    "state": "AZ",
+    "latitude": "33.3193788",
+    "longitude": "-111.9778751",
+    "rating": "3.5233658008658004",
+    "count": 20,
+    "address": "4905 E Ray Rd, Ste 104, Phoenix, AZ 85044",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Luna Rossa",
+    "state": "NV",
+    "latitude": "36.1026491423865",
+    "longitude": "-114.930405790166",
+    "rating": "3.522515442074265",
+    "count": 60,
+    "address": "10 Via Bel Canto, Henderson, NV 89011",
+    "categories": ["Pizza", "Bars", "Restaurants", "Nightlife", "Italian"
+    ]
+  },
+  {
+    "name": "Dino's Greek and Italian Grill",
+    "state": "AZ",
+    "latitude": "33.463543",
+    "longitude": "-112.341878",
+    "rating": "3.5222222222222226",
+    "count": 19,
+    "address": "1550 N Dysart Rd, Ste B-8, Goodyear, AZ 85395",
+    "categories": ["Greek", "Restaurants", "Mediterranean", "Italian"
+    ]
+  },
+  {
+    "name": "Bravo Bistro",
+    "state": "AZ",
+    "latitude": "33.4992832",
+    "longitude": "-111.9259383",
+    "rating": "3.5178806700545833",
+    "count": 26,
+    "address": "4327 N Scottsdale Rd, Scottsdale, AZ 85251",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "La Piccola Cucina",
+    "state": "AZ",
+    "latitude": "33.472674",
+    "longitude": "-112.064752",
+    "rating": "3.5128154253154253",
+    "count": 36,
+    "address": "2241 N 7th St, Phoenix, AZ 85006",
+    "categories": ["Restaurants", "Mediterranean", "Italian"
+    ]
+  },
+  {
+    "name": "Il Posto",
+    "state": "AZ",
+    "latitude": "33.5754756",
+    "longitude": "-112.0651766",
+    "rating": "3.5054682933866284",
+    "count": 32,
+    "address": "9832 N 7th St, Phoenix, AZ 85020",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Picazzo's Organic Italian Kitchen",
+    "state": "AZ",
+    "latitude": "33.3350535",
+    "longitude": "-111.9445749",
+    "rating": "3.504478282075672",
+    "count": 93,
+    "address": "440 W Warner Rd, Tempe, AZ 85284",
+    "categories": ["Italian", "Pizza", "Restaurants"
+    ]
+  },
+  {
+    "name": "Alexi's Grill",
+    "state": "AZ",
+    "latitude": "33.489085",
+    "longitude": "-112.0740504",
+    "rating": "3.502063492063492",
+    "count": 20,
+    "address": "3550 N Central Ave, Phoenix, AZ 85012",
+    "categories": ["Restaurants", "Italian"
+    ]
+  },
+  {
+    "name": "Bice Bistro",
+    "state": "AZ",
+    "latitude": "33.531725",
+    "longitude": "-112.261226",
+    "rating": "3.5",
+    "count": 16,
+    "address": "6751 N Sunset Blvd, Glendale, AZ 85305",
+    "categories": ["Restaurants", "Italian"]
+  }
+]
